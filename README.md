@@ -1,6 +1,7 @@
-## [piotrekwitkowski.github.io](https://piotrekwitkowski.github.io)
+# Hey!
 
-This is my personal playground for Github Pages.
+- [songs](songs.md)
+- [quotes](QUOTES.md)
 
 ## 2021-05-16
 
