@@ -72,12 +72,15 @@ CITY_NORMALIZATIONS = {
     "Settimo M.se": "Settimo Milanese",
     "Col. Nuevo Repueblo": "Monterrey",
     # Duplicate spellings → canonical form
-    "Ernakulum": "Ernakulam",
     "Bhubaneshwar": "Bhubaneswar",
-    "Padova": "Padua",
+    "Ernakulum": "Ernakulam",
     "Firenze": "Florence",
-    "Venezia": "Venice",
     "Mérida": "Merida",
+    "Padova": "Padua",
+    "Venezia": "Venice",
+    # India: states → nearest city (state)
+    "Chandigarh": "Chandigarh (Haryana)",
+    "Haryana": "Chandigarh (Haryana)",
     # UK: orphaned/duplicate → parent city
     "Keynes": "Milton Keynes",
     "Middlesex": "London",
