@@ -55,7 +55,7 @@ function Shell() {
               viewBox="0 0 1600 500"
               style={{ maxWidth: 800, width: "100%", display: "block" }}
             >
-              <rect width="1600" height="500" fill="#0972D3" />
+              <rect width="1600" height="500" fill="rgb(0, 108, 224)" />
               <g
                 fontFamily='"Amazon Ember Display", "Open Sans", "Helvetica Neue", Roboto, Arial, sans-serif'
                 fill="#FFFFFF"
