@@ -63,6 +63,43 @@ def extract_text(pdf_path):
     return "\n".join(pages)
 
 
+CITY_NORMALIZATIONS = {
+    # Typos
+    "Aukland": "Auckland",
+    "Coimbtore": "Coimbatore",
+    # Abbreviations
+    "Settimo M.se": "Settimo Milanese",
+    "Col. Nuevo Repueblo": "Monterrey",
+    # Duplicate spellings → canonical form
+    "Ernakulum": "Ernakulam",
+    "Bhubaneshwar": "Bhubaneswar",
+    "Padova": "Padua",
+    "Firenze": "Florence",
+    "Venezia": "Venice",
+    "Mérida": "Merida",
+    "Berkshire": "Slough",
+    # Japanese "City" variants
+    "Fukuoka-City": "Fukuoka",
+    "Nagoya City": "Nagoya",
+    "Nisshin City": "Nisshin",
+    "Fukuoka-shi": "Fukuoka",
+}
+
+
+def title_case(s):
+    lower_words = {"de", "en", "da", "do", "dos", "das"}
+    parts = re.split(r"(\s+|-)", s)
+    result = []
+    for i, part in enumerate(parts):
+        if re.match(r"^\s+$", part) or part == "-":
+            result.append(part)
+        elif i > 0 and part.lower() in lower_words:
+            result.append(part.lower())
+        else:
+            result.append(part[0].upper() + part[1:].lower() if len(part) > 1 else part.upper())
+    return "".join(result)
+
+
 def parse_locations(text):
     """
     Parse the PDF text into a list of { city, country, country_code } entries.
@@ -91,6 +128,12 @@ def parse_locations(text):
             city = line.strip('"').strip()
             if not city:
                 continue
+            if city == city.upper() and len(city) > 1:
+                city = title_case(city)
+            city = re.sub(r"\s+MCN$", "", city)
+            if ", " in city:
+                city = city.split(", ")[-1]
+            city = CITY_NORMALIZATIONS.get(city, city)
             country_code = COUNTRY_CODES.get(current_country, "")
             locations.append({
                 "city": city,
@@ -102,8 +145,16 @@ def parse_locations(text):
         missing = unmapped - set(COUNTRY_CODES.keys())
         print(f"⚠ Unmapped countries (add to COUNTRY_CODES): {', '.join(sorted(missing))}")
 
-    locations.sort(key=lambda x: (x["country"], x["city"]))
-    return locations
+    seen = set()
+    deduped = []
+    for loc in locations:
+        key = (loc["country"], loc["city"])
+        if key not in seen:
+            seen.add(key)
+            deduped.append(loc)
+
+    deduped.sort(key=lambda x: (x["country"], x["city"]))
+    return deduped
 
 
 def diff_locations(old_locs, new_locs):
