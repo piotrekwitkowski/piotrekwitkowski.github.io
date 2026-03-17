@@ -102,17 +102,17 @@ function normaliseCloudping(raw) {
     const code = COUNTRY_CODES[country];
     if (country && !code) unmapped.add(country);
     return {
-      iata_code: loc.iata_code,
+      iata: loc.iata_code,
       city: loc.city ?? "",
       country,
       country_code: code ?? "",
-      active_nodes: (loc.active_nodes ?? []).map((n) => (typeof n === "string" ? n : n.code)).sort(),
+      nodes: (loc.active_nodes ?? []).map((n) => (typeof n === "string" ? n : n.code)).sort(),
     };
   });
   if (unmapped.size) {
     console.warn(`⚠ Unmapped countries (add to COUNTRY_CODES): ${[...unmapped].sort().join(", ")}`);
   }
-  return entries.sort((a, b) => a.iata_code.localeCompare(b.iata_code));
+  return entries.sort((a, b) => a.iata.localeCompare(b.iata));
 }
 
 /**
@@ -150,7 +150,7 @@ function extractAwsEdgeCodes(ipRanges) {
 
 function buildIndex(locations) {
   const map = new Map();
-  for (const loc of locations) map.set(loc.iata_code, loc);
+  for (const loc of locations) map.set(loc.iata, loc);
   return map;
 }
 
@@ -168,7 +168,7 @@ function diffLocations(oldLocs, newLocs) {
     } else {
       const old = oldMap.get(code);
       const diff = diffSingleLocation(old, loc);
-      if (diff) changed.push({ iata_code: code, ...diff });
+      if (diff) changed.push({ iata: code, ...diff });
     }
   }
 
@@ -190,10 +190,10 @@ function diffSingleLocation(old, cur) {
     }
   }
 
-  const oldNodes = new Set(old.active_nodes);
-  const newNodes = new Set(cur.active_nodes);
-  const nodesAdded = cur.active_nodes.filter((n) => !oldNodes.has(n));
-  const nodesRemoved = old.active_nodes.filter((n) => !newNodes.has(n));
+  const oldNodes = new Set(old.nodes);
+  const newNodes = new Set(cur.nodes);
+  const nodesAdded = cur.nodes.filter((n) => !oldNodes.has(n));
+  const nodesRemoved = old.nodes.filter((n) => !newNodes.has(n));
 
   if (nodesAdded.length || nodesRemoved.length) {
     diffs.nodes_added = nodesAdded;
@@ -212,7 +212,7 @@ function formatSummary(diff, warnings) {
   if (diff.added.length) {
     lines.push("### New locations\n");
     for (const loc of diff.added) {
-      lines.push(`- **${loc.iata_code}** — ${loc.city}, ${loc.country} (${loc.active_nodes.length} node(s))`);
+      lines.push(`- **${loc.iata}** — ${loc.city}, ${loc.country} (${loc.nodes.length} node(s))`);
     }
     lines.push("");
   }
@@ -220,7 +220,7 @@ function formatSummary(diff, warnings) {
   if (diff.removed.length) {
     lines.push("### Removed locations\n");
     for (const loc of diff.removed) {
-      lines.push(`- **${loc.iata_code}** — ${loc.city}, ${loc.country}`);
+      lines.push(`- **${loc.iata}** — ${loc.city}, ${loc.country}`);
     }
     lines.push("");
   }
@@ -234,7 +234,7 @@ function formatSummary(diff, warnings) {
       }
       if (ch.nodes_added?.length) parts.push(`nodes added: ${ch.nodes_added.join(", ")}`);
       if (ch.nodes_removed?.length) parts.push(`nodes removed: ${ch.nodes_removed.join(", ")}`);
-      lines.push(`- **${ch.iata_code}**: ${parts.join("; ")}`);
+      lines.push(`- **${ch.iata}**: ${parts.join("; ")}`);
     }
     lines.push("");
   }
@@ -281,7 +281,7 @@ async function main() {
   console.log(`Found ${awsCodes.size} unique CloudFront edge codes in AWS ip-ranges`);
 
   // 4. Cross-reference: find codes in AWS but missing from cloudping
-  const cloudpingCodes = new Set(freshLocations.map((l) => l.iata_code));
+  const cloudpingCodes = new Set(freshLocations.map((l) => l.iata));
   const missingFromCloudping = [...awsCodes].filter((code) => !cloudpingCodes.has(code));
 
   if (missingFromCloudping.length) {

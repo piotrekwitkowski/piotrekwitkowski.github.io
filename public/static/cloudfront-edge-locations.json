@@ -1,20 +1,20 @@
 [
   {
-    "iata_code": "AKL",
+    "iata": "AKL",
     "city": "Auckland",
     "country": "New Zealand",
     "country_code": "NZ",
-    "active_nodes": [
+    "nodes": [
       "AKL53-P1",
       "AKL53-P2"
     ]
   },
   {
-    "iata_code": "AMS",
+    "iata": "AMS",
     "city": "Amsterdam",
     "country": "Netherlands",
     "country_code": "NL",
-    "active_nodes": [
+    "nodes": [
       "AMS1-P3",
       "AMS58-P1",
       "AMS58-P2",
@@ -24,112 +24,112 @@
     ]
   },
   {
-    "iata_code": "ARN",
+    "iata": "ARN",
     "city": "Stockholm",
     "country": "Sweden",
     "country_code": "SE",
-    "active_nodes": [
+    "nodes": [
       "ARN53-P2",
       "ARN56-P1"
     ]
   },
   {
-    "iata_code": "ATH",
+    "iata": "ATH",
     "city": "Athens",
     "country": "Greece",
     "country_code": "GR",
-    "active_nodes": [
+    "nodes": [
       "ATH51-P1",
       "ATH51-P2"
     ]
   },
   {
-    "iata_code": "ATL",
+    "iata": "ATL",
     "city": "Atlanta, GA",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "ATL58-P1",
       "ATL58-P10",
       "ATL58-P11"
     ]
   },
   {
-    "iata_code": "BAH",
+    "iata": "BAH",
     "city": "Manama",
     "country": "Bahrain",
     "country_code": "BH",
-    "active_nodes": [
+    "nodes": [
       "BAH52-P1",
       "BAH52-P2",
       "BAH53-P2"
     ]
   },
   {
-    "iata_code": "BCN",
+    "iata": "BCN",
     "city": "Barcelona",
     "country": "Spain",
     "country_code": "ES",
-    "active_nodes": [
+    "nodes": [
       "BCN50-P1",
       "BCN50-P2"
     ]
   },
   {
-    "iata_code": "BKK",
+    "iata": "BKK",
     "city": "Bangkok",
     "country": "Thailand",
     "country_code": "TH",
-    "active_nodes": [
+    "nodes": [
       "BKK50-P2",
       "BKK50-P4"
     ]
   },
   {
-    "iata_code": "BLR",
+    "iata": "BLR",
     "city": "Bangalore",
     "country": "India",
     "country_code": "IN",
-    "active_nodes": [
+    "nodes": [
       "BLR50-P1",
       "BLR50-P3",
       "BLR50-P4"
     ]
   },
   {
-    "iata_code": "BNA",
+    "iata": "BNA",
     "city": "Nashville, TN",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "BNA50-P1",
       "BNA50-P2"
     ]
   },
   {
-    "iata_code": "BNE",
+    "iata": "BNE",
     "city": "Brisbane",
     "country": "Australia",
     "country_code": "AU",
-    "active_nodes": [
+    "nodes": [
       "BNE50-P2"
     ]
   },
   {
-    "iata_code": "BOG",
+    "iata": "BOG",
     "city": "Bogotá",
     "country": "Colombia",
     "country_code": "CO",
-    "active_nodes": [
+    "nodes": [
       "BOG50-P2"
     ]
   },
   {
-    "iata_code": "BOM",
+    "iata": "BOM",
     "city": "Mumbai",
     "country": "India",
     "country_code": "IN",
-    "active_nodes": [
+    "nodes": [
       "BOM54-P2",
       "BOM78-P11",
       "BOM78-P7",
@@ -137,83 +137,83 @@
     ]
   },
   {
-    "iata_code": "BOS",
+    "iata": "BOS",
     "city": "Boston, MA",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "BOS50-P5",
       "BOS50-P6"
     ]
   },
   {
-    "iata_code": "BRU",
+    "iata": "BRU",
     "city": "Brussels",
     "country": "Belgium",
     "country_code": "BE",
-    "active_nodes": [
+    "nodes": [
       "BRU50-P1",
       "BRU50-P2"
     ]
   },
   {
-    "iata_code": "BUD",
+    "iata": "BUD",
     "city": "Budapest",
     "country": "Hungary",
     "country_code": "HU",
-    "active_nodes": [
+    "nodes": [
       "BUD50-P1",
       "BUD50-P2"
     ]
   },
   {
-    "iata_code": "CAI",
+    "iata": "CAI",
     "city": "Cairo",
     "country": "Egypt",
     "country_code": "EG",
-    "active_nodes": [
+    "nodes": [
       "CAI50-P1",
       "CAI50-P2",
       "CAI50-P3"
     ]
   },
   {
-    "iata_code": "CCU",
+    "iata": "CCU",
     "city": "Kolkata",
     "country": "India",
     "country_code": "IN",
-    "active_nodes": [
+    "nodes": [
       "CCU50-P3",
       "CCU50-P6"
     ]
   },
   {
-    "iata_code": "CDG",
+    "iata": "CDG",
     "city": "Paris",
     "country": "France",
     "country_code": "FR",
-    "active_nodes": [
+    "nodes": [
       "CDG52-P3",
       "CDG54-P1"
     ]
   },
   {
-    "iata_code": "CGK",
+    "iata": "CGK",
     "city": "Jakarta",
     "country": "Indonesia",
     "country_code": "ID",
-    "active_nodes": [
+    "nodes": [
       "CGK50-P3",
       "CGK51-P2",
       "CGK51-P3"
     ]
   },
   {
-    "iata_code": "CMH",
+    "iata": "CMH",
     "city": "Columbus, OH",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "CMH68-P2",
       "CMH68-P4",
       "CMH68-P5",
@@ -221,30 +221,30 @@
     ]
   },
   {
-    "iata_code": "CPH",
+    "iata": "CPH",
     "city": "Copenhagen",
     "country": "Denmark",
     "country_code": "DK",
-    "active_nodes": [
+    "nodes": [
       "CPH50-P2"
     ]
   },
   {
-    "iata_code": "CPT",
+    "iata": "CPT",
     "city": "Cape Town",
     "country": "South Africa",
     "country_code": "ZA",
-    "active_nodes": [
+    "nodes": [
       "CPT51-P1",
       "CPT51-P2"
     ]
   },
   {
-    "iata_code": "DEL",
+    "iata": "DEL",
     "city": "New Delhi",
     "country": "India",
     "country_code": "IN",
-    "active_nodes": [
+    "nodes": [
       "DEL51-P6",
       "DEL51-P7",
       "DEL54-P1",
@@ -252,21 +252,21 @@
     ]
   },
   {
-    "iata_code": "DEN",
+    "iata": "DEN",
     "city": "Denver, CO",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "DEN52-P3",
       "DEN53-P4"
     ]
   },
   {
-    "iata_code": "DFW",
+    "iata": "DFW",
     "city": "Dallas/Fort Worth, TX",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "DFW56-P7",
       "DFW57-P2",
       "DFW57-P6",
@@ -274,40 +274,40 @@
     ]
   },
   {
-    "iata_code": "DOH",
+    "iata": "DOH",
     "city": "Doha",
     "country": "Qatar",
     "country_code": "QA",
-    "active_nodes": [
+    "nodes": [
       "DOH50-P2"
     ]
   },
   {
-    "iata_code": "DUB",
+    "iata": "DUB",
     "city": "Dublin",
     "country": "Ireland",
     "country_code": "IE",
-    "active_nodes": [
+    "nodes": [
       "DUB56-P1",
       "DUB56-P4"
     ]
   },
   {
-    "iata_code": "DUS",
+    "iata": "DUS",
     "city": "Düsseldorf",
     "country": "Germany",
     "country_code": "DE",
-    "active_nodes": [
+    "nodes": [
       "DUS51-P2",
       "DUS51-P6"
     ]
   },
   {
-    "iata_code": "DXB",
+    "iata": "DXB",
     "city": "Dubai",
     "country": "United Arab Emirates",
     "country_code": "AE",
-    "active_nodes": [
+    "nodes": [
       "DXB52-P1",
       "DXB52-P2",
       "DXB53-P1",
@@ -315,52 +315,52 @@
     ]
   },
   {
-    "iata_code": "EWR",
+    "iata": "EWR",
     "city": "Newark, NJ",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": []
+    "nodes": []
   },
   {
-    "iata_code": "EZE",
+    "iata": "EZE",
     "city": "Buenos Aires",
     "country": "Argentina",
     "country_code": "AR",
-    "active_nodes": [
+    "nodes": [
       "EZE50-P3"
     ]
   },
   {
-    "iata_code": "FCO",
+    "iata": "FCO",
     "city": "Rome",
     "country": "Italy",
     "country_code": "IT",
-    "active_nodes": [
+    "nodes": [
       "FCO50-P2"
     ]
   },
   {
-    "iata_code": "FJR",
+    "iata": "FJR",
     "city": "Fujairah",
     "country": "United Arab Emirates",
     "country_code": "AE",
-    "active_nodes": []
+    "nodes": []
   },
   {
-    "iata_code": "FOR",
+    "iata": "FOR",
     "city": "Fortaleza",
     "country": "Brazil",
     "country_code": "BR",
-    "active_nodes": [
+    "nodes": [
       "FOR50-P6"
     ]
   },
   {
-    "iata_code": "FRA",
+    "iata": "FRA",
     "city": "Frankfurt",
     "country": "Germany",
     "country_code": "DE",
-    "active_nodes": [
+    "nodes": [
       "FRA56-P12",
       "FRA56-P15",
       "FRA60-P1",
@@ -369,70 +369,70 @@
     ]
   },
   {
-    "iata_code": "GIG",
+    "iata": "GIG",
     "city": "Rio de Janeiro",
     "country": "Brazil",
     "country_code": "BR",
-    "active_nodes": [
+    "nodes": [
       "GIG52-P2"
     ]
   },
   {
-    "iata_code": "GRU",
+    "iata": "GRU",
     "city": "São Paulo",
     "country": "Brazil",
     "country_code": "BR",
-    "active_nodes": [
+    "nodes": [
       "GRU3-P10"
     ]
   },
   {
-    "iata_code": "HAM",
+    "iata": "HAM",
     "city": "Hamburg",
     "country": "Germany",
     "country_code": "DE",
-    "active_nodes": [
+    "nodes": [
       "HAM50-P1",
       "HAM50-P4",
       "HAM50-P6"
     ]
   },
   {
-    "iata_code": "HAN",
+    "iata": "HAN",
     "city": "Hanoi",
     "country": "Vietnam",
     "country_code": "VN",
-    "active_nodes": [
+    "nodes": [
       "HAN51-P1",
       "HAN51-P2"
     ]
   },
   {
-    "iata_code": "HEL",
+    "iata": "HEL",
     "city": "Helsinki",
     "country": "Finland",
     "country_code": "FI",
-    "active_nodes": [
+    "nodes": [
       "HEL51-P1",
       "HEL51-P3"
     ]
   },
   {
-    "iata_code": "HIO",
+    "iata": "HIO",
     "city": "Hillsboro, OR",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "HIO52-P2",
       "HIO52-P4"
     ]
   },
   {
-    "iata_code": "HKG",
+    "iata": "HKG",
     "city": "Hong Kong",
     "country": "China",
     "country_code": "CN",
-    "active_nodes": [
+    "nodes": [
       "HKG1-P1",
       "HKG1-P2",
       "HKG54-P2",
@@ -440,41 +440,41 @@
     ]
   },
   {
-    "iata_code": "HYD",
+    "iata": "HYD",
     "city": "Hyderabad",
     "country": "India",
     "country_code": "IN",
-    "active_nodes": [
+    "nodes": [
       "HYD57-P3"
     ]
   },
   {
-    "iata_code": "IAD",
+    "iata": "IAD",
     "city": "Ashburn, VA",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "IAD55-P10",
       "IAD61-P13",
       "IAD89-P3"
     ]
   },
   {
-    "iata_code": "IAH",
+    "iata": "IAH",
     "city": "Houston, TX",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "IAH50-P5",
       "IAH51-P1"
     ]
   },
   {
-    "iata_code": "ICN",
+    "iata": "ICN",
     "city": "Seoul",
     "country": "South Korea",
     "country_code": "KR",
-    "active_nodes": [
+    "nodes": [
       "ICN57-P5",
       "ICN57-P6",
       "ICN80-P1",
@@ -483,44 +483,44 @@
     ]
   },
   {
-    "iata_code": "IND",
+    "iata": "IND",
     "city": "South Bend, IN",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": []
+    "nodes": []
   },
   {
-    "iata_code": "IST",
+    "iata": "IST",
     "city": "Istanbul",
     "country": "Turkey",
     "country_code": "TR",
-    "active_nodes": [
+    "nodes": [
       "IST52-P1",
       "IST52-P2"
     ]
   },
   {
-    "iata_code": "JAX",
+    "iata": "JAX",
     "city": "Jacksonville, FL",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": []
+    "nodes": []
   },
   {
-    "iata_code": "JED",
+    "iata": "JED",
     "city": "Jeddah",
     "country": "Saudi Arabia",
     "country_code": "SA",
-    "active_nodes": [
+    "nodes": [
       "JED50-P5"
     ]
   },
   {
-    "iata_code": "JFK",
+    "iata": "JFK",
     "city": "New York, NY",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "JFK50-P12",
       "JFK50-P13",
       "JFK50-P6",
@@ -530,44 +530,44 @@
     ]
   },
   {
-    "iata_code": "JNB",
+    "iata": "JNB",
     "city": "Johannesburg",
     "country": "South Africa",
     "country_code": "ZA",
-    "active_nodes": [
+    "nodes": [
       "JNB51-P1",
       "JNB51-P2",
       "JNB51-P3"
     ]
   },
   {
-    "iata_code": "KIX",
+    "iata": "KIX",
     "city": "Osaka",
     "country": "Japan",
     "country_code": "JP",
-    "active_nodes": [
+    "nodes": [
       "KIX56-P2",
       "KIX82-P3",
       "KIX82-P4"
     ]
   },
   {
-    "iata_code": "KUL",
+    "iata": "KUL",
     "city": "Kuala Lumpur",
     "country": "Malaysia",
     "country_code": "MY",
-    "active_nodes": [
+    "nodes": [
       "KUL50-P2",
       "KUL51-P1",
       "KUL51-P2"
     ]
   },
   {
-    "iata_code": "LAX",
+    "iata": "LAX",
     "city": "Los Angeles, CA",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "LAX53-P1",
       "LAX53-P2",
       "LAX54-P11",
@@ -575,11 +575,11 @@
     ]
   },
   {
-    "iata_code": "LHR",
+    "iata": "LHR",
     "city": "London",
     "country": "United Kingdom",
     "country_code": "GB",
-    "active_nodes": [
+    "nodes": [
       "LHR3-P4",
       "LHR50-P2",
       "LHR50-P4",
@@ -587,111 +587,111 @@
     ]
   },
   {
-    "iata_code": "LIM",
+    "iata": "LIM",
     "city": "Lima",
     "country": "Peru",
     "country_code": "PE",
-    "active_nodes": [
+    "nodes": [
       "LIM50-P4"
     ]
   },
   {
-    "iata_code": "LIS",
+    "iata": "LIS",
     "city": "Lisbon",
     "country": "Portugal",
     "country_code": "PT",
-    "active_nodes": [
+    "nodes": [
       "LIS50-P2"
     ]
   },
   {
-    "iata_code": "LOS",
+    "iata": "LOS",
     "city": "Lagos",
     "country": "Nigeria",
     "country_code": "NG",
-    "active_nodes": [
+    "nodes": [
       "LOS50-P2",
       "LOS50-P3"
     ]
   },
   {
-    "iata_code": "MAA",
+    "iata": "MAA",
     "city": "Chennai",
     "country": "India",
     "country_code": "IN",
-    "active_nodes": [
+    "nodes": [
       "MAA50-P1",
       "MAA51-P1",
       "MAA51-P2"
     ]
   },
   {
-    "iata_code": "MAD",
+    "iata": "MAD",
     "city": "Madrid",
     "country": "Spain",
     "country_code": "ES",
-    "active_nodes": [
+    "nodes": [
       "MAD53-P7",
       "MAD56-P1"
     ]
   },
   {
-    "iata_code": "MAN",
+    "iata": "MAN",
     "city": "Manchester",
     "country": "United Kingdom",
     "country_code": "GB",
-    "active_nodes": [
+    "nodes": [
       "MAN51-P3",
       "MAN51-P5",
       "MAN51-P6"
     ]
   },
   {
-    "iata_code": "MCI",
+    "iata": "MCI",
     "city": "Kansas City, MO",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "MCI50-P2",
       "MCI50-P3",
       "MCI50-P4"
     ]
   },
   {
-    "iata_code": "MCT",
+    "iata": "MCT",
     "city": "Muscat",
     "country": "Oman",
     "country_code": "OM",
-    "active_nodes": [
+    "nodes": [
       "MCT50-P2",
       "MCT50-P3"
     ]
   },
   {
-    "iata_code": "MEL",
+    "iata": "MEL",
     "city": "Melbourne",
     "country": "Australia",
     "country_code": "AU",
-    "active_nodes": [
+    "nodes": [
       "MEL51-P2"
     ]
   },
   {
-    "iata_code": "MIA",
+    "iata": "MIA",
     "city": "Miami, FL",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "MIA3-P5",
       "MIA3-P7"
     ]
   },
   {
-    "iata_code": "MNL",
+    "iata": "MNL",
     "city": "Manila",
     "country": "Philippines",
     "country_code": "PH",
-    "active_nodes": [
+    "nodes": [
       "MNL51-P2",
       "MNL52-P1",
       "MNL52-P3",
@@ -699,44 +699,44 @@
     ]
   },
   {
-    "iata_code": "MRS",
+    "iata": "MRS",
     "city": "Marseille",
     "country": "France",
     "country_code": "FR",
-    "active_nodes": [
+    "nodes": [
       "MRS52-P3",
       "MRS52-P4",
       "MRS53-P3"
     ]
   },
   {
-    "iata_code": "MSP",
+    "iata": "MSP",
     "city": "Minneapolis, MN",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "MSP50-P1",
       "MSP50-P3",
       "MSP50-P4"
     ]
   },
   {
-    "iata_code": "MUC",
+    "iata": "MUC",
     "city": "Munich",
     "country": "Germany",
     "country_code": "DE",
-    "active_nodes": [
+    "nodes": [
       "MUC50-P1",
       "MUC50-P5",
       "MUC50-P7"
     ]
   },
   {
-    "iata_code": "MXP",
+    "iata": "MXP",
     "city": "Milan",
     "country": "Italy",
     "country_code": "IT",
-    "active_nodes": [
+    "nodes": [
       "MXP53-P1",
       "MXP53-P4",
       "MXP53-P8",
@@ -745,174 +745,174 @@
     ]
   },
   {
-    "iata_code": "NBO",
+    "iata": "NBO",
     "city": "Nairobi",
     "country": "Kenya",
     "country_code": "KE",
-    "active_nodes": [
+    "nodes": [
       "NBO50-P1",
       "NBO50-P2"
     ]
   },
   {
-    "iata_code": "NRT",
+    "iata": "NRT",
     "city": "Tokyo",
     "country": "Japan",
     "country_code": "JP",
-    "active_nodes": [
+    "nodes": [
       "NRT12-P5",
       "NRT20-P1",
       "NRT20-P3"
     ]
   },
   {
-    "iata_code": "ORD",
+    "iata": "ORD",
     "city": "Chicago, IL",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "ORD56-P15",
       "ORD58-P7"
     ]
   },
   {
-    "iata_code": "OSL",
+    "iata": "OSL",
     "city": "Oslo",
     "country": "Norway",
     "country_code": "NO",
-    "active_nodes": [
+    "nodes": [
       "OSL50-P1",
       "OSL50-P2",
       "OSL50-P3"
     ]
   },
   {
-    "iata_code": "OTP",
+    "iata": "OTP",
     "city": "Bucharest",
     "country": "Romania",
     "country_code": "RO",
-    "active_nodes": [
+    "nodes": [
       "OTP50-P1",
       "OTP50-P2",
       "OTP50-P3"
     ]
   },
   {
-    "iata_code": "PER",
+    "iata": "PER",
     "city": "Perth",
     "country": "Australia",
     "country_code": "AU",
-    "active_nodes": [
+    "nodes": [
       "PER50-P2"
     ]
   },
   {
-    "iata_code": "PHL",
+    "iata": "PHL",
     "city": "Philadelphia, PA",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "PHL51-P1",
       "PHL51-P3"
     ]
   },
   {
-    "iata_code": "PHX",
+    "iata": "PHX",
     "city": "Phoenix, AZ",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "PHX50-P1",
       "PHX52-P1",
       "PHX52-P2"
     ]
   },
   {
-    "iata_code": "PIT",
+    "iata": "PIT",
     "city": "Pittsburgh, PA",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "PIT50-P1",
       "PIT50-P2"
     ]
   },
   {
-    "iata_code": "PMO",
+    "iata": "PMO",
     "city": "Palermo",
     "country": "Italy",
     "country_code": "IT",
-    "active_nodes": []
+    "nodes": []
   },
   {
-    "iata_code": "PNQ",
+    "iata": "PNQ",
     "city": "Pune",
     "country": "India",
     "country_code": "IN",
-    "active_nodes": [
+    "nodes": [
       "PNQ50-P1",
       "PNQ50-P2",
       "PNQ50-P4"
     ]
   },
   {
-    "iata_code": "PRG",
+    "iata": "PRG",
     "city": "Prague",
     "country": "Czech Republic",
     "country_code": "CZ",
-    "active_nodes": [
+    "nodes": [
       "PRG50-P2"
     ]
   },
   {
-    "iata_code": "QRO",
+    "iata": "QRO",
     "city": "Querétaro",
     "country": "Mexico",
     "country_code": "MX",
-    "active_nodes": [
+    "nodes": [
       "QRO50-P2",
       "QRO51-P1",
       "QRO51-P6"
     ]
   },
   {
-    "iata_code": "RUH",
+    "iata": "RUH",
     "city": "Riyadh",
     "country": "Saudi Arabia",
     "country_code": "SA",
-    "active_nodes": [
+    "nodes": [
       "RUH50-P1",
       "RUH50-P2"
     ]
   },
   {
-    "iata_code": "SCL",
+    "iata": "SCL",
     "city": "Santiago",
     "country": "Chile",
     "country_code": "CL",
-    "active_nodes": [
+    "nodes": [
       "SCL51-P1",
       "SCL51-P3",
       "SCL51-P5"
     ]
   },
   {
-    "iata_code": "SEA",
+    "iata": "SEA",
     "city": "Seattle, WA",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "SEA73-P1",
       "SEA900-P1",
       "SEA900-P2"
     ]
   },
   {
-    "iata_code": "SFO",
+    "iata": "SFO",
     "city": "San Francisco, CA",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "SFO5-P1",
       "SFO53-P1",
       "SFO53-P10",
@@ -921,175 +921,175 @@
     ]
   },
   {
-    "iata_code": "SGN",
+    "iata": "SGN",
     "city": "Ho Chi Minh City",
     "country": "Vietnam",
     "country_code": "VN",
-    "active_nodes": [
+    "nodes": [
       "SGN50-P2",
       "SGN50-P3",
       "SGN50-P4"
     ]
   },
   {
-    "iata_code": "SIN",
+    "iata": "SIN",
     "city": "Singapore",
     "country": "Singapore",
     "country_code": "SG",
-    "active_nodes": [
+    "nodes": [
       "SIN2-P10",
       "SIN2-P9",
       "SIN3-P1"
     ]
   },
   {
-    "iata_code": "SLC",
+    "iata": "SLC",
     "city": "Salt Lake City, UT",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "SLC52-P1",
       "SLC52-P2"
     ]
   },
   {
-    "iata_code": "SOF",
+    "iata": "SOF",
     "city": "Sofia",
     "country": "Bulgaria",
     "country_code": "BG",
-    "active_nodes": [
+    "nodes": [
       "SOF50-P1",
       "SOF50-P2"
     ]
   },
   {
-    "iata_code": "SYD",
+    "iata": "SYD",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "AU",
-    "active_nodes": [
+    "nodes": [
       "SYD3-P3"
     ]
   },
   {
-    "iata_code": "TLV",
+    "iata": "TLV",
     "city": "Tel Aviv",
     "country": "Israel",
     "country_code": "IL",
-    "active_nodes": [
+    "nodes": [
       "TLV50-C1",
       "TLV55-P1"
     ]
   },
   {
-    "iata_code": "TPA",
+    "iata": "TPA",
     "city": "Tampa, FL",
     "country": "United States",
     "country_code": "US",
-    "active_nodes": [
+    "nodes": [
       "TPA52-P1",
       "TPA52-P2"
     ]
   },
   {
-    "iata_code": "TPE",
+    "iata": "TPE",
     "city": "Taipei, TW",
     "country": "China",
     "country_code": "CN",
-    "active_nodes": [
+    "nodes": [
       "TPE53-P1",
       "TPE53-P2",
       "TPE54-P1"
     ]
   },
   {
-    "iata_code": "TXL",
+    "iata": "TXL",
     "city": "Berlin",
     "country": "Germany",
     "country_code": "DE",
-    "active_nodes": [
+    "nodes": [
       "TXL50-P1",
       "TXL50-P6"
     ]
   },
   {
-    "iata_code": "VIE",
+    "iata": "VIE",
     "city": "Vienna",
     "country": "Austria",
     "country_code": "AT",
-    "active_nodes": [
+    "nodes": [
       "VIE50-P1",
       "VIE50-P3",
       "VIE50-P4"
     ]
   },
   {
-    "iata_code": "WAW",
+    "iata": "WAW",
     "city": "Warsaw",
     "country": "Poland",
     "country_code": "PL",
-    "active_nodes": [
+    "nodes": [
       "WAW51-P2",
       "WAW51-P4",
       "WAW51-P5"
     ]
   },
   {
-    "iata_code": "YTO",
+    "iata": "YTO",
     "city": "Toronto, ON",
     "country": "Canada",
     "country_code": "CA",
-    "active_nodes": [
+    "nodes": [
       "YTO50-P2",
       "YTO53-P2"
     ]
   },
   {
-    "iata_code": "YUL",
+    "iata": "YUL",
     "city": "Montréal, QC",
     "country": "Canada",
     "country_code": "CA",
-    "active_nodes": [
+    "nodes": [
       "YUL62-P1",
       "YUL62-P2",
       "YUL62-P4"
     ]
   },
   {
-    "iata_code": "YVR",
+    "iata": "YVR",
     "city": "Vancouver, BC",
     "country": "Canada",
     "country_code": "CA",
-    "active_nodes": [
+    "nodes": [
       "YVR52-P1",
       "YVR52-P2",
       "YVR52-P3"
     ]
   },
   {
-    "iata_code": "YYC",
+    "iata": "YYC",
     "city": "Calgary, AB",
     "country": "Canada",
     "country_code": "CA",
-    "active_nodes": [
+    "nodes": [
       "YYC51-P2"
     ]
   },
   {
-    "iata_code": "ZAG",
+    "iata": "ZAG",
     "city": "Zagreb",
     "country": "Croatia",
     "country_code": "HR",
-    "active_nodes": [
+    "nodes": [
       "ZAG50-C1"
     ]
   },
   {
-    "iata_code": "ZRH",
+    "iata": "ZRH",
     "city": "Zürich",
     "country": "Switzerland",
     "country_code": "CH",
-    "active_nodes": [
+    "nodes": [
       "ZRH52-P1"
     ]
   }
