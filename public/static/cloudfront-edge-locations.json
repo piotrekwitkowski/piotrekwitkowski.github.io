@@ -1,0 +1,1096 @@
+[
+  {
+    "iata_code": "AKL",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "active_nodes": [
+      "AKL53-P1",
+      "AKL53-P2"
+    ]
+  },
+  {
+    "iata_code": "AMS",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "active_nodes": [
+      "AMS1-P3",
+      "AMS58-P1",
+      "AMS58-P2",
+      "AMS58-P3",
+      "AMS58-P4",
+      "AMS58-P5"
+    ]
+  },
+  {
+    "iata_code": "ARN",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "country_code": "SE",
+    "active_nodes": [
+      "ARN53-P2",
+      "ARN56-P1"
+    ]
+  },
+  {
+    "iata_code": "ATH",
+    "city": "Athens",
+    "country": "Greece",
+    "country_code": "GR",
+    "active_nodes": [
+      "ATH51-P1",
+      "ATH51-P2"
+    ]
+  },
+  {
+    "iata_code": "ATL",
+    "city": "Atlanta, GA",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "ATL58-P1",
+      "ATL58-P10",
+      "ATL58-P11"
+    ]
+  },
+  {
+    "iata_code": "BAH",
+    "city": "Manama",
+    "country": "Bahrain",
+    "country_code": "BH",
+    "active_nodes": [
+      "BAH52-P1",
+      "BAH52-P2",
+      "BAH53-P2"
+    ]
+  },
+  {
+    "iata_code": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "country_code": "ES",
+    "active_nodes": [
+      "BCN50-P1",
+      "BCN50-P2"
+    ]
+  },
+  {
+    "iata_code": "BKK",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "country_code": "TH",
+    "active_nodes": [
+      "BKK50-P2",
+      "BKK50-P4"
+    ]
+  },
+  {
+    "iata_code": "BLR",
+    "city": "Bangalore",
+    "country": "India",
+    "country_code": "IN",
+    "active_nodes": [
+      "BLR50-P1",
+      "BLR50-P3",
+      "BLR50-P4"
+    ]
+  },
+  {
+    "iata_code": "BNA",
+    "city": "Nashville, TN",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "BNA50-P1",
+      "BNA50-P2"
+    ]
+  },
+  {
+    "iata_code": "BNE",
+    "city": "Brisbane",
+    "country": "Australia",
+    "country_code": "AU",
+    "active_nodes": [
+      "BNE50-P2"
+    ]
+  },
+  {
+    "iata_code": "BOG",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "country_code": "CO",
+    "active_nodes": [
+      "BOG50-P2"
+    ]
+  },
+  {
+    "iata_code": "BOM",
+    "city": "Mumbai",
+    "country": "India",
+    "country_code": "IN",
+    "active_nodes": [
+      "BOM54-P2",
+      "BOM78-P11",
+      "BOM78-P7",
+      "BOM78-P9"
+    ]
+  },
+  {
+    "iata_code": "BOS",
+    "city": "Boston, MA",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "BOS50-P5",
+      "BOS50-P6"
+    ]
+  },
+  {
+    "iata_code": "BRU",
+    "city": "Brussels",
+    "country": "Belgium",
+    "country_code": "BE",
+    "active_nodes": [
+      "BRU50-P1",
+      "BRU50-P2"
+    ]
+  },
+  {
+    "iata_code": "BUD",
+    "city": "Budapest",
+    "country": "Hungary",
+    "country_code": "HU",
+    "active_nodes": [
+      "BUD50-P1",
+      "BUD50-P2"
+    ]
+  },
+  {
+    "iata_code": "CAI",
+    "city": "Cairo",
+    "country": "Egypt",
+    "country_code": "EG",
+    "active_nodes": [
+      "CAI50-P1",
+      "CAI50-P2",
+      "CAI50-P3"
+    ]
+  },
+  {
+    "iata_code": "CCU",
+    "city": "Kolkata",
+    "country": "India",
+    "country_code": "IN",
+    "active_nodes": [
+      "CCU50-P3",
+      "CCU50-P6"
+    ]
+  },
+  {
+    "iata_code": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "country_code": "FR",
+    "active_nodes": [
+      "CDG52-P3",
+      "CDG54-P1"
+    ]
+  },
+  {
+    "iata_code": "CGK",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "active_nodes": [
+      "CGK50-P3",
+      "CGK51-P2",
+      "CGK51-P3"
+    ]
+  },
+  {
+    "iata_code": "CMH",
+    "city": "Columbus, OH",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "CMH68-P2",
+      "CMH68-P4",
+      "CMH68-P5",
+      "CMH68-P7"
+    ]
+  },
+  {
+    "iata_code": "CPH",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "country_code": "DK",
+    "active_nodes": [
+      "CPH50-P2"
+    ]
+  },
+  {
+    "iata_code": "CPT",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "active_nodes": [
+      "CPT51-P1",
+      "CPT51-P2"
+    ]
+  },
+  {
+    "iata_code": "DEL",
+    "city": "New Delhi",
+    "country": "India",
+    "country_code": "IN",
+    "active_nodes": [
+      "DEL51-P6",
+      "DEL51-P7",
+      "DEL54-P1",
+      "DEL54-P4"
+    ]
+  },
+  {
+    "iata_code": "DEN",
+    "city": "Denver, CO",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "DEN52-P3",
+      "DEN53-P4"
+    ]
+  },
+  {
+    "iata_code": "DFW",
+    "city": "Dallas/Fort Worth, TX",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "DFW56-P7",
+      "DFW57-P2",
+      "DFW57-P6",
+      "DFW59-P8"
+    ]
+  },
+  {
+    "iata_code": "DOH",
+    "city": "Doha",
+    "country": "Qatar",
+    "country_code": "QA",
+    "active_nodes": [
+      "DOH50-P2"
+    ]
+  },
+  {
+    "iata_code": "DUB",
+    "city": "Dublin",
+    "country": "Ireland",
+    "country_code": "IE",
+    "active_nodes": [
+      "DUB56-P1",
+      "DUB56-P4"
+    ]
+  },
+  {
+    "iata_code": "DUS",
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "country_code": "DE",
+    "active_nodes": [
+      "DUS51-P2",
+      "DUS51-P6"
+    ]
+  },
+  {
+    "iata_code": "DXB",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "active_nodes": [
+      "DXB52-P1",
+      "DXB52-P2",
+      "DXB53-P1",
+      "DXB53-P3"
+    ]
+  },
+  {
+    "iata_code": "EWR",
+    "city": "Newark, NJ",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": []
+  },
+  {
+    "iata_code": "EZE",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "country_code": "AR",
+    "active_nodes": [
+      "EZE50-P3"
+    ]
+  },
+  {
+    "iata_code": "FCO",
+    "city": "Rome",
+    "country": "Italy",
+    "country_code": "IT",
+    "active_nodes": [
+      "FCO50-P2"
+    ]
+  },
+  {
+    "iata_code": "FJR",
+    "city": "Fujairah",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "active_nodes": []
+  },
+  {
+    "iata_code": "FOR",
+    "city": "Fortaleza",
+    "country": "Brazil",
+    "country_code": "BR",
+    "active_nodes": [
+      "FOR50-P6"
+    ]
+  },
+  {
+    "iata_code": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE",
+    "active_nodes": [
+      "FRA56-P12",
+      "FRA56-P15",
+      "FRA60-P1",
+      "FRA60-P10",
+      "FRA60-P12"
+    ]
+  },
+  {
+    "iata_code": "GIG",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "country_code": "BR",
+    "active_nodes": [
+      "GIG52-P2"
+    ]
+  },
+  {
+    "iata_code": "GRU",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "country_code": "BR",
+    "active_nodes": [
+      "GRU3-P10"
+    ]
+  },
+  {
+    "iata_code": "HAM",
+    "city": "Hamburg",
+    "country": "Germany",
+    "country_code": "DE",
+    "active_nodes": [
+      "HAM50-P1",
+      "HAM50-P4",
+      "HAM50-P6"
+    ]
+  },
+  {
+    "iata_code": "HAN",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "active_nodes": [
+      "HAN51-P1",
+      "HAN51-P2"
+    ]
+  },
+  {
+    "iata_code": "HEL",
+    "city": "Helsinki",
+    "country": "Finland",
+    "country_code": "FI",
+    "active_nodes": [
+      "HEL51-P1",
+      "HEL51-P3"
+    ]
+  },
+  {
+    "iata_code": "HIO",
+    "city": "Hillsboro, OR",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "HIO52-P2",
+      "HIO52-P4"
+    ]
+  },
+  {
+    "iata_code": "HKG",
+    "city": "Hong Kong",
+    "country": "China",
+    "country_code": "CN",
+    "active_nodes": [
+      "HKG1-P1",
+      "HKG1-P2",
+      "HKG54-P2",
+      "HKG62-P1"
+    ]
+  },
+  {
+    "iata_code": "HYD",
+    "city": "Hyderabad",
+    "country": "India",
+    "country_code": "IN",
+    "active_nodes": [
+      "HYD57-P3"
+    ]
+  },
+  {
+    "iata_code": "IAD",
+    "city": "Ashburn, VA",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "IAD55-P10",
+      "IAD61-P13",
+      "IAD89-P3"
+    ]
+  },
+  {
+    "iata_code": "IAH",
+    "city": "Houston, TX",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "IAH50-P5",
+      "IAH51-P1"
+    ]
+  },
+  {
+    "iata_code": "ICN",
+    "city": "Seoul",
+    "country": "South Korea",
+    "country_code": "KR",
+    "active_nodes": [
+      "ICN57-P5",
+      "ICN57-P6",
+      "ICN80-P1",
+      "ICN80-P3",
+      "ICN80-P4"
+    ]
+  },
+  {
+    "iata_code": "IND",
+    "city": "South Bend, IN",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": []
+  },
+  {
+    "iata_code": "IST",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "country_code": "TR",
+    "active_nodes": [
+      "IST52-P1",
+      "IST52-P2"
+    ]
+  },
+  {
+    "iata_code": "JAX",
+    "city": "Jacksonville, FL",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": []
+  },
+  {
+    "iata_code": "JED",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "active_nodes": [
+      "JED50-P5"
+    ]
+  },
+  {
+    "iata_code": "JFK",
+    "city": "New York, NY",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "JFK50-P12",
+      "JFK50-P13",
+      "JFK50-P6",
+      "JFK50-P7",
+      "JFK52-P8",
+      "JFK52-P9"
+    ]
+  },
+  {
+    "iata_code": "JNB",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "active_nodes": [
+      "JNB51-P1",
+      "JNB51-P2",
+      "JNB51-P3"
+    ]
+  },
+  {
+    "iata_code": "KIX",
+    "city": "Osaka",
+    "country": "Japan",
+    "country_code": "JP",
+    "active_nodes": [
+      "KIX56-P2",
+      "KIX82-P3",
+      "KIX82-P4"
+    ]
+  },
+  {
+    "iata_code": "KUL",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "active_nodes": [
+      "KUL50-P2",
+      "KUL51-P1",
+      "KUL51-P2"
+    ]
+  },
+  {
+    "iata_code": "LAX",
+    "city": "Los Angeles, CA",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "LAX53-P1",
+      "LAX53-P2",
+      "LAX54-P11",
+      "LAX54-P9"
+    ]
+  },
+  {
+    "iata_code": "LHR",
+    "city": "London",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "active_nodes": [
+      "LHR3-P4",
+      "LHR50-P2",
+      "LHR50-P4",
+      "LHR86-P2"
+    ]
+  },
+  {
+    "iata_code": "LIM",
+    "city": "Lima",
+    "country": "Peru",
+    "country_code": "PE",
+    "active_nodes": [
+      "LIM50-P4"
+    ]
+  },
+  {
+    "iata_code": "LIS",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "country_code": "PT",
+    "active_nodes": [
+      "LIS50-P2"
+    ]
+  },
+  {
+    "iata_code": "LOS",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "active_nodes": [
+      "LOS50-P2",
+      "LOS50-P3"
+    ]
+  },
+  {
+    "iata_code": "MAA",
+    "city": "Chennai",
+    "country": "India",
+    "country_code": "IN",
+    "active_nodes": [
+      "MAA50-P1",
+      "MAA51-P1",
+      "MAA51-P2"
+    ]
+  },
+  {
+    "iata_code": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "country_code": "ES",
+    "active_nodes": [
+      "MAD53-P7",
+      "MAD56-P1"
+    ]
+  },
+  {
+    "iata_code": "MAN",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "active_nodes": [
+      "MAN51-P3",
+      "MAN51-P5",
+      "MAN51-P6"
+    ]
+  },
+  {
+    "iata_code": "MCI",
+    "city": "Kansas City, MO",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "MCI50-P2",
+      "MCI50-P3",
+      "MCI50-P4"
+    ]
+  },
+  {
+    "iata_code": "MCT",
+    "city": "Muscat",
+    "country": "Oman",
+    "country_code": "OM",
+    "active_nodes": [
+      "MCT50-P2",
+      "MCT50-P3"
+    ]
+  },
+  {
+    "iata_code": "MEL",
+    "city": "Melbourne",
+    "country": "Australia",
+    "country_code": "AU",
+    "active_nodes": [
+      "MEL51-P2"
+    ]
+  },
+  {
+    "iata_code": "MIA",
+    "city": "Miami, FL",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "MIA3-P5",
+      "MIA3-P7"
+    ]
+  },
+  {
+    "iata_code": "MNL",
+    "city": "Manila",
+    "country": "Philippines",
+    "country_code": "PH",
+    "active_nodes": [
+      "MNL51-P2",
+      "MNL52-P1",
+      "MNL52-P3",
+      "MNL52-P4"
+    ]
+  },
+  {
+    "iata_code": "MRS",
+    "city": "Marseille",
+    "country": "France",
+    "country_code": "FR",
+    "active_nodes": [
+      "MRS52-P3",
+      "MRS52-P4",
+      "MRS53-P3"
+    ]
+  },
+  {
+    "iata_code": "MSP",
+    "city": "Minneapolis, MN",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "MSP50-P1",
+      "MSP50-P3",
+      "MSP50-P4"
+    ]
+  },
+  {
+    "iata_code": "MUC",
+    "city": "Munich",
+    "country": "Germany",
+    "country_code": "DE",
+    "active_nodes": [
+      "MUC50-P1",
+      "MUC50-P5",
+      "MUC50-P7"
+    ]
+  },
+  {
+    "iata_code": "MXP",
+    "city": "Milan",
+    "country": "Italy",
+    "country_code": "IT",
+    "active_nodes": [
+      "MXP53-P1",
+      "MXP53-P4",
+      "MXP53-P8",
+      "MXP63-P6",
+      "MXP63-P8"
+    ]
+  },
+  {
+    "iata_code": "NBO",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "country_code": "KE",
+    "active_nodes": [
+      "NBO50-P1",
+      "NBO50-P2"
+    ]
+  },
+  {
+    "iata_code": "NRT",
+    "city": "Tokyo",
+    "country": "Japan",
+    "country_code": "JP",
+    "active_nodes": [
+      "NRT12-P5",
+      "NRT20-P1",
+      "NRT20-P3"
+    ]
+  },
+  {
+    "iata_code": "ORD",
+    "city": "Chicago, IL",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "ORD56-P15",
+      "ORD58-P7"
+    ]
+  },
+  {
+    "iata_code": "OSL",
+    "city": "Oslo",
+    "country": "Norway",
+    "country_code": "NO",
+    "active_nodes": [
+      "OSL50-P1",
+      "OSL50-P2",
+      "OSL50-P3"
+    ]
+  },
+  {
+    "iata_code": "OTP",
+    "city": "Bucharest",
+    "country": "Romania",
+    "country_code": "RO",
+    "active_nodes": [
+      "OTP50-P1",
+      "OTP50-P2",
+      "OTP50-P3"
+    ]
+  },
+  {
+    "iata_code": "PER",
+    "city": "Perth",
+    "country": "Australia",
+    "country_code": "AU",
+    "active_nodes": [
+      "PER50-P2"
+    ]
+  },
+  {
+    "iata_code": "PHL",
+    "city": "Philadelphia, PA",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "PHL51-P1",
+      "PHL51-P3"
+    ]
+  },
+  {
+    "iata_code": "PHX",
+    "city": "Phoenix, AZ",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "PHX50-P1",
+      "PHX52-P1",
+      "PHX52-P2"
+    ]
+  },
+  {
+    "iata_code": "PIT",
+    "city": "Pittsburgh, PA",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "PIT50-P1",
+      "PIT50-P2"
+    ]
+  },
+  {
+    "iata_code": "PMO",
+    "city": "Palermo",
+    "country": "Italy",
+    "country_code": "IT",
+    "active_nodes": []
+  },
+  {
+    "iata_code": "PNQ",
+    "city": "Pune",
+    "country": "India",
+    "country_code": "IN",
+    "active_nodes": [
+      "PNQ50-P1",
+      "PNQ50-P2",
+      "PNQ50-P4"
+    ]
+  },
+  {
+    "iata_code": "PRG",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "active_nodes": [
+      "PRG50-P2"
+    ]
+  },
+  {
+    "iata_code": "QRO",
+    "city": "Querétaro",
+    "country": "Mexico",
+    "country_code": "MX",
+    "active_nodes": [
+      "QRO50-P2",
+      "QRO51-P1",
+      "QRO51-P6"
+    ]
+  },
+  {
+    "iata_code": "RUH",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "active_nodes": [
+      "RUH50-P1",
+      "RUH50-P2"
+    ]
+  },
+  {
+    "iata_code": "SCL",
+    "city": "Santiago",
+    "country": "Chile",
+    "country_code": "CL",
+    "active_nodes": [
+      "SCL51-P1",
+      "SCL51-P3",
+      "SCL51-P5"
+    ]
+  },
+  {
+    "iata_code": "SEA",
+    "city": "Seattle, WA",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "SEA73-P1",
+      "SEA900-P1",
+      "SEA900-P2"
+    ]
+  },
+  {
+    "iata_code": "SFO",
+    "city": "San Francisco, CA",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "SFO5-P1",
+      "SFO53-P1",
+      "SFO53-P10",
+      "SFO53-P5",
+      "SFO53-P9"
+    ]
+  },
+  {
+    "iata_code": "SGN",
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "active_nodes": [
+      "SGN50-P2",
+      "SGN50-P3",
+      "SGN50-P4"
+    ]
+  },
+  {
+    "iata_code": "SIN",
+    "city": "Singapore",
+    "country": "Singapore",
+    "country_code": "SG",
+    "active_nodes": [
+      "SIN2-P10",
+      "SIN2-P9",
+      "SIN3-P1"
+    ]
+  },
+  {
+    "iata_code": "SLC",
+    "city": "Salt Lake City, UT",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "SLC52-P1",
+      "SLC52-P2"
+    ]
+  },
+  {
+    "iata_code": "SOF",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "active_nodes": [
+      "SOF50-P1",
+      "SOF50-P2"
+    ]
+  },
+  {
+    "iata_code": "SYD",
+    "city": "Sydney",
+    "country": "Australia",
+    "country_code": "AU",
+    "active_nodes": [
+      "SYD3-P3"
+    ]
+  },
+  {
+    "iata_code": "TLV",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "country_code": "IL",
+    "active_nodes": [
+      "TLV50-C1",
+      "TLV55-P1"
+    ]
+  },
+  {
+    "iata_code": "TPA",
+    "city": "Tampa, FL",
+    "country": "United States",
+    "country_code": "US",
+    "active_nodes": [
+      "TPA52-P1",
+      "TPA52-P2"
+    ]
+  },
+  {
+    "iata_code": "TPE",
+    "city": "Taipei, TW",
+    "country": "China",
+    "country_code": "CN",
+    "active_nodes": [
+      "TPE53-P1",
+      "TPE53-P2",
+      "TPE54-P1"
+    ]
+  },
+  {
+    "iata_code": "TXL",
+    "city": "Berlin",
+    "country": "Germany",
+    "country_code": "DE",
+    "active_nodes": [
+      "TXL50-P1",
+      "TXL50-P6"
+    ]
+  },
+  {
+    "iata_code": "VIE",
+    "city": "Vienna",
+    "country": "Austria",
+    "country_code": "AT",
+    "active_nodes": [
+      "VIE50-P1",
+      "VIE50-P3",
+      "VIE50-P4"
+    ]
+  },
+  {
+    "iata_code": "WAW",
+    "city": "Warsaw",
+    "country": "Poland",
+    "country_code": "PL",
+    "active_nodes": [
+      "WAW51-P2",
+      "WAW51-P4",
+      "WAW51-P5"
+    ]
+  },
+  {
+    "iata_code": "YTO",
+    "city": "Toronto, ON",
+    "country": "Canada",
+    "country_code": "CA",
+    "active_nodes": [
+      "YTO50-P2",
+      "YTO53-P2"
+    ]
+  },
+  {
+    "iata_code": "YUL",
+    "city": "Montréal, QC",
+    "country": "Canada",
+    "country_code": "CA",
+    "active_nodes": [
+      "YUL62-P1",
+      "YUL62-P2",
+      "YUL62-P4"
+    ]
+  },
+  {
+    "iata_code": "YVR",
+    "city": "Vancouver, BC",
+    "country": "Canada",
+    "country_code": "CA",
+    "active_nodes": [
+      "YVR52-P1",
+      "YVR52-P2",
+      "YVR52-P3"
+    ]
+  },
+  {
+    "iata_code": "YYC",
+    "city": "Calgary, AB",
+    "country": "Canada",
+    "country_code": "CA",
+    "active_nodes": [
+      "YYC51-P2"
+    ]
+  },
+  {
+    "iata_code": "ZAG",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "country_code": "HR",
+    "active_nodes": [
+      "ZAG50-C1"
+    ]
+  },
+  {
+    "iata_code": "ZRH",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "active_nodes": [
+      "ZRH52-P1"
+    ]
+  }
+]
