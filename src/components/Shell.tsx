@@ -30,14 +30,16 @@ function Shell() {
         <SideNavigation
           header={{ text: "Piotrek's Toolbox", href: "/" }}
           items={[
-            ...(TOOLS.length > 0
-              ? TOOLS.map((t) => ({
-                  type: "link" as const,
-                  text: t.text,
-                  href: t.href,
-                }))
-              : [{ type: "link" as const, text: "Home", href: "/" }]),
+            {
+              type: "section" as const,
+              text: "CloudFront",
+              items: [
+                { type: "link" as const, text: "CloudFront", href: "/cloudfront" },
+                { type: "link" as const, text: "Latency Simulator", href: "/edge-latency" },
+              ],
+            },
             { type: "divider" as const },
+            { type: "link" as const, text: "Datasets", href: "/datasets" },
             {
               type: "link" as const,
               text: "Source",
@@ -47,6 +49,7 @@ function Shell() {
           ]}
         />
       }
+      maxContentWidth={Number.MAX_SAFE_INTEGER}
       toolsHide
       content={
         <ContentLayout>

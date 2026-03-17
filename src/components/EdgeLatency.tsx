@@ -13,7 +13,6 @@ import {
   FormField,
   Input,
   Spinner,
-  StatusIndicator,
   ColumnLayout,
   Alert,
 } from "@cloudscape-design/components";
@@ -25,8 +24,7 @@ const TOOLS = [
 ];
 
 interface Pop {
-  code: string;
-  iataCode: string;
+  iata: string;
   city: string;
   country: string;
   countryCode: string;
@@ -49,7 +47,7 @@ interface EdgeLocation {
 }
 
 interface TableRow {
-  iataCode: string;
+  iata: string;
   city: string;
   country: string;
   recRegion: string;
@@ -209,9 +207,9 @@ function EdgeLatency() {
     return data.pops
       .map((pop) => {
         const { region, ttfb } = routePop(pop, selectedRegions);
-        const loc = locationMap.get(pop.iataCode);
+        const loc = locationMap.get(pop.iata);
         return {
-          iataCode: pop.iataCode,
+          iata: pop.iata,
           city: loc?.city ?? pop.city,
           country: loc?.country ?? pop.country,
           recRegion: pop.recRegion,
@@ -312,10 +310,10 @@ function EdgeLatency() {
             sortingField: "city",
           },
           {
-            id: "iataCode",
-            header: "POP",
-            cell: (item: TableRow) => item.iataCode,
-            sortingField: "iataCode",
+              id: "iata",
+              header: "IATA",
+              cell: (item: TableRow) => item.iata,
+              sortingField: "iata",
           },
           {
             id: "recRegion",
@@ -334,19 +332,6 @@ function EdgeLatency() {
             header: "TTFB (ms)",
             cell: (item: TableRow) => item.ttfb,
             sortingField: "ttfb",
-          },
-          {
-            id: "status",
-            header: "Status",
-            cell: (item: TableRow) => {
-              if (item.ttfb <= ttfbTarget) {
-                return <StatusIndicator type="success">OK</StatusIndicator>;
-              }
-              if (item.ttfb <= ttfbTarget * 1.5) {
-                return <StatusIndicator type="warning">Slow</StatusIndicator>;
-              }
-              return <StatusIndicator type="error">Over</StatusIndicator>;
-            },
           },
         ]}
         items={sortedRows}
@@ -377,12 +362,16 @@ function EdgeLatency() {
             activeHref="/edge-latency"
             header={{ text: "Piotrek's Toolbox", href: "/" }}
             items={[
-              ...TOOLS.map((t) => ({
-                type: "link" as const,
-                text: t.text,
-                href: t.href,
-              })),
+              {
+                type: "section" as const,
+                text: "CloudFront",
+                items: [
+                  { type: "link" as const, text: "CloudFront", href: "/cloudfront" },
+                  { type: "link" as const, text: "Latency Simulator", href: "/edge-latency" },
+                ],
+              },
               { type: "divider" as const },
+              { type: "link" as const, text: "Datasets", href: "/datasets" },
               {
                 type: "link" as const,
                 text: "Source",

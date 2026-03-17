@@ -57,12 +57,16 @@ function Datasets() {
           activeHref="/datasets"
           header={{ text: "Piotrek's Toolbox", href: "/" }}
           items={[
-            ...TOOLS.map((t) => ({
-              type: "link" as const,
-              text: t.text,
-              href: t.href,
-            })),
+            {
+              type: "section" as const,
+              text: "CloudFront",
+              items: [
+                { type: "link" as const, text: "CloudFront", href: "/cloudfront" },
+                { type: "link" as const, text: "Latency Simulator", href: "/edge-latency" },
+              ],
+            },
             { type: "divider" as const },
+            { type: "link" as const, text: "Datasets", href: "/datasets" },
             {
               type: "link" as const,
               text: "Source",

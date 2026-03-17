@@ -12,8 +12,7 @@
   ],
   "pops": [
     {
-      "code": "AKL53",
-      "iataCode": "AKL",
+      "iata": "AKL",
       "city": "Auckland",
       "country": "New Zealand",
       "countryCode": "NZ",
@@ -30,8 +29,7 @@
       }
     },
     {
-      "code": "AMS1",
-      "iataCode": "AMS",
+      "iata": "AMS",
       "city": "Amsterdam",
       "country": "Netherlands",
       "countryCode": "NL",
@@ -48,8 +46,7 @@
       }
     },
     {
-      "code": "ARN53",
-      "iataCode": "ARN",
+      "iata": "ARN",
       "city": "Stockholm",
       "country": "Sweden",
       "countryCode": "SE",
@@ -66,8 +63,7 @@
       }
     },
     {
-      "code": "ATH51",
-      "iataCode": "ATH",
+      "iata": "ATH",
       "city": "Athens",
       "country": "Greece",
       "countryCode": "GR",
@@ -84,8 +80,7 @@
       }
     },
     {
-      "code": "ATL58",
-      "iataCode": "ATL",
+      "iata": "ATL",
       "city": "Atlanta, GA",
       "country": "United States",
       "countryCode": "US",
@@ -102,8 +97,7 @@
       }
     },
     {
-      "code": "BAH52",
-      "iataCode": "BAH",
+      "iata": "BAH",
       "city": "Manama",
       "country": "Bahrain",
       "countryCode": "BH",
@@ -120,8 +114,7 @@
       }
     },
     {
-      "code": "BCN50",
-      "iataCode": "BCN",
+      "iata": "BCN",
       "city": "Barcelona",
       "country": "Spain",
       "countryCode": "ES",
@@ -138,8 +131,7 @@
       }
     },
     {
-      "code": "BKK50",
-      "iataCode": "BKK",
+      "iata": "BKK",
       "city": "Bangkok",
       "country": "Thailand",
       "countryCode": "TH",
@@ -156,8 +148,7 @@
       }
     },
     {
-      "code": "BLR50",
-      "iataCode": "BLR",
+      "iata": "BLR",
       "city": "Bangalore",
       "country": "India",
       "countryCode": "IN",
@@ -174,8 +165,7 @@
       }
     },
     {
-      "code": "BNA50",
-      "iataCode": "BNA",
+      "iata": "BNA",
       "city": "Nashville, TN",
       "country": "United States",
       "countryCode": "US",
@@ -192,8 +182,7 @@
       }
     },
     {
-      "code": "BNE50",
-      "iataCode": "BNE",
+      "iata": "BNE",
       "city": "Brisbane",
       "country": "Australia",
       "countryCode": "AU",
@@ -210,8 +199,7 @@
       }
     },
     {
-      "code": "BOG50",
-      "iataCode": "BOG",
+      "iata": "BOG",
       "city": "Bogotá",
       "country": "Colombia",
       "countryCode": "CO",
@@ -228,8 +216,7 @@
       }
     },
     {
-      "code": "BOM54",
-      "iataCode": "BOM",
+      "iata": "BOM",
       "city": "Mumbai",
       "country": "India",
       "countryCode": "IN",
@@ -246,8 +233,7 @@
       }
     },
     {
-      "code": "BOS50",
-      "iataCode": "BOS",
+      "iata": "BOS",
       "city": "Boston, MA",
       "country": "United States",
       "countryCode": "US",
@@ -264,8 +250,7 @@
       }
     },
     {
-      "code": "BRU50",
-      "iataCode": "BRU",
+      "iata": "BRU",
       "city": "Brussels",
       "country": "Belgium",
       "countryCode": "BE",
@@ -282,8 +267,7 @@
       }
     },
     {
-      "code": "BUD50",
-      "iataCode": "BUD",
+      "iata": "BUD",
       "city": "Budapest",
       "country": "Hungary",
       "countryCode": "HU",
@@ -300,8 +284,7 @@
       }
     },
     {
-      "code": "CAI50",
-      "iataCode": "CAI",
+      "iata": "CAI",
       "city": "Cairo",
       "country": "Egypt",
       "countryCode": "EG",
@@ -318,8 +301,7 @@
       }
     },
     {
-      "code": "CCU50",
-      "iataCode": "CCU",
+      "iata": "CCU",
       "city": "Kolkata",
       "country": "India",
       "countryCode": "IN",
@@ -336,8 +318,7 @@
       }
     },
     {
-      "code": "CDG52",
-      "iataCode": "CDG",
+      "iata": "CDG",
       "city": "Paris",
       "country": "France",
       "countryCode": "FR",
@@ -354,8 +335,7 @@
       }
     },
     {
-      "code": "CGK50",
-      "iataCode": "CGK",
+      "iata": "CGK",
       "city": "Jakarta",
       "country": "Indonesia",
       "countryCode": "ID",
@@ -372,8 +352,7 @@
       }
     },
     {
-      "code": "CMH68",
-      "iataCode": "CMH",
+      "iata": "CMH",
       "city": "Columbus, OH",
       "country": "United States",
       "countryCode": "US",
@@ -390,8 +369,7 @@
       }
     },
     {
-      "code": "CPH50",
-      "iataCode": "CPH",
+      "iata": "CPH",
       "city": "Copenhagen",
       "country": "Denmark",
       "countryCode": "DK",
@@ -408,8 +386,7 @@
       }
     },
     {
-      "code": "CPT51",
-      "iataCode": "CPT",
+      "iata": "CPT",
       "city": "Cape Town",
       "country": "South Africa",
       "countryCode": "ZA",
@@ -426,8 +403,7 @@
       }
     },
     {
-      "code": "DEL51",
-      "iataCode": "DEL",
+      "iata": "DEL",
       "city": "New Delhi",
       "country": "India",
       "countryCode": "IN",
@@ -444,8 +420,7 @@
       }
     },
     {
-      "code": "DEN52",
-      "iataCode": "DEN",
+      "iata": "DEN",
       "city": "Denver, CO",
       "country": "United States",
       "countryCode": "US",
@@ -462,8 +437,7 @@
       }
     },
     {
-      "code": "DFW56",
-      "iataCode": "DFW",
+      "iata": "DFW",
       "city": "Dallas/Fort Worth, TX",
       "country": "United States",
       "countryCode": "US",
@@ -480,8 +454,7 @@
       }
     },
     {
-      "code": "DOH50",
-      "iataCode": "DOH",
+      "iata": "DOH",
       "city": "Doha",
       "country": "Qatar",
       "countryCode": "QA",
@@ -498,8 +471,7 @@
       }
     },
     {
-      "code": "DUB56",
-      "iataCode": "DUB",
+      "iata": "DUB",
       "city": "Dublin",
       "country": "Ireland",
       "countryCode": "IE",
@@ -516,8 +488,7 @@
       }
     },
     {
-      "code": "DUS51",
-      "iataCode": "DUS",
+      "iata": "DUS",
       "city": "Düsseldorf",
       "country": "Germany",
       "countryCode": "DE",
@@ -534,8 +505,7 @@
       }
     },
     {
-      "code": "DXB52",
-      "iataCode": "DXB",
+      "iata": "DXB",
       "city": "Dubai",
       "country": "United Arab Emirates",
       "countryCode": "AE",
@@ -552,8 +522,7 @@
       }
     },
     {
-      "code": "EZE50",
-      "iataCode": "EZE",
+      "iata": "EZE",
       "city": "Buenos Aires",
       "country": "Argentina",
       "countryCode": "AR",
@@ -570,8 +539,7 @@
       }
     },
     {
-      "code": "FCO50",
-      "iataCode": "FCO",
+      "iata": "FCO",
       "city": "Rome",
       "country": "Italy",
       "countryCode": "IT",
@@ -588,8 +556,7 @@
       }
     },
     {
-      "code": "FOR50",
-      "iataCode": "FOR",
+      "iata": "FOR",
       "city": "Fortaleza",
       "country": "Brazil",
       "countryCode": "BR",
@@ -606,8 +573,7 @@
       }
     },
     {
-      "code": "FRA56",
-      "iataCode": "FRA",
+      "iata": "FRA",
       "city": "Frankfurt",
       "country": "Germany",
       "countryCode": "DE",
@@ -624,8 +590,7 @@
       }
     },
     {
-      "code": "GIG52",
-      "iataCode": "GIG",
+      "iata": "GIG",
       "city": "Rio de Janeiro",
       "country": "Brazil",
       "countryCode": "BR",
@@ -642,8 +607,7 @@
       }
     },
     {
-      "code": "GRU3",
-      "iataCode": "GRU",
+      "iata": "GRU",
       "city": "São Paulo",
       "country": "Brazil",
       "countryCode": "BR",
@@ -660,8 +624,7 @@
       }
     },
     {
-      "code": "HAM50",
-      "iataCode": "HAM",
+      "iata": "HAM",
       "city": "Hamburg",
       "country": "Germany",
       "countryCode": "DE",
@@ -678,8 +641,7 @@
       }
     },
     {
-      "code": "HAN51",
-      "iataCode": "HAN",
+      "iata": "HAN",
       "city": "Hanoi",
       "country": "Vietnam",
       "countryCode": "VN",
@@ -696,8 +658,7 @@
       }
     },
     {
-      "code": "HEL51",
-      "iataCode": "HEL",
+      "iata": "HEL",
       "city": "Helsinki",
       "country": "Finland",
       "countryCode": "FI",
@@ -714,8 +675,7 @@
       }
     },
     {
-      "code": "HIO52",
-      "iataCode": "HIO",
+      "iata": "HIO",
       "city": "Hillsboro, OR",
       "country": "United States",
       "countryCode": "US",
@@ -732,8 +692,7 @@
       }
     },
     {
-      "code": "HKG1",
-      "iataCode": "HKG",
+      "iata": "HKG",
       "city": "Hong Kong",
       "country": "China",
       "countryCode": "CN",
@@ -750,8 +709,7 @@
       }
     },
     {
-      "code": "HYD57",
-      "iataCode": "HYD",
+      "iata": "HYD",
       "city": "Hyderabad",
       "country": "India",
       "countryCode": "IN",
@@ -768,8 +726,7 @@
       }
     },
     {
-      "code": "IAD55",
-      "iataCode": "IAD",
+      "iata": "IAD",
       "city": "Ashburn, VA",
       "country": "United States",
       "countryCode": "US",
@@ -786,8 +743,7 @@
       }
     },
     {
-      "code": "IAH50",
-      "iataCode": "IAH",
+      "iata": "IAH",
       "city": "Houston, TX",
       "country": "United States",
       "countryCode": "US",
@@ -804,8 +760,7 @@
       }
     },
     {
-      "code": "ICN57",
-      "iataCode": "ICN",
+      "iata": "ICN",
       "city": "Seoul",
       "country": "South Korea",
       "countryCode": "KR",
@@ -822,8 +777,7 @@
       }
     },
     {
-      "code": "IST52",
-      "iataCode": "IST",
+      "iata": "IST",
       "city": "Istanbul",
       "country": "Turkey",
       "countryCode": "TR",
@@ -840,8 +794,7 @@
       }
     },
     {
-      "code": "JED50",
-      "iataCode": "JED",
+      "iata": "JED",
       "city": "Jeddah",
       "country": "Saudi Arabia",
       "countryCode": "SA",
@@ -858,8 +811,7 @@
       }
     },
     {
-      "code": "JFK50",
-      "iataCode": "JFK",
+      "iata": "JFK",
       "city": "New York, NY",
       "country": "United States",
       "countryCode": "US",
@@ -876,8 +828,7 @@
       }
     },
     {
-      "code": "JNB51",
-      "iataCode": "JNB",
+      "iata": "JNB",
       "city": "Johannesburg",
       "country": "South Africa",
       "countryCode": "ZA",
@@ -894,8 +845,7 @@
       }
     },
     {
-      "code": "KIX56",
-      "iataCode": "KIX",
+      "iata": "KIX",
       "city": "Osaka",
       "country": "Japan",
       "countryCode": "JP",
@@ -912,8 +862,7 @@
       }
     },
     {
-      "code": "KUL50",
-      "iataCode": "KUL",
+      "iata": "KUL",
       "city": "Kuala Lumpur",
       "country": "Malaysia",
       "countryCode": "MY",
@@ -930,8 +879,7 @@
       }
     },
     {
-      "code": "LAX53",
-      "iataCode": "LAX",
+      "iata": "LAX",
       "city": "Los Angeles, CA",
       "country": "United States",
       "countryCode": "US",
@@ -948,8 +896,7 @@
       }
     },
     {
-      "code": "LHR3",
-      "iataCode": "LHR",
+      "iata": "LHR",
       "city": "London",
       "country": "United Kingdom",
       "countryCode": "GB",
@@ -966,8 +913,7 @@
       }
     },
     {
-      "code": "LIM50",
-      "iataCode": "LIM",
+      "iata": "LIM",
       "city": "Lima",
       "country": "Peru",
       "countryCode": "PE",
@@ -984,8 +930,7 @@
       }
     },
     {
-      "code": "LIS50",
-      "iataCode": "LIS",
+      "iata": "LIS",
       "city": "Lisbon",
       "country": "Portugal",
       "countryCode": "PT",
@@ -1002,8 +947,7 @@
       }
     },
     {
-      "code": "LOS50",
-      "iataCode": "LOS",
+      "iata": "LOS",
       "city": "Lagos",
       "country": "Nigeria",
       "countryCode": "NG",
@@ -1020,8 +964,7 @@
       }
     },
     {
-      "code": "MAA50",
-      "iataCode": "MAA",
+      "iata": "MAA",
       "city": "Chennai",
       "country": "India",
       "countryCode": "IN",
@@ -1038,8 +981,7 @@
       }
     },
     {
-      "code": "MAD53",
-      "iataCode": "MAD",
+      "iata": "MAD",
       "city": "Madrid",
       "country": "Spain",
       "countryCode": "ES",
@@ -1056,8 +998,7 @@
       }
     },
     {
-      "code": "MAN51",
-      "iataCode": "MAN",
+      "iata": "MAN",
       "city": "Manchester",
       "country": "United Kingdom",
       "countryCode": "GB",
@@ -1074,8 +1015,7 @@
       }
     },
     {
-      "code": "MCI50",
-      "iataCode": "MCI",
+      "iata": "MCI",
       "city": "Kansas City, MO",
       "country": "United States",
       "countryCode": "US",
@@ -1092,8 +1032,7 @@
       }
     },
     {
-      "code": "MCT50",
-      "iataCode": "MCT",
+      "iata": "MCT",
       "city": "Muscat",
       "country": "Oman",
       "countryCode": "OM",
@@ -1110,8 +1049,7 @@
       }
     },
     {
-      "code": "MEL51",
-      "iataCode": "MEL",
+      "iata": "MEL",
       "city": "Melbourne",
       "country": "Australia",
       "countryCode": "AU",
@@ -1128,8 +1066,7 @@
       }
     },
     {
-      "code": "MIA3",
-      "iataCode": "MIA",
+      "iata": "MIA",
       "city": "Miami, FL",
       "country": "United States",
       "countryCode": "US",
@@ -1146,8 +1083,7 @@
       }
     },
     {
-      "code": "MNL51",
-      "iataCode": "MNL",
+      "iata": "MNL",
       "city": "Manila",
       "country": "Philippines",
       "countryCode": "PH",
@@ -1164,8 +1100,7 @@
       }
     },
     {
-      "code": "MRS52",
-      "iataCode": "MRS",
+      "iata": "MRS",
       "city": "Marseille",
       "country": "France",
       "countryCode": "FR",
@@ -1182,8 +1117,7 @@
       }
     },
     {
-      "code": "MSP50",
-      "iataCode": "MSP",
+      "iata": "MSP",
       "city": "Minneapolis, MN",
       "country": "United States",
       "countryCode": "US",
@@ -1200,8 +1134,7 @@
       }
     },
     {
-      "code": "MUC50",
-      "iataCode": "MUC",
+      "iata": "MUC",
       "city": "Munich",
       "country": "Germany",
       "countryCode": "DE",
@@ -1218,8 +1151,7 @@
       }
     },
     {
-      "code": "MXP53",
-      "iataCode": "MXP",
+      "iata": "MXP",
       "city": "Milan",
       "country": "Italy",
       "countryCode": "IT",
@@ -1236,8 +1168,7 @@
       }
     },
     {
-      "code": "NBO50",
-      "iataCode": "NBO",
+      "iata": "NBO",
       "city": "Nairobi",
       "country": "Kenya",
       "countryCode": "KE",
@@ -1254,8 +1185,7 @@
       }
     },
     {
-      "code": "NRT12",
-      "iataCode": "NRT",
+      "iata": "NRT",
       "city": "Tokyo",
       "country": "Japan",
       "countryCode": "JP",
@@ -1272,8 +1202,7 @@
       }
     },
     {
-      "code": "ORD56",
-      "iataCode": "ORD",
+      "iata": "ORD",
       "city": "Chicago, IL",
       "country": "United States",
       "countryCode": "US",
@@ -1290,8 +1219,7 @@
       }
     },
     {
-      "code": "OSL50",
-      "iataCode": "OSL",
+      "iata": "OSL",
       "city": "Oslo",
       "country": "Norway",
       "countryCode": "NO",
@@ -1308,8 +1236,7 @@
       }
     },
     {
-      "code": "OTP50",
-      "iataCode": "OTP",
+      "iata": "OTP",
       "city": "Bucharest",
       "country": "Romania",
       "countryCode": "RO",
@@ -1326,8 +1253,7 @@
       }
     },
     {
-      "code": "PER50",
-      "iataCode": "PER",
+      "iata": "PER",
       "city": "Perth",
       "country": "Australia",
       "countryCode": "AU",
@@ -1344,8 +1270,7 @@
       }
     },
     {
-      "code": "PHL51",
-      "iataCode": "PHL",
+      "iata": "PHL",
       "city": "Philadelphia, PA",
       "country": "United States",
       "countryCode": "US",
@@ -1362,8 +1287,7 @@
       }
     },
     {
-      "code": "PHX50",
-      "iataCode": "PHX",
+      "iata": "PHX",
       "city": "Phoenix, AZ",
       "country": "United States",
       "countryCode": "US",
@@ -1380,8 +1304,7 @@
       }
     },
     {
-      "code": "PIT50",
-      "iataCode": "PIT",
+      "iata": "PIT",
       "city": "Pittsburgh, PA",
       "country": "United States",
       "countryCode": "US",
@@ -1398,8 +1321,7 @@
       }
     },
     {
-      "code": "PNQ50",
-      "iataCode": "PNQ",
+      "iata": "PNQ",
       "city": "Pune",
       "country": "India",
       "countryCode": "IN",
@@ -1416,8 +1338,7 @@
       }
     },
     {
-      "code": "PRG50",
-      "iataCode": "PRG",
+      "iata": "PRG",
       "city": "Prague",
       "country": "Czech Republic",
       "countryCode": "CZ",
@@ -1434,8 +1355,7 @@
       }
     },
     {
-      "code": "QRO50",
-      "iataCode": "QRO",
+      "iata": "QRO",
       "city": "Querétaro",
       "country": "Mexico",
       "countryCode": "MX",
@@ -1452,8 +1372,7 @@
       }
     },
     {
-      "code": "RUH50",
-      "iataCode": "RUH",
+      "iata": "RUH",
       "city": "Riyadh",
       "country": "Saudi Arabia",
       "countryCode": "SA",
@@ -1470,8 +1389,7 @@
       }
     },
     {
-      "code": "SCL51",
-      "iataCode": "SCL",
+      "iata": "SCL",
       "city": "Santiago",
       "country": "Chile",
       "countryCode": "CL",
@@ -1488,8 +1406,7 @@
       }
     },
     {
-      "code": "SEA73",
-      "iataCode": "SEA",
+      "iata": "SEA",
       "city": "Seattle, WA",
       "country": "United States",
       "countryCode": "US",
@@ -1506,8 +1423,7 @@
       }
     },
     {
-      "code": "SFO5",
-      "iataCode": "SFO",
+      "iata": "SFO",
       "city": "San Francisco, CA",
       "country": "United States",
       "countryCode": "US",
@@ -1524,8 +1440,7 @@
       }
     },
     {
-      "code": "SGN50",
-      "iataCode": "SGN",
+      "iata": "SGN",
       "city": "Ho Chi Minh City",
       "country": "Vietnam",
       "countryCode": "VN",
@@ -1542,8 +1457,7 @@
       }
     },
     {
-      "code": "SIN2",
-      "iataCode": "SIN",
+      "iata": "SIN",
       "city": "Singapore",
       "country": "Singapore",
       "countryCode": "SG",
@@ -1560,8 +1474,7 @@
       }
     },
     {
-      "code": "SLC52",
-      "iataCode": "SLC",
+      "iata": "SLC",
       "city": "Salt Lake City, UT",
       "country": "United States",
       "countryCode": "US",
@@ -1578,8 +1491,7 @@
       }
     },
     {
-      "code": "SOF50",
-      "iataCode": "SOF",
+      "iata": "SOF",
       "city": "Sofia",
       "country": "Bulgaria",
       "countryCode": "BG",
@@ -1596,8 +1508,7 @@
       }
     },
     {
-      "code": "SYD3",
-      "iataCode": "SYD",
+      "iata": "SYD",
       "city": "Sydney",
       "country": "Australia",
       "countryCode": "AU",
@@ -1614,8 +1525,7 @@
       }
     },
     {
-      "code": "TLV50",
-      "iataCode": "TLV",
+      "iata": "TLV",
       "city": "Tel Aviv",
       "country": "Israel",
       "countryCode": "IL",
@@ -1632,8 +1542,7 @@
       }
     },
     {
-      "code": "TPA52",
-      "iataCode": "TPA",
+      "iata": "TPA",
       "city": "Tampa, FL",
       "country": "United States",
       "countryCode": "US",
@@ -1650,8 +1559,7 @@
       }
     },
     {
-      "code": "TPE53",
-      "iataCode": "TPE",
+      "iata": "TPE",
       "city": "Taipei, TW",
       "country": "China",
       "countryCode": "CN",
@@ -1668,8 +1576,7 @@
       }
     },
     {
-      "code": "TXL50",
-      "iataCode": "TXL",
+      "iata": "TXL",
       "city": "Berlin",
       "country": "Germany",
       "countryCode": "DE",
@@ -1686,8 +1593,7 @@
       }
     },
     {
-      "code": "VIE50",
-      "iataCode": "VIE",
+      "iata": "VIE",
       "city": "Vienna",
       "country": "Austria",
       "countryCode": "AT",
@@ -1704,8 +1610,7 @@
       }
     },
     {
-      "code": "WAW51",
-      "iataCode": "WAW",
+      "iata": "WAW",
       "city": "Warsaw",
       "country": "Poland",
       "countryCode": "PL",
@@ -1722,8 +1627,7 @@
       }
     },
     {
-      "code": "YTO50",
-      "iataCode": "YTO",
+      "iata": "YTO",
       "city": "Toronto, ON",
       "country": "Canada",
       "countryCode": "CA",
@@ -1740,8 +1644,7 @@
       }
     },
     {
-      "code": "YUL62",
-      "iataCode": "YUL",
+      "iata": "YUL",
       "city": "Montréal, QC",
       "country": "Canada",
       "countryCode": "CA",
@@ -1758,8 +1661,7 @@
       }
     },
     {
-      "code": "YVR52",
-      "iataCode": "YVR",
+      "iata": "YVR",
       "city": "Vancouver, BC",
       "country": "Canada",
       "countryCode": "CA",
@@ -1776,8 +1678,7 @@
       }
     },
     {
-      "code": "YYC51",
-      "iataCode": "YYC",
+      "iata": "YYC",
       "city": "Calgary, AB",
       "country": "Canada",
       "countryCode": "CA",
@@ -1794,8 +1695,7 @@
       }
     },
     {
-      "code": "ZAG50",
-      "iataCode": "ZAG",
+      "iata": "ZAG",
       "city": "Zagreb",
       "country": "Croatia",
       "countryCode": "HR",
@@ -1812,8 +1712,7 @@
       }
     },
     {
-      "code": "ZRH52",
-      "iataCode": "ZRH",
+      "iata": "ZRH",
       "city": "Zürich",
       "country": "Switzerland",
       "countryCode": "CH",
