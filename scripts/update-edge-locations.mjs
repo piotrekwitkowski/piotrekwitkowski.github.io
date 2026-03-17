@@ -89,6 +89,11 @@ const COUNTRY_CODES = {
   "Vietnam": "VN",
 };
 
+const LOCATION_OVERRIDES = {
+  "HKG": { country: "Hong Kong", country_code: "HK", city: "Hong Kong" },
+  "TPE": { country: "Taiwan", country_code: "TW", city: "Taipei" },
+};
+
 /**
  * Normalise the cloudping.cloud payload into a sorted array keyed by iata_code.
  * The upstream format is { edge_locations: [ { iata_code, country, city, airport, active_nodes: [{ code }] } ] }.
@@ -98,12 +103,18 @@ function normaliseCloudping(raw) {
   const locations = raw.edge_locations ?? [];
   const unmapped = new Set();
   const entries = locations.map((loc) => {
-    const country = loc.country ?? "";
-    const code = COUNTRY_CODES[country];
+    const iata = loc.iata_code;
+    const override = LOCATION_OVERRIDES[iata];
+    const country = override?.country ?? loc.country ?? "";
+    const code = override?.country_code ?? COUNTRY_CODES[country];
     if (country && !code) unmapped.add(country);
+    let city = override?.city ?? loc.city ?? "";
+    if (code === "US" || code === "CA") {
+      city = city.replace(/,\s*[A-Z]{2}$/, "");
+    }
     return {
       iata: loc.iata_code,
-      city: loc.city ?? "",
+      city,
       country,
       country_code: code ?? "",
       nodes: (loc.active_nodes ?? []).map((n) => (typeof n === "string" ? n : n.code)).sort(),

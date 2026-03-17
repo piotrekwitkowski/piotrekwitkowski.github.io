@@ -45,7 +45,7 @@
   },
   {
     "iata": "ATL",
-    "city": "Atlanta, GA",
+    "city": "Atlanta",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -98,7 +98,7 @@
   },
   {
     "iata": "BNA",
-    "city": "Nashville, TN",
+    "city": "Nashville",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -138,7 +138,7 @@
   },
   {
     "iata": "BOS",
-    "city": "Boston, MA",
+    "city": "Boston",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -210,7 +210,7 @@
   },
   {
     "iata": "CMH",
-    "city": "Columbus, OH",
+    "city": "Columbus",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -253,7 +253,7 @@
   },
   {
     "iata": "DEN",
-    "city": "Denver, CO",
+    "city": "Denver",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -263,7 +263,7 @@
   },
   {
     "iata": "DFW",
-    "city": "Dallas/Fort Worth, TX",
+    "city": "Dallas/Fort Worth",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -316,7 +316,7 @@
   },
   {
     "iata": "EWR",
-    "city": "Newark, NJ",
+    "city": "Newark",
     "country": "United States",
     "country_code": "US",
     "nodes": []
@@ -419,7 +419,7 @@
   },
   {
     "iata": "HIO",
-    "city": "Hillsboro, OR",
+    "city": "Hillsboro",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -430,8 +430,8 @@
   {
     "iata": "HKG",
     "city": "Hong Kong",
-    "country": "China",
-    "country_code": "CN",
+    "country": "Hong Kong",
+    "country_code": "HK",
     "nodes": [
       "HKG1-P1",
       "HKG1-P2",
@@ -450,7 +450,7 @@
   },
   {
     "iata": "IAD",
-    "city": "Ashburn, VA",
+    "city": "Ashburn",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -461,7 +461,7 @@
   },
   {
     "iata": "IAH",
-    "city": "Houston, TX",
+    "city": "Houston",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -484,7 +484,7 @@
   },
   {
     "iata": "IND",
-    "city": "South Bend, IN",
+    "city": "South Bend",
     "country": "United States",
     "country_code": "US",
     "nodes": []
@@ -501,7 +501,7 @@
   },
   {
     "iata": "JAX",
-    "city": "Jacksonville, FL",
+    "city": "Jacksonville",
     "country": "United States",
     "country_code": "US",
     "nodes": []
@@ -517,7 +517,7 @@
   },
   {
     "iata": "JFK",
-    "city": "New York, NY",
+    "city": "New York",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -564,7 +564,7 @@
   },
   {
     "iata": "LAX",
-    "city": "Los Angeles, CA",
+    "city": "Los Angeles",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -648,7 +648,7 @@
   },
   {
     "iata": "MCI",
-    "city": "Kansas City, MO",
+    "city": "Kansas City",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -678,7 +678,7 @@
   },
   {
     "iata": "MIA",
-    "city": "Miami, FL",
+    "city": "Miami",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -711,7 +711,7 @@
   },
   {
     "iata": "MSP",
-    "city": "Minneapolis, MN",
+    "city": "Minneapolis",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -767,7 +767,7 @@
   },
   {
     "iata": "ORD",
-    "city": "Chicago, IL",
+    "city": "Chicago",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -808,7 +808,7 @@
   },
   {
     "iata": "PHL",
-    "city": "Philadelphia, PA",
+    "city": "Philadelphia",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -818,7 +818,7 @@
   },
   {
     "iata": "PHX",
-    "city": "Phoenix, AZ",
+    "city": "Phoenix",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -829,7 +829,7 @@
   },
   {
     "iata": "PIT",
-    "city": "Pittsburgh, PA",
+    "city": "Pittsburgh",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -898,7 +898,7 @@
   },
   {
     "iata": "SEA",
-    "city": "Seattle, WA",
+    "city": "Seattle",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -909,7 +909,7 @@
   },
   {
     "iata": "SFO",
-    "city": "San Francisco, CA",
+    "city": "San Francisco",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -944,7 +944,7 @@
   },
   {
     "iata": "SLC",
-    "city": "Salt Lake City, UT",
+    "city": "Salt Lake City",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -983,7 +983,7 @@
   },
   {
     "iata": "TPA",
-    "city": "Tampa, FL",
+    "city": "Tampa",
     "country": "United States",
     "country_code": "US",
     "nodes": [
@@ -993,9 +993,9 @@
   },
   {
     "iata": "TPE",
-    "city": "Taipei, TW",
-    "country": "China",
-    "country_code": "CN",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "country_code": "TW",
     "nodes": [
       "TPE53-P1",
       "TPE53-P2",
@@ -1036,7 +1036,7 @@
   },
   {
     "iata": "YTO",
-    "city": "Toronto, ON",
+    "city": "Toronto",
     "country": "Canada",
     "country_code": "CA",
     "nodes": [
@@ -1046,7 +1046,7 @@
   },
   {
     "iata": "YUL",
-    "city": "Montréal, QC",
+    "city": "Montréal",
     "country": "Canada",
     "country_code": "CA",
     "nodes": [
@@ -1057,7 +1057,7 @@
   },
   {
     "iata": "YVR",
-    "city": "Vancouver, BC",
+    "city": "Vancouver",
     "country": "Canada",
     "country_code": "CA",
     "nodes": [
@@ -1068,7 +1068,7 @@
   },
   {
     "iata": "YYC",
-    "city": "Calgary, AB",
+    "city": "Calgary",
     "country": "Canada",
     "country_code": "CA",
     "nodes": [
