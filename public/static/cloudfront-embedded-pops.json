@@ -15,27 +15,17 @@
     "country_code": "AR"
   },
   {
-    "city": "BELO HORIZONTE",
+    "city": "Belo Horizonte",
     "country": "Brazil",
     "country_code": "BR"
   },
   {
-    "city": "BELÉM",
+    "city": "Belém",
     "country": "Brazil",
     "country_code": "BR"
   },
   {
-    "city": "BRASÍLIA",
-    "country": "Brazil",
-    "country_code": "BR"
-  },
-  {
-    "city": "CUIABÁ",
-    "country": "Brazil",
-    "country_code": "BR"
-  },
-  {
-    "city": "CURITIBA",
+    "city": "Brasília",
     "country": "Brazil",
     "country_code": "BR"
   },
@@ -45,32 +35,32 @@
     "country_code": "BR"
   },
   {
-    "city": "Centro, Curitiba",
+    "city": "Cuiabá",
     "country": "Brazil",
     "country_code": "BR"
   },
   {
-    "city": "DUQUE DE CAXIAS",
+    "city": "Curitiba",
     "country": "Brazil",
     "country_code": "BR"
   },
   {
-    "city": "FLORIANÓPOLIS",
+    "city": "Duque de Caxias",
     "country": "Brazil",
     "country_code": "BR"
   },
   {
-    "city": "FORTALEZA",
+    "city": "Florianópolis",
     "country": "Brazil",
     "country_code": "BR"
   },
   {
-    "city": "GOIÂNIA",
+    "city": "Fortaleza",
     "country": "Brazil",
     "country_code": "BR"
   },
   {
-    "city": "Guará, Brasília",
+    "city": "Goiânia",
     "country": "Brazil",
     "country_code": "BR"
   },
@@ -85,7 +75,7 @@
     "country_code": "BR"
   },
   {
-    "city": "MANAUS",
+    "city": "Manaus",
     "country": "Brazil",
     "country_code": "BR"
   },
@@ -95,27 +85,22 @@
     "country_code": "BR"
   },
   {
-    "city": "PORTO ALEGRE",
+    "city": "Porto Alegre",
     "country": "Brazil",
     "country_code": "BR"
   },
   {
-    "city": "Pedreira, Belém",
+    "city": "Recife",
     "country": "Brazil",
     "country_code": "BR"
   },
   {
-    "city": "RECIFE",
+    "city": "Rio de Janeiro",
     "country": "Brazil",
     "country_code": "BR"
   },
   {
-    "city": "RIO DE JANEIRO",
-    "country": "Brazil",
-    "country_code": "BR"
-  },
-  {
-    "city": "SALVADOR",
+    "city": "Salvador",
     "country": "Brazil",
     "country_code": "BR"
   },
@@ -255,67 +240,67 @@
     "country_code": "EC"
   },
   {
-    "city": "AUBAGNE",
+    "city": "Aubagne",
     "country": "France",
     "country_code": "FR"
   },
   {
-    "city": "BORDEAUX",
+    "city": "Bordeaux",
     "country": "France",
     "country_code": "FR"
   },
   {
-    "city": "CESSON-SEVIGNE",
+    "city": "Cesson-Sevigne",
     "country": "France",
     "country_code": "FR"
   },
   {
-    "city": "COURBEVOIE",
+    "city": "Courbevoie",
     "country": "France",
     "country_code": "FR"
   },
   {
-    "city": "MARCQ-EN-BAROEUL",
+    "city": "Marcq-en-Baroeul",
     "country": "France",
     "country_code": "FR"
   },
   {
-    "city": "MITRY-MORY",
+    "city": "Mitry-Mory",
     "country": "France",
     "country_code": "FR"
   },
   {
-    "city": "MONTPELLIER",
+    "city": "Montpellier",
     "country": "France",
     "country_code": "FR"
   },
   {
-    "city": "NICE",
+    "city": "Nice",
     "country": "France",
     "country_code": "FR"
   },
   {
-    "city": "STRASBOURG",
+    "city": "Strasbourg",
     "country": "France",
     "country_code": "FR"
   },
   {
-    "city": "TOULOUSE",
+    "city": "Toulouse",
     "country": "France",
     "country_code": "FR"
   },
   {
-    "city": "TRAPPES",
+    "city": "Trappes",
     "country": "France",
     "country_code": "FR"
   },
   {
-    "city": "VALENTON",
+    "city": "Valenton",
     "country": "France",
     "country_code": "FR"
   },
   {
-    "city": "VENISSIEUX",
+    "city": "Venissieux",
     "country": "France",
     "country_code": "FR"
   },
@@ -426,11 +411,6 @@
   },
   {
     "city": "Belfast",
-    "country": "Great Britain",
-    "country_code": "GB"
-  },
-  {
-    "city": "Berkshire",
     "country": "Great Britain",
     "country_code": "GB"
   },
@@ -615,11 +595,6 @@
     "country_code": "GB"
   },
   {
-    "city": "Slough",
-    "country": "Great Britain",
-    "country_code": "GB"
-  },
-  {
     "city": "South Rettendon",
     "country": "Great Britain",
     "country_code": "GB"
@@ -640,7 +615,7 @@
     "country_code": "GB"
   },
   {
-    "city": "AHMEDABAD",
+    "city": "Ahmedabad",
     "country": "India",
     "country_code": "IN"
   },
@@ -650,7 +625,7 @@
     "country_code": "IN"
   },
   {
-    "city": "Asansol MCN",
+    "city": "Asansol",
     "country": "India",
     "country_code": "IN"
   },
@@ -675,11 +650,6 @@
     "country_code": "IN"
   },
   {
-    "city": "Bhubaneshwar",
-    "country": "India",
-    "country_code": "IN"
-  },
-  {
     "city": "Bhubaneswar",
     "country": "India",
     "country_code": "IN"
@@ -695,7 +665,7 @@
     "country_code": "IN"
   },
   {
-    "city": "Coimbtore",
+    "city": "Coimbatore",
     "country": "India",
     "country_code": "IN"
   },
@@ -711,11 +681,6 @@
   },
   {
     "city": "Ernakulam",
-    "country": "India",
-    "country_code": "IN"
-  },
-  {
-    "city": "Ernakulum",
     "country": "India",
     "country_code": "IN"
   },
@@ -766,11 +731,6 @@
   },
   {
     "city": "Kolkata",
-    "country": "India",
-    "country_code": "IN"
-  },
-  {
-    "city": "Kolkata MCN",
     "country": "India",
     "country_code": "IN"
   },
@@ -835,7 +795,7 @@
     "country_code": "IN"
   },
   {
-    "city": "PALGHAR",
+    "city": "Palghar",
     "country": "India",
     "country_code": "IN"
   },
@@ -850,11 +810,6 @@
     "country_code": "IN"
   },
   {
-    "city": "RAJKOT",
-    "country": "India",
-    "country_code": "IN"
-  },
-  {
     "city": "Raipur",
     "country": "India",
     "country_code": "IN"
@@ -865,12 +820,12 @@
     "country_code": "IN"
   },
   {
-    "city": "Ranchi",
+    "city": "Rajkot",
     "country": "India",
     "country_code": "IN"
   },
   {
-    "city": "SURAT",
+    "city": "Ranchi",
     "country": "India",
     "country_code": "IN"
   },
@@ -891,6 +846,11 @@
   },
   {
     "city": "Srinagar",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Surat",
     "country": "India",
     "country_code": "IN"
   },
@@ -950,11 +910,6 @@
     "country_code": "IT"
   },
   {
-    "city": "Firenze",
-    "country": "Italy",
-    "country_code": "IT"
-  },
-  {
     "city": "Florence",
     "country": "Italy",
     "country_code": "IT"
@@ -976,11 +931,6 @@
   },
   {
     "city": "Naples",
-    "country": "Italy",
-    "country_code": "IT"
-  },
-  {
-    "city": "Padova",
     "country": "Italy",
     "country_code": "IT"
   },
@@ -1015,17 +965,12 @@
     "country_code": "IT"
   },
   {
-    "city": "Settimo M.se",
+    "city": "Settimo Milanese",
     "country": "Italy",
     "country_code": "IT"
   },
   {
     "city": "Turin",
-    "country": "Italy",
-    "country_code": "IT"
-  },
-  {
-    "city": "Venezia",
     "country": "Italy",
     "country_code": "IT"
   },
@@ -1045,17 +990,7 @@
     "country_code": "JP"
   },
   {
-    "city": "FUKUOKA-CITY",
-    "country": "Japan",
-    "country_code": "JP"
-  },
-  {
     "city": "Fukuoka",
-    "country": "Japan",
-    "country_code": "JP"
-  },
-  {
-    "city": "Fukuoka-shi",
     "country": "Japan",
     "country_code": "JP"
   },
@@ -1080,11 +1015,6 @@
     "country_code": "JP"
   },
   {
-    "city": "Nagoya City",
-    "country": "Japan",
-    "country_code": "JP"
-  },
-  {
     "city": "Nerima-ku",
     "country": "Japan",
     "country_code": "JP"
@@ -1095,7 +1025,7 @@
     "country_code": "JP"
   },
   {
-    "city": "Nisshin City",
+    "city": "Nisshin",
     "country": "Japan",
     "country_code": "JP"
   },
@@ -1116,11 +1046,6 @@
   },
   {
     "city": "Apodaca",
-    "country": "Mexico",
-    "country_code": "MX"
-  },
-  {
-    "city": "Col. Nuevo Repueblo",
     "country": "Mexico",
     "country_code": "MX"
   },
@@ -1151,11 +1076,6 @@
   },
   {
     "city": "Monterrey",
-    "country": "Mexico",
-    "country_code": "MX"
-  },
-  {
-    "city": "Mérida",
     "country": "Mexico",
     "country_code": "MX"
   },
@@ -1195,7 +1115,7 @@
     "country_code": "MC"
   },
   {
-    "city": "Aukland",
+    "city": "Auckland",
     "country": "New Zealand",
     "country_code": "NZ"
   },
@@ -1215,17 +1135,17 @@
     "country_code": "NZ"
   },
   {
-    "city": "LUQUILLO",
+    "city": "Luquillo",
     "country": "Puerto Rico",
     "country_code": "PR"
   },
   {
-    "city": "PONCE",
+    "city": "Ponce",
     "country": "Puerto Rico",
     "country_code": "PR"
   },
   {
-    "city": "VEGA BAJA",
+    "city": "Vega Baja",
     "country": "Puerto Rico",
     "country_code": "PR"
   },
