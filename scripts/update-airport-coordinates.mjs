@@ -57,7 +57,7 @@ function parseCSVLine(line) {
 async function main() {
   // 1. Load edge locations to get IATA codes
   const edgeData = JSON.parse(await readFile(EDGE_LOCATIONS_PATH, "utf-8"));
-  const iataCodes = new Set(edgeData.map((loc) => loc.iata_code));
+  const iataCodes = new Set(edgeData.map((loc) => loc.iata));
   console.log(`Looking up coordinates for ${iataCodes.size} IATA codes`);
 
   // 2. Fetch OurAirports data
@@ -96,7 +96,7 @@ async function main() {
 
     if (!existing || priority > existing._priority) {
       found.set(iata, {
-        iata_code: iata,
+        iata: iata,
         name: fields[nameIdx] ?? "",
         latitude: parseFloat(fields[latIdx]),
         longitude: parseFloat(fields[lonIdx]),
@@ -107,8 +107,8 @@ async function main() {
 
   // 4. Manual fallbacks for codes missing from OurAirports
   const FALLBACKS = {
-    "TXL": { iata_code: "TXL", name: "Berlin Tegel Airport", latitude: 52.5597, longitude: 13.2877 },
-    "YTO": { iata_code: "YTO", name: "Toronto (metropolitan area)", latitude: 43.6777, longitude: -79.6248 },
+    "TXL": { iata: "TXL", name: "Berlin Tegel Airport", latitude: 52.5597, longitude: 13.2877 },
+    "YTO": { iata: "YTO", name: "Toronto (metropolitan area)", latitude: 43.6777, longitude: -79.6248 },
   };
 
   // 5. Build output array
