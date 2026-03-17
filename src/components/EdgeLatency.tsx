@@ -39,11 +39,11 @@ interface Measurement {
 }
 
 interface EdgeLocation {
-  iata_code: string;
+  iata: string;
   city: string;
   country: string;
   country_code: string;
-  active_nodes: string[];
+  nodes: string[];
 }
 
 interface TableRow {
@@ -194,15 +194,12 @@ function EdgeLatency() {
     return findOptimalRegionsBruteForce(data.pops, data.candidateRegions, capped, ttfbTarget);
   }, [data, maxRegions, ttfbTarget]);
 
-  const locationMap = useMemo(() => {
-    const map = new Map<string, EdgeLocation>();
-    for (const loc of edgeLocations) {
-      map.set(loc.iata_code, loc);
-    }
-    return map;
-  }, [edgeLocations]);
+  const locationMap = new Map<string, EdgeLocation>();
+  for (const loc of edgeLocations) {
+    locationMap.set(loc.iata, loc);
+  }
 
-  const tableRows = useMemo((): TableRow[] => {
+  const tableRows = (() => {
     if (!data || selectedRegions.length === 0) return [];
     return data.pops
       .map((pop) => {
@@ -217,9 +214,9 @@ function EdgeLatency() {
           ttfb: Math.round(ttfb),
         };
       });
-  }, [data, selectedRegions, locationMap]);
+  })();
 
-  const sortedRows = useMemo(() => {
+  const sortedRows = (() => {
     const field = sortingColumn.sortingField as keyof TableRow | undefined;
     if (!field) return tableRows;
     const sorted = [...tableRows].sort((a, b) => {
@@ -235,7 +232,7 @@ function EdgeLatency() {
       return a.city.localeCompare(b.city);
     });
     return sortingDescending ? sorted.reverse() : sorted;
-  }, [tableRows, sortingColumn, sortingDescending]);
+  })();
 
   const withinTarget = tableRows.filter((r) => r.ttfb <= ttfbTarget).length;
   const totalPops = tableRows.length;

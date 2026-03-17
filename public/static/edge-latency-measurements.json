@@ -81,7 +81,7 @@
     },
     {
       "iata": "ATL",
-      "city": "Atlanta, GA",
+      "city": "Atlanta",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-east-1",
@@ -166,7 +166,7 @@
     },
     {
       "iata": "BNA",
-      "city": "Nashville, TN",
+      "city": "Nashville",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-east-1",
@@ -234,7 +234,7 @@
     },
     {
       "iata": "BOS",
-      "city": "Boston, MA",
+      "city": "Boston",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-east-1",
@@ -353,7 +353,7 @@
     },
     {
       "iata": "CMH",
-      "city": "Columbus, OH",
+      "city": "Columbus",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-east-1",
@@ -421,7 +421,7 @@
     },
     {
       "iata": "DEN",
-      "city": "Denver, CO",
+      "city": "Denver",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-west-2",
@@ -438,7 +438,7 @@
     },
     {
       "iata": "DFW",
-      "city": "Dallas/Fort Worth, TX",
+      "city": "Dallas/Fort Worth",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-west-2",
@@ -676,7 +676,7 @@
     },
     {
       "iata": "HIO",
-      "city": "Hillsboro, OR",
+      "city": "Hillsboro",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-west-2",
@@ -694,8 +694,8 @@
     {
       "iata": "HKG",
       "city": "Hong Kong",
-      "country": "China",
-      "countryCode": "CN",
+      "country": "Hong Kong",
+      "countryCode": "HK",
       "recRegion": "ap-northeast-1",
       "ttfbByRegion": {
         "us-east-1": 99,
@@ -727,7 +727,7 @@
     },
     {
       "iata": "IAD",
-      "city": "Ashburn, VA",
+      "city": "Ashburn",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-east-1",
@@ -744,7 +744,7 @@
     },
     {
       "iata": "IAH",
-      "city": "Houston, TX",
+      "city": "Houston",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-east-1",
@@ -812,7 +812,7 @@
     },
     {
       "iata": "JFK",
-      "city": "New York, NY",
+      "city": "New York",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-east-1",
@@ -880,7 +880,7 @@
     },
     {
       "iata": "LAX",
-      "city": "Los Angeles, CA",
+      "city": "Los Angeles",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-west-2",
@@ -1016,7 +1016,7 @@
     },
     {
       "iata": "MCI",
-      "city": "Kansas City, MO",
+      "city": "Kansas City",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-west-2",
@@ -1067,7 +1067,7 @@
     },
     {
       "iata": "MIA",
-      "city": "Miami, FL",
+      "city": "Miami",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-east-1",
@@ -1118,7 +1118,7 @@
     },
     {
       "iata": "MSP",
-      "city": "Minneapolis, MN",
+      "city": "Minneapolis",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-west-2",
@@ -1203,7 +1203,7 @@
     },
     {
       "iata": "ORD",
-      "city": "Chicago, IL",
+      "city": "Chicago",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-west-2",
@@ -1271,7 +1271,7 @@
     },
     {
       "iata": "PHL",
-      "city": "Philadelphia, PA",
+      "city": "Philadelphia",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-east-1",
@@ -1288,7 +1288,7 @@
     },
     {
       "iata": "PHX",
-      "city": "Phoenix, AZ",
+      "city": "Phoenix",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-west-2",
@@ -1305,7 +1305,7 @@
     },
     {
       "iata": "PIT",
-      "city": "Pittsburgh, PA",
+      "city": "Pittsburgh",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-east-1",
@@ -1407,7 +1407,7 @@
     },
     {
       "iata": "SEA",
-      "city": "Seattle, WA",
+      "city": "Seattle",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-west-2",
@@ -1424,7 +1424,7 @@
     },
     {
       "iata": "SFO",
-      "city": "San Francisco, CA",
+      "city": "San Francisco",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-west-2",
@@ -1475,7 +1475,7 @@
     },
     {
       "iata": "SLC",
-      "city": "Salt Lake City, UT",
+      "city": "Salt Lake City",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-west-2",
@@ -1543,7 +1543,7 @@
     },
     {
       "iata": "TPA",
-      "city": "Tampa, FL",
+      "city": "Tampa",
       "country": "United States",
       "countryCode": "US",
       "recRegion": "us-east-1",
@@ -1560,9 +1560,9 @@
     },
     {
       "iata": "TPE",
-      "city": "Taipei, TW",
-      "country": "China",
-      "countryCode": "CN",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "countryCode": "TW",
       "recRegion": "ap-northeast-1",
       "ttfbByRegion": {
         "us-east-1": 93,
@@ -1628,7 +1628,7 @@
     },
     {
       "iata": "YTO",
-      "city": "Toronto, ON",
+      "city": "Toronto",
       "country": "Canada",
       "countryCode": "CA",
       "recRegion": "us-east-1",
@@ -1645,7 +1645,7 @@
     },
     {
       "iata": "YUL",
-      "city": "Montréal, QC",
+      "city": "Montréal",
       "country": "Canada",
       "countryCode": "CA",
       "recRegion": "us-east-1",
@@ -1662,7 +1662,7 @@
     },
     {
       "iata": "YVR",
-      "city": "Vancouver, BC",
+      "city": "Vancouver",
       "country": "Canada",
       "countryCode": "CA",
       "recRegion": "us-east-1",
@@ -1679,7 +1679,7 @@
     },
     {
       "iata": "YYC",
-      "city": "Calgary, AB",
+      "city": "Calgary",
       "country": "Canada",
       "countryCode": "CA",
       "recRegion": "us-east-1",
