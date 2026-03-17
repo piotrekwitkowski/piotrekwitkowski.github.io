@@ -67,6 +67,7 @@ CITY_NORMALIZATIONS = {
     # Typos
     "Aukland": "Auckland",
     "Coimbtore": "Coimbatore",
+    "Colombia": "Columbia",
     # Abbreviations
     "Settimo M.se": "Settimo Milanese",
     "Col. Nuevo Repueblo": "Monterrey",
@@ -77,12 +78,22 @@ CITY_NORMALIZATIONS = {
     "Firenze": "Florence",
     "Venezia": "Venice",
     "Mérida": "Merida",
-    "Berkshire": "Slough",
+    # UK: orphaned/duplicate → parent city
+    "Keynes": "Milton Keynes",
+    "Middlesex": "London",
+    # UK: counties → nearest city (county)
+    "Berkshire": "Slough (Berkshire)",
+    "East Sussex": "Brighton (East Sussex)",
+    "Guildford": "Guildford (Surrey)",
+    "Hampshire": "Southampton (Hampshire)",
+    "Kent": "Maidstone (Kent)",
+    "Slough": "Slough (Berkshire)",
+    "Surrey": "Guildford (Surrey)",
     # Japanese "City" variants
     "Fukuoka-City": "Fukuoka",
+    "Fukuoka-shi": "Fukuoka",
     "Nagoya City": "Nagoya",
     "Nisshin City": "Nisshin",
-    "Fukuoka-shi": "Fukuoka",
 }
 
 
