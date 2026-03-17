@@ -430,6 +430,11 @@
     "country_code": "GB"
   },
   {
+    "city": "Brighton (East Sussex)",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
     "city": "Bristol",
     "country": "Great Britain",
     "country_code": "GB"
@@ -460,11 +465,6 @@
     "country_code": "GB"
   },
   {
-    "city": "East Sussex",
-    "country": "Great Britain",
-    "country_code": "GB"
-  },
-  {
     "city": "Edinburgh",
     "country": "Great Britain",
     "country_code": "GB"
@@ -485,12 +485,7 @@
     "country_code": "GB"
   },
   {
-    "city": "Guildford",
-    "country": "Great Britain",
-    "country_code": "GB"
-  },
-  {
-    "city": "Hampshire",
+    "city": "Guildford (Surrey)",
     "country": "Great Britain",
     "country_code": "GB"
   },
@@ -506,16 +501,6 @@
   },
   {
     "city": "Hull",
-    "country": "Great Britain",
-    "country_code": "GB"
-  },
-  {
-    "city": "Kent",
-    "country": "Great Britain",
-    "country_code": "GB"
-  },
-  {
-    "city": "Keynes",
     "country": "Great Britain",
     "country_code": "GB"
   },
@@ -540,17 +525,17 @@
     "country_code": "GB"
   },
   {
+    "city": "Maidstone (Kent)",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
     "city": "Manchester",
     "country": "Great Britain",
     "country_code": "GB"
   },
   {
     "city": "Middlesborough",
-    "country": "Great Britain",
-    "country_code": "GB"
-  },
-  {
-    "city": "Middlesex",
     "country": "Great Britain",
     "country_code": "GB"
   },
@@ -590,7 +575,7 @@
     "country_code": "GB"
   },
   {
-    "city": "Slough",
+    "city": "Slough (Berkshire)",
     "country": "Great Britain",
     "country_code": "GB"
   },
@@ -600,12 +585,12 @@
     "country_code": "GB"
   },
   {
-    "city": "Stoke",
+    "city": "Southampton (Hampshire)",
     "country": "Great Britain",
     "country_code": "GB"
   },
   {
-    "city": "Surrey",
+    "city": "Stoke",
     "country": "Great Britain",
     "country_code": "GB"
   },
@@ -1330,7 +1315,7 @@
     "country_code": "US"
   },
   {
-    "city": "Colombia",
+    "city": "Columbia",
     "country": "United States",
     "country_code": "US"
   },
