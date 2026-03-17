@@ -640,7 +640,7 @@
     "country_code": "IN"
   },
   {
-    "city": "Chandigarh",
+    "city": "Chandigarh (Haryana)",
     "country": "India",
     "country_code": "IN"
   },
@@ -671,11 +671,6 @@
   },
   {
     "city": "Guwahati",
-    "country": "India",
-    "country_code": "IN"
-  },
-  {
-    "city": "Haryana",
     "country": "India",
     "country_code": "IN"
   },
