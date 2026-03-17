@@ -1,0 +1,1917 @@
+[
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "city": "Cordoba",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "city": "Rosario",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "city": "BELO HORIZONTE",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "BELÉM",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "BRASÍLIA",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "CUIABÁ",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "CURITIBA",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "Campinas",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "Centro, Curitiba",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "DUQUE DE CAXIAS",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "FLORIANÓPOLIS",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "FORTALEZA",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "GOIÂNIA",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "Guará, Brasília",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "Joao Pessoa",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "Juazeiro do Norte",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "MANAUS",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "Natal",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "PORTO ALEGRE",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "Pedreira, Belém",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "RECIFE",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "RIO DE JANEIRO",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "SALVADOR",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "São Paulo",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "city": "Brampton",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Burnaby",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Calgary",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Edmonton",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Fort McMurray",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Grande Prairie",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Halifax",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Hamilton",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Kamloops",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Kelowna",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Kitchener",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "London",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Mississauga",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Moncton",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Nanaimo",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Ottawa",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Red Deer",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Regina",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Saskatoon",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Trois-Rivières",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Utopia",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Vancouver",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Victoria",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Winnipeg",
+    "country": "Canada",
+    "country_code": "CA"
+  },
+  {
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "city": "Quito",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "city": "AUBAGNE",
+    "country": "France",
+    "country_code": "FR"
+  },
+  {
+    "city": "BORDEAUX",
+    "country": "France",
+    "country_code": "FR"
+  },
+  {
+    "city": "CESSON-SEVIGNE",
+    "country": "France",
+    "country_code": "FR"
+  },
+  {
+    "city": "COURBEVOIE",
+    "country": "France",
+    "country_code": "FR"
+  },
+  {
+    "city": "MARCQ-EN-BAROEUL",
+    "country": "France",
+    "country_code": "FR"
+  },
+  {
+    "city": "MITRY-MORY",
+    "country": "France",
+    "country_code": "FR"
+  },
+  {
+    "city": "MONTPELLIER",
+    "country": "France",
+    "country_code": "FR"
+  },
+  {
+    "city": "NICE",
+    "country": "France",
+    "country_code": "FR"
+  },
+  {
+    "city": "STRASBOURG",
+    "country": "France",
+    "country_code": "FR"
+  },
+  {
+    "city": "TOULOUSE",
+    "country": "France",
+    "country_code": "FR"
+  },
+  {
+    "city": "TRAPPES",
+    "country": "France",
+    "country_code": "FR"
+  },
+  {
+    "city": "VALENTON",
+    "country": "France",
+    "country_code": "FR"
+  },
+  {
+    "city": "VENISSIEUX",
+    "country": "France",
+    "country_code": "FR"
+  },
+  {
+    "city": "Aurich",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Bremen",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Bremerhaven",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Bremervörde",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Cloppenburg",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Emden",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Georgsmarienhuette",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Haar",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Hannover",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Haselünne",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Köln",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Leer",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Lehrte",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Meppen",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Oldenburg",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Osnabrück",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Osterholz-Scharmbeck",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Papenburg",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Rotenburg",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Zeven",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "city": "Basingstoke",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Belfast",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Berkshire",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Birmingham",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Bletchley",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Brentford",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Bristol",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Cardiff",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Carlisle",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Chester-Le-Street",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Corsham",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Coventry",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "East Sussex",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Edinburgh",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Farnborough",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Glasgow",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Gloucester",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Guildford",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Hampshire",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Havant",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Hayes",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Hull",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Kent",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Keynes",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Leeds",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Leicester",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Liverpool",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "London",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Manchester",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Middlesborough",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Middlesex",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Milton Keynes",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Newbury",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Newcastle",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Newport",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Nottingham",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Reading",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Sheffield",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Slough",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Slough",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "South Rettendon",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Stoke",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "Surrey",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "York",
+    "country": "Great Britain",
+    "country_code": "GB"
+  },
+  {
+    "city": "AHMEDABAD",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Ambala",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Asansol MCN",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Bangalore",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Baroda",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Bengaluru",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Bhopal",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Bhubaneshwar",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Bhubaneswar",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Chandigarh",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Chennai",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Coimbtore",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Delhi",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Dombivali",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Ernakulam",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Ernakulum",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Guwahati",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Haryana",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Hosur",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Hyderabad",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Jaipur",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Jammu",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Kannur",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Kanpur",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Kirlampudi",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Kolkata",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Kolkata MCN",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Kozhikode",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Lucknow",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Ludhiana",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Mangalore",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Meerut",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Mohali",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Moradabad",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Nagpur",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Navi Mumbai",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Nellore",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "New Delhi",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "PALGHAR",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Patna",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Pune",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "RAJKOT",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Raipur",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Rajahmundry",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Ranchi",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "SURAT",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Shillong",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Shimla",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Sion",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Srinagar",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Thrissur",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Vijayawada",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Warangal",
+    "country": "India",
+    "country_code": "IN"
+  },
+  {
+    "city": "Le Port",
+    "country": "Island of Reunion",
+    "country_code": "RE"
+  },
+  {
+    "city": "Ancona",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Bari",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Bergamo",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Bologna",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Cagliari",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Casoria",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Firenze",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Florence",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Genova",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Grugliasco",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Milan",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Naples",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Padova",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Padua",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Palermo",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Pescara",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Salerno",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Sesto San Giovanni",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Settimo M.se",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Turin",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Venezia",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Venice",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Verona",
+    "country": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "city": "Chuo-ku",
+    "country": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "city": "FUKUOKA-CITY",
+    "country": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "city": "Fukuoka",
+    "country": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "city": "Fukuoka-shi",
+    "country": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "city": "Kasuyagun",
+    "country": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "city": "Matsuyama",
+    "country": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "city": "Moriguchi-shi",
+    "country": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "city": "Nagoya",
+    "country": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "city": "Nagoya City",
+    "country": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "city": "Nerima-ku",
+    "country": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "city": "Nishinomiya-shi",
+    "country": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "city": "Nisshin City",
+    "country": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "city": "Osaka-shi",
+    "country": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "city": "Takamatsu",
+    "country": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "city": "Takarazuka-shi",
+    "country": "Japan",
+    "country_code": "JP"
+  },
+  {
+    "city": "Apodaca",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "city": "Col. Nuevo Repueblo",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "city": "Cuautitlán Izcalli",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "city": "Jiutepec",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "city": "Juarez",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "city": "Merida",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "city": "Monterrey",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "city": "Mérida",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "city": "Puebla",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "city": "Tijuana",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "city": "Tlalnepantla",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "city": "Tlaquepaque",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "city": "Torreón",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "city": "Zapopan",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "city": "Monaco",
+    "country": "Monaco",
+    "country_code": "MC"
+  },
+  {
+    "city": "Aukland",
+    "country": "New Zealand",
+    "country_code": "NZ"
+  },
+  {
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "country_code": "NZ"
+  },
+  {
+    "city": "Hamilton",
+    "country": "New Zealand",
+    "country_code": "NZ"
+  },
+  {
+    "city": "Wellington",
+    "country": "New Zealand",
+    "country_code": "NZ"
+  },
+  {
+    "city": "LUQUILLO",
+    "country": "Puerto Rico",
+    "country_code": "PR"
+  },
+  {
+    "city": "PONCE",
+    "country": "Puerto Rico",
+    "country_code": "PR"
+  },
+  {
+    "city": "VEGA BAJA",
+    "country": "Puerto Rico",
+    "country_code": "PR"
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "country_code": "TH"
+  },
+  {
+    "city": "Laksi",
+    "country": "Thailand",
+    "country_code": "TH"
+  },
+  {
+    "city": "Nonthaburi",
+    "country": "Thailand",
+    "country_code": "TH"
+  },
+  {
+    "city": "Pathumthaini",
+    "country": "Thailand",
+    "country_code": "TH"
+  },
+  {
+    "city": "Pom Prap Sattru Phai",
+    "country": "Thailand",
+    "country_code": "TH"
+  },
+  {
+    "city": "Douglas",
+    "country": "The Isle of Man",
+    "country_code": "IM"
+  },
+  {
+    "city": "Abilene",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Alamogordo",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Amarillo",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Anchorage",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Ardmore",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Arvada",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Ashburn",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Ashwaubenon",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Austin",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Bay City",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Beckley",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Beltsville",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Bend",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Billerica",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Biloxi",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Birmingham",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Bismarck",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Boerne",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Boise",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Bossier",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Broken Arrow",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Bryan",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Burlington",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Butler",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Canyon Lake",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Charleston",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Charlotte",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Chicago",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Cincinnati",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Cleveland",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Colombia",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Commerce",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Contoocook",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Corpus Christi",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Dallas",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Denver",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Detroit",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Durham",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Elgin",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Englewood",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Eureka",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Evansville",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Fargo",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Fitzgerald",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Flagstaff",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Georgetown",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Greenville",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Grinnell",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Hawthorne",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Henrico",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Hicksville",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Hobbs",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Honolulu",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Hudson",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Irvine",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Jacksonville",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Jonesboro",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Joplin",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Kansas City",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Katy",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Kingwood",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Lake Charles",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Lake Havasu",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Las Vegas",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Lawrence",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Lexington",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Lincoln",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Lisle",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Little Rock",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Live Oak",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Louisville",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Lubbock",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Madison",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Manchester",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Memphis",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Miami",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Minneapolis",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Monroe",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Mooresville",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Mt. Juliet",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Nashville",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Natchitoches",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "New Orleans",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Norcross",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "North Lima",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Norton",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Odessa",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Oklahoma City",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Omaha",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Oxford",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Palmerton",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Parkersburg",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Parsippany",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Phoenix",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Pittsburgh",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Pontotoc",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Prescott",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Richmond",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Rocky Mt",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Russellville",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Sacramento",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Salt Lake City",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "San Angelo",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "San Antonio",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "San Diego",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "San Francisco",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "San Marcos",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Santa Clara",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Seattle",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Silverton",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Sioux City",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Sioux Falls",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "South Bend",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Southfield",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "St George",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "St Louis",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Starkville",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Tallahassee",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Toledo",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Truckee",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Tukwila",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Vincennes",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Waco",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Waipahu",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Washington",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Watertown",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "West Sacramento",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "White Plains",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Wilkes Barre",
+    "country": "United States",
+    "country_code": "US"
+  },
+  {
+    "city": "Zelienople",
+    "country": "United States",
+    "country_code": "US"
+  }
+]

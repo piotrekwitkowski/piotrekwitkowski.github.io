@@ -16,6 +16,7 @@ import { ThemeProvider } from "../context/ThemeContext";
 
 const TOOLS = [
   { text: "Datasets", href: "/datasets" },
+  { text: "Latency Simulator", href: "/edge-latency" },
 ];
 
 const DATASETS = [
@@ -23,6 +24,12 @@ const DATASETS = [
     name: "cloudfront-edge-locations.json",
     description: "CloudFront POP locations with IATA codes, cities, countries, and active node identifiers.",
     href: "/static/cloudfront-edge-locations.json",
+    format: "JSON",
+  },
+  {
+    name: "cloudfront-embedded-pops.json",
+    description: "CloudFront Embedded PoP locations (caches within ISP networks) by city and country.",
+    href: "/static/cloudfront-embedded-pops.json",
     format: "JSON",
   },
   {
