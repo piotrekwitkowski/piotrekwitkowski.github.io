@@ -142,6 +142,7 @@
     "country": "United States",
     "country_code": "US",
     "nodes": [
+      "BOS50-P3",
       "BOS50-P5",
       "BOS50-P6"
     ]
@@ -184,6 +185,7 @@
     "country_code": "IN",
     "nodes": [
       "CCU50-P3",
+      "CCU50-P5",
       "CCU50-P6"
     ]
   },
@@ -245,6 +247,7 @@
     "country": "India",
     "country_code": "IN",
     "nodes": [
+      "DEL51-P4",
       "DEL51-P6",
       "DEL51-P7",
       "DEL54-P1",
@@ -336,7 +339,8 @@
     "country": "Italy",
     "country_code": "IT",
     "nodes": [
-      "FCO50-P2"
+      "FCO50-P2",
+      "FCO50-P7"
     ]
   },
   {
@@ -392,7 +396,6 @@
     "country": "Germany",
     "country_code": "DE",
     "nodes": [
-      "HAM50-P1",
       "HAM50-P4",
       "HAM50-P6"
     ]
@@ -414,7 +417,9 @@
     "country_code": "FI",
     "nodes": [
       "HEL51-P1",
-      "HEL51-P3"
+      "HEL51-P3",
+      "HEL51-P5",
+      "HEL51-P6"
     ]
   },
   {
@@ -525,8 +530,7 @@
       "JFK50-P13",
       "JFK50-P6",
       "JFK50-P7",
-      "JFK52-P8",
-      "JFK52-P9"
+      "JFK52-P8"
     ]
   },
   {
@@ -571,6 +575,7 @@
       "LAX53-P1",
       "LAX53-P2",
       "LAX54-P11",
+      "LAX54-P4",
       "LAX54-P9"
     ]
   },
@@ -581,7 +586,6 @@
     "country_code": "GB",
     "nodes": [
       "LHR3-P4",
-      "LHR50-P2",
       "LHR50-P4",
       "LHR86-P2"
     ]
@@ -632,7 +636,8 @@
     "country_code": "ES",
     "nodes": [
       "MAD53-P7",
-      "MAD56-P1"
+      "MAD56-P1",
+      "MAD56-P2"
     ]
   },
   {
