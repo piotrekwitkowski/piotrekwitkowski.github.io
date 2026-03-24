@@ -82,7 +82,8 @@
     "country_code": "TH",
     "nodes": [
       "BKK50-P2",
-      "BKK50-P4"
+      "BKK50-P4",
+      "BKK51-P1"
     ]
   },
   {
@@ -142,6 +143,7 @@
     "country": "United States",
     "country_code": "US",
     "nodes": [
+      "BOS50-P3",
       "BOS50-P5",
       "BOS50-P6"
     ]
@@ -184,6 +186,7 @@
     "country_code": "IN",
     "nodes": [
       "CCU50-P3",
+      "CCU50-P5",
       "CCU50-P6"
     ]
   },
@@ -245,9 +248,8 @@
     "country": "India",
     "country_code": "IN",
     "nodes": [
+      "DEL51-P4",
       "DEL51-P6",
-      "DEL51-P7",
-      "DEL54-P1",
       "DEL54-P4"
     ]
   },
@@ -310,8 +312,7 @@
     "nodes": [
       "DXB52-P1",
       "DXB52-P2",
-      "DXB53-P1",
-      "DXB53-P3"
+      "DXB53-P1"
     ]
   },
   {
@@ -336,7 +337,8 @@
     "country": "Italy",
     "country_code": "IT",
     "nodes": [
-      "FCO50-P2"
+      "FCO50-P2",
+      "FCO50-P7"
     ]
   },
   {
@@ -392,7 +394,6 @@
     "country": "Germany",
     "country_code": "DE",
     "nodes": [
-      "HAM50-P1",
       "HAM50-P4",
       "HAM50-P6"
     ]
@@ -414,7 +415,9 @@
     "country_code": "FI",
     "nodes": [
       "HEL51-P1",
-      "HEL51-P3"
+      "HEL51-P3",
+      "HEL51-P5",
+      "HEL51-P6"
     ]
   },
   {
@@ -522,11 +525,9 @@
     "country_code": "US",
     "nodes": [
       "JFK50-P12",
-      "JFK50-P13",
+      "JFK50-P14",
       "JFK50-P6",
-      "JFK50-P7",
-      "JFK52-P8",
-      "JFK52-P9"
+      "JFK52-P8"
     ]
   },
   {
@@ -570,7 +571,9 @@
     "nodes": [
       "LAX53-P1",
       "LAX53-P2",
+      "LAX53-P5",
       "LAX54-P11",
+      "LAX54-P4",
       "LAX54-P9"
     ]
   },
@@ -581,7 +584,6 @@
     "country_code": "GB",
     "nodes": [
       "LHR3-P4",
-      "LHR50-P2",
       "LHR50-P4",
       "LHR86-P2"
     ]
@@ -632,7 +634,8 @@
     "country_code": "ES",
     "nodes": [
       "MAD53-P7",
-      "MAD56-P1"
+      "MAD56-P1",
+      "MAD56-P2"
     ]
   },
   {
@@ -891,7 +894,6 @@
     "country": "Chile",
     "country_code": "CL",
     "nodes": [
-      "SCL51-P1",
       "SCL51-P3",
       "SCL51-P5"
     ]
@@ -903,8 +905,7 @@
     "country_code": "US",
     "nodes": [
       "SEA73-P1",
-      "SEA900-P1",
-      "SEA900-P2"
+      "SEA900-P1"
     ]
   },
   {
@@ -916,7 +917,6 @@
       "SFO5-P1",
       "SFO53-P1",
       "SFO53-P10",
-      "SFO53-P5",
       "SFO53-P9"
     ]
   },
@@ -926,7 +926,6 @@
     "country": "Vietnam",
     "country_code": "VN",
     "nodes": [
-      "SGN50-P2",
       "SGN50-P3",
       "SGN50-P4"
     ]
