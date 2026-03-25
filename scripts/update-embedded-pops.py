@@ -15,6 +15,7 @@ import re
 import sys
 import tempfile
 import urllib.request
+from datetime import date
 from pathlib import Path
 
 PDF_URL = "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/networking/approved/documents/cloudfront-embedded-PoPs.pdf"
@@ -231,17 +232,34 @@ def main():
     else:
         print("No existing data file — treating as initial seed.")
 
-    added, removed = diff_locations(committed, locations)
+    committed_stripped = [{k: v for k, v in loc.items() if k != "last_seen"} for loc in committed]
+    added, removed = diff_locations(committed_stripped, locations)
     total_changes = len(added) + len(removed)
 
-    if total_changes == 0:
+    today = date.today().isoformat()
+    committed_by_key = {(loc["country"], loc["city"]): loc for loc in committed}
+
+    merged = []
+    for loc in locations:
+        merged.append({**loc, "last_seen": today})
+
+    for key, old in committed_by_key.items():
+        if key not in {(loc["country"], loc["city"]) for loc in locations}:
+            merged.append(old)
+
+    merged.sort(key=lambda x: (x["country"], x["city"]))
+
+    merged_json = json.dumps(merged, indent=2, ensure_ascii=False) + "\n"
+    committed_json = DATA_PATH.read_text() if DATA_PATH.exists() else ""
+
+    if merged_json == committed_json:
         print("No changes detected.")
         sys.exit(2)
 
     print(f"Changes: +{len(added)} added, -{len(removed)} removed")
 
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
-    DATA_PATH.write_text(json.dumps(locations, indent=2, ensure_ascii=False) + "\n")
+    DATA_PATH.write_text(merged_json)
     print(f"Updated {DATA_PATH}")
 
     title_parts = []
@@ -249,6 +267,8 @@ def main():
         title_parts.append(f"{len(added)} added")
     if removed:
         title_parts.append(f"{len(removed)} removed")
+    if not title_parts:
+        title_parts.append("timestamps updated")
     title = f"Update CloudFront embedded PoPs ({', '.join(title_parts)})"
 
     summary = format_summary(added, removed)

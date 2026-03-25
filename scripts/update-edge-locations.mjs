@@ -269,6 +269,7 @@ function shortTitle(diff) {
   if (diff.added.length) parts.push(`${diff.added.length} added`);
   if (diff.removed.length) parts.push(`${diff.removed.length} removed`);
   if (diff.changed.length) parts.push(`${diff.changed.length} changed`);
+  if (!parts.length) parts.push("timestamps updated");
   return `Update CloudFront edge locations (${parts.join(", ")})`;
 }
 
@@ -308,32 +309,64 @@ async function main() {
     console.log("No existing data file — treating as initial seed.");
   }
 
-  // 6. Diff
-  const diff = diffLocations(committedLocations, freshLocations);
+  // 6. Diff (against committed data without last_seen for clean comparison)
+  const stripTracking = (locs) => locs.map((loc) => ({
+    ...loc,
+    nodes: Array.isArray(loc.nodes) ? loc.nodes : Object.keys(loc.nodes).sort(),
+  }));
+  const diff = diffLocations(stripTracking(committedLocations), freshLocations);
   const totalChanges = diff.added.length + diff.removed.length + diff.changed.length;
 
-  if (totalChanges === 0 && missingFromCloudping.length === 0) {
+  const today = new Date().toISOString().slice(0, 10);
+  const committedByIata = buildIndex(committedLocations);
+
+  const mergedLocations = freshLocations.map((loc) => {
+    const old = committedByIata.get(loc.iata);
+    const oldNodes = old?.nodes ?? {};
+    const nodeMap = {};
+    for (const node of loc.nodes) {
+      nodeMap[node] = today;
+    }
+    if (typeof oldNodes === "object" && !Array.isArray(oldNodes)) {
+      for (const [node, date] of Object.entries(oldNodes)) {
+        if (!(node in nodeMap)) {
+          nodeMap[node] = date;
+        }
+      }
+    }
+    const sortedNodes = Object.fromEntries(Object.entries(nodeMap).sort(([a], [b]) => a.localeCompare(b)));
+    return { ...loc, nodes: sortedNodes };
+  });
+
+  for (const [iata, old] of committedByIata) {
+    if (!freshLocations.some((l) => l.iata === iata)) {
+      mergedLocations.push(old);
+    }
+  }
+  mergedLocations.sort((a, b) => a.iata.localeCompare(b.iata));
+
+  const mergedJSON = JSON.stringify(mergedLocations, null, 2) + "\n";
+  const committedJSON = existsSync(DATA_PATH) ? await readFile(DATA_PATH, "utf-8") : "";
+
+  if (mergedJSON === committedJSON && missingFromCloudping.length === 0) {
     console.log("No changes detected.");
     process.exit(2);
   }
 
-  if (totalChanges === 0 && missingFromCloudping.length > 0) {
-    // Only cross-ref warnings, no actual data changes — don't update file
+  if (mergedJSON === committedJSON && missingFromCloudping.length > 0) {
     console.log("No data changes, but cross-reference warnings exist.");
     const summary = formatSummary(diff, missingFromCloudping);
     await outputForGitHub("summary", summary);
     await outputForGitHub("title", "CloudFront edge locations: cross-reference warnings only");
-    // Still exit 2 — no file changes to commit
     process.exit(2);
   }
 
   console.log(`Changes: +${diff.added.length} added, -${diff.removed.length} removed, ~${diff.changed.length} changed`);
 
-  // 7. Write updated data
-  await writeFile(DATA_PATH, JSON.stringify(freshLocations, null, 2) + "\n", "utf-8");
+  await writeFile(DATA_PATH, mergedJSON, "utf-8");
   console.log(`Updated ${DATA_PATH}`);
 
-  // 8. Output summary for the workflow
+  // 9. Output summary for the workflow
   const title = shortTitle(diff);
   const summary = formatSummary(diff, missingFromCloudping);
 

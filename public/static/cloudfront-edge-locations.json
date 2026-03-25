@@ -4,1093 +4,1092 @@
     "city": "Auckland",
     "country": "New Zealand",
     "country_code": "NZ",
-    "nodes": [
-      "AKL53-P1",
-      "AKL53-P2"
-    ]
+    "nodes": {
+      "AKL53-P1": "2026-03-25",
+      "AKL53-P2": "2026-03-25"
+    }
   },
   {
     "iata": "AMS",
     "city": "Amsterdam",
     "country": "Netherlands",
     "country_code": "NL",
-    "nodes": [
-      "AMS1-P3",
-      "AMS58-P1",
-      "AMS58-P2",
-      "AMS58-P3",
-      "AMS58-P4",
-      "AMS58-P5"
-    ]
+    "nodes": {
+      "AMS1-P3": "2026-03-25",
+      "AMS58-P1": "2026-03-25",
+      "AMS58-P2": "2026-03-25",
+      "AMS58-P3": "2026-03-25",
+      "AMS58-P4": "2026-03-25",
+      "AMS58-P5": "2026-03-25"
+    }
   },
   {
     "iata": "ARN",
     "city": "Stockholm",
     "country": "Sweden",
     "country_code": "SE",
-    "nodes": [
-      "ARN53-P2",
-      "ARN56-P1"
-    ]
+    "nodes": {
+      "ARN53-P2": "2026-03-25",
+      "ARN56-P1": "2026-03-25"
+    }
   },
   {
     "iata": "ATH",
     "city": "Athens",
     "country": "Greece",
     "country_code": "GR",
-    "nodes": [
-      "ATH51-P1",
-      "ATH51-P2"
-    ]
+    "nodes": {
+      "ATH51-P1": "2026-03-25",
+      "ATH51-P2": "2026-03-25"
+    }
   },
   {
     "iata": "ATL",
     "city": "Atlanta",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "ATL58-P1",
-      "ATL58-P10",
-      "ATL58-P11"
-    ]
+    "nodes": {
+      "ATL58-P1": "2026-03-25",
+      "ATL58-P10": "2026-03-25",
+      "ATL58-P11": "2026-03-25"
+    }
   },
   {
     "iata": "BAH",
     "city": "Manama",
     "country": "Bahrain",
     "country_code": "BH",
-    "nodes": [
-      "BAH52-P1",
-      "BAH52-P2",
-      "BAH53-P2"
-    ]
+    "nodes": {
+      "BAH52-P1": "2026-03-25",
+      "BAH52-P2": "2026-03-25",
+      "BAH53-P2": "2026-03-25"
+    }
   },
   {
     "iata": "BCN",
     "city": "Barcelona",
     "country": "Spain",
     "country_code": "ES",
-    "nodes": [
-      "BCN50-P1",
-      "BCN50-P2"
-    ]
+    "nodes": {
+      "BCN50-P1": "2026-03-25",
+      "BCN50-P2": "2026-03-25"
+    }
   },
   {
     "iata": "BKK",
     "city": "Bangkok",
     "country": "Thailand",
     "country_code": "TH",
-    "nodes": [
-      "BKK50-P2",
-      "BKK50-P4"
-    ]
+    "nodes": {
+      "BKK50-P2": "2026-03-25",
+      "BKK50-P4": "2026-03-25",
+      "BKK51-P1": "2026-03-25"
+    }
   },
   {
     "iata": "BLR",
     "city": "Bangalore",
     "country": "India",
     "country_code": "IN",
-    "nodes": [
-      "BLR50-P1",
-      "BLR50-P3",
-      "BLR50-P4"
-    ]
+    "nodes": {
+      "BLR50-P1": "2026-03-25",
+      "BLR50-P3": "2026-03-25",
+      "BLR50-P4": "2026-03-25"
+    }
   },
   {
     "iata": "BNA",
     "city": "Nashville",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "BNA50-P1",
-      "BNA50-P2"
-    ]
+    "nodes": {
+      "BNA50-P1": "2026-03-25",
+      "BNA50-P2": "2026-03-25"
+    }
   },
   {
     "iata": "BNE",
     "city": "Brisbane",
     "country": "Australia",
     "country_code": "AU",
-    "nodes": [
-      "BNE50-P2"
-    ]
+    "nodes": {
+      "BNE50-P2": "2026-03-25"
+    }
   },
   {
     "iata": "BOG",
     "city": "Bogotá",
     "country": "Colombia",
     "country_code": "CO",
-    "nodes": [
-      "BOG50-P2"
-    ]
+    "nodes": {
+      "BOG50-P2": "2026-03-25"
+    }
   },
   {
     "iata": "BOM",
     "city": "Mumbai",
     "country": "India",
     "country_code": "IN",
-    "nodes": [
-      "BOM54-P2",
-      "BOM78-P11",
-      "BOM78-P7",
-      "BOM78-P9"
-    ]
+    "nodes": {
+      "BOM54-P2": "2026-03-25",
+      "BOM78-P11": "2026-03-25",
+      "BOM78-P7": "2026-03-25",
+      "BOM78-P9": "2026-03-25"
+    }
   },
   {
     "iata": "BOS",
     "city": "Boston",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "BOS50-P5",
-      "BOS50-P6"
-    ]
+    "nodes": {
+      "BOS50-P3": "2026-03-25",
+      "BOS50-P5": "2026-03-25",
+      "BOS50-P6": "2026-03-25"
+    }
   },
   {
     "iata": "BRU",
     "city": "Brussels",
     "country": "Belgium",
     "country_code": "BE",
-    "nodes": [
-      "BRU50-P1",
-      "BRU50-P2"
-    ]
+    "nodes": {
+      "BRU50-P1": "2026-03-25",
+      "BRU50-P2": "2026-03-25"
+    }
   },
   {
     "iata": "BUD",
     "city": "Budapest",
     "country": "Hungary",
     "country_code": "HU",
-    "nodes": [
-      "BUD50-P1",
-      "BUD50-P2"
-    ]
+    "nodes": {
+      "BUD50-P1": "2026-03-25",
+      "BUD50-P2": "2026-03-25"
+    }
   },
   {
     "iata": "CAI",
     "city": "Cairo",
     "country": "Egypt",
     "country_code": "EG",
-    "nodes": [
-      "CAI50-P1",
-      "CAI50-P2",
-      "CAI50-P3"
-    ]
+    "nodes": {
+      "CAI50-P1": "2026-03-25",
+      "CAI50-P2": "2026-03-25",
+      "CAI50-P3": "2026-03-25"
+    }
   },
   {
     "iata": "CCU",
     "city": "Kolkata",
     "country": "India",
     "country_code": "IN",
-    "nodes": [
-      "CCU50-P3",
-      "CCU50-P6"
-    ]
+    "nodes": {
+      "CCU50-P3": "2026-03-25",
+      "CCU50-P5": "2026-03-25",
+      "CCU50-P6": "2026-03-25"
+    }
   },
   {
     "iata": "CDG",
     "city": "Paris",
     "country": "France",
     "country_code": "FR",
-    "nodes": [
-      "CDG52-P3",
-      "CDG54-P1"
-    ]
+    "nodes": {
+      "CDG52-P3": "2026-03-25",
+      "CDG54-P1": "2026-03-25"
+    }
   },
   {
     "iata": "CGK",
     "city": "Jakarta",
     "country": "Indonesia",
     "country_code": "ID",
-    "nodes": [
-      "CGK50-P3",
-      "CGK51-P2",
-      "CGK51-P3"
-    ]
+    "nodes": {
+      "CGK50-P3": "2026-03-25",
+      "CGK51-P2": "2026-03-25",
+      "CGK51-P3": "2026-03-25"
+    }
   },
   {
     "iata": "CMH",
     "city": "Columbus",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "CMH68-P2",
-      "CMH68-P4",
-      "CMH68-P5",
-      "CMH68-P7"
-    ]
+    "nodes": {
+      "CMH68-P2": "2026-03-25",
+      "CMH68-P4": "2026-03-25",
+      "CMH68-P5": "2026-03-25",
+      "CMH68-P7": "2026-03-25"
+    }
   },
   {
     "iata": "CPH",
     "city": "Copenhagen",
     "country": "Denmark",
     "country_code": "DK",
-    "nodes": [
-      "CPH50-P2"
-    ]
+    "nodes": {
+      "CPH50-P2": "2026-03-25"
+    }
   },
   {
     "iata": "CPT",
     "city": "Cape Town",
     "country": "South Africa",
     "country_code": "ZA",
-    "nodes": [
-      "CPT51-P1",
-      "CPT51-P2"
-    ]
+    "nodes": {
+      "CPT51-P1": "2026-03-25",
+      "CPT51-P2": "2026-03-25"
+    }
   },
   {
     "iata": "DEL",
     "city": "New Delhi",
     "country": "India",
     "country_code": "IN",
-    "nodes": [
-      "DEL51-P6",
-      "DEL51-P7",
-      "DEL54-P1",
-      "DEL54-P4"
-    ]
+    "nodes": {
+      "DEL51-P4": "2026-03-25",
+      "DEL51-P6": "2026-03-25",
+      "DEL54-P4": "2026-03-25"
+    }
   },
   {
     "iata": "DEN",
     "city": "Denver",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "DEN52-P3",
-      "DEN53-P4"
-    ]
+    "nodes": {
+      "DEN52-P3": "2026-03-25",
+      "DEN53-P4": "2026-03-25"
+    }
   },
   {
     "iata": "DFW",
     "city": "Dallas/Fort Worth",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "DFW56-P7",
-      "DFW57-P2",
-      "DFW57-P6",
-      "DFW59-P8"
-    ]
+    "nodes": {
+      "DFW56-P7": "2026-03-25",
+      "DFW57-P2": "2026-03-25",
+      "DFW57-P6": "2026-03-25",
+      "DFW59-P8": "2026-03-25"
+    }
   },
   {
     "iata": "DOH",
     "city": "Doha",
     "country": "Qatar",
     "country_code": "QA",
-    "nodes": [
-      "DOH50-P2"
-    ]
+    "nodes": {
+      "DOH50-P2": "2026-03-25"
+    }
   },
   {
     "iata": "DUB",
     "city": "Dublin",
     "country": "Ireland",
     "country_code": "IE",
-    "nodes": [
-      "DUB56-P1",
-      "DUB56-P4"
-    ]
+    "nodes": {
+      "DUB56-P1": "2026-03-25",
+      "DUB56-P4": "2026-03-25"
+    }
   },
   {
     "iata": "DUS",
     "city": "Düsseldorf",
     "country": "Germany",
     "country_code": "DE",
-    "nodes": [
-      "DUS51-P2",
-      "DUS51-P6"
-    ]
+    "nodes": {
+      "DUS51-P2": "2026-03-25",
+      "DUS51-P6": "2026-03-25"
+    }
   },
   {
     "iata": "DXB",
     "city": "Dubai",
     "country": "United Arab Emirates",
     "country_code": "AE",
-    "nodes": [
-      "DXB52-P1",
-      "DXB52-P2",
-      "DXB53-P1",
-      "DXB53-P3"
-    ]
+    "nodes": {
+      "DXB52-P1": "2026-03-25",
+      "DXB52-P2": "2026-03-25",
+      "DXB53-P1": "2026-03-25"
+    }
   },
   {
     "iata": "EWR",
     "city": "Newark",
     "country": "United States",
     "country_code": "US",
-    "nodes": []
+    "nodes": {}
   },
   {
     "iata": "EZE",
     "city": "Buenos Aires",
     "country": "Argentina",
     "country_code": "AR",
-    "nodes": [
-      "EZE50-P3"
-    ]
+    "nodes": {
+      "EZE50-P3": "2026-03-25"
+    }
   },
   {
     "iata": "FCO",
     "city": "Rome",
     "country": "Italy",
     "country_code": "IT",
-    "nodes": [
-      "FCO50-P2"
-    ]
+    "nodes": {
+      "FCO50-P2": "2026-03-25",
+      "FCO50-P7": "2026-03-25"
+    }
   },
   {
     "iata": "FJR",
     "city": "Fujairah",
     "country": "United Arab Emirates",
     "country_code": "AE",
-    "nodes": []
+    "nodes": {}
   },
   {
     "iata": "FOR",
     "city": "Fortaleza",
     "country": "Brazil",
     "country_code": "BR",
-    "nodes": [
-      "FOR50-P6"
-    ]
+    "nodes": {
+      "FOR50-P6": "2026-03-25"
+    }
   },
   {
     "iata": "FRA",
     "city": "Frankfurt",
     "country": "Germany",
     "country_code": "DE",
-    "nodes": [
-      "FRA56-P12",
-      "FRA56-P15",
-      "FRA60-P1",
-      "FRA60-P10",
-      "FRA60-P12"
-    ]
+    "nodes": {
+      "FRA56-P12": "2026-03-25",
+      "FRA56-P15": "2026-03-25",
+      "FRA60-P1": "2026-03-25",
+      "FRA60-P10": "2026-03-25",
+      "FRA60-P12": "2026-03-25"
+    }
   },
   {
     "iata": "GIG",
     "city": "Rio de Janeiro",
     "country": "Brazil",
     "country_code": "BR",
-    "nodes": [
-      "GIG52-P2"
-    ]
+    "nodes": {
+      "GIG52-P2": "2026-03-25"
+    }
   },
   {
     "iata": "GRU",
     "city": "São Paulo",
     "country": "Brazil",
     "country_code": "BR",
-    "nodes": [
-      "GRU3-P10"
-    ]
+    "nodes": {
+      "GRU3-P10": "2026-03-25"
+    }
   },
   {
     "iata": "HAM",
     "city": "Hamburg",
     "country": "Germany",
     "country_code": "DE",
-    "nodes": [
-      "HAM50-P1",
-      "HAM50-P4",
-      "HAM50-P6"
-    ]
+    "nodes": {
+      "HAM50-P4": "2026-03-25",
+      "HAM50-P6": "2026-03-25"
+    }
   },
   {
     "iata": "HAN",
     "city": "Hanoi",
     "country": "Vietnam",
     "country_code": "VN",
-    "nodes": [
-      "HAN51-P1",
-      "HAN51-P2"
-    ]
+    "nodes": {
+      "HAN51-P1": "2026-03-25",
+      "HAN51-P2": "2026-03-25"
+    }
   },
   {
     "iata": "HEL",
     "city": "Helsinki",
     "country": "Finland",
     "country_code": "FI",
-    "nodes": [
-      "HEL51-P1",
-      "HEL51-P3"
-    ]
+    "nodes": {
+      "HEL51-P1": "2026-03-25",
+      "HEL51-P3": "2026-03-25",
+      "HEL51-P5": "2026-03-25",
+      "HEL51-P6": "2026-03-25"
+    }
   },
   {
     "iata": "HIO",
     "city": "Hillsboro",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "HIO52-P2",
-      "HIO52-P4"
-    ]
+    "nodes": {
+      "HIO52-P2": "2026-03-25",
+      "HIO52-P4": "2026-03-25"
+    }
   },
   {
     "iata": "HKG",
     "city": "Hong Kong",
     "country": "Hong Kong",
     "country_code": "HK",
-    "nodes": [
-      "HKG1-P1",
-      "HKG1-P2",
-      "HKG54-P2",
-      "HKG62-P1"
-    ]
+    "nodes": {
+      "HKG1-P1": "2026-03-25",
+      "HKG1-P2": "2026-03-25",
+      "HKG54-P2": "2026-03-25",
+      "HKG62-P1": "2026-03-25"
+    }
   },
   {
     "iata": "HYD",
     "city": "Hyderabad",
     "country": "India",
     "country_code": "IN",
-    "nodes": [
-      "HYD57-P3"
-    ]
+    "nodes": {
+      "HYD57-P3": "2026-03-25"
+    }
   },
   {
     "iata": "IAD",
-    "city": "Ashburn",
+    "city": "Washington D. C.",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "IAD55-P10",
-      "IAD61-P13",
-      "IAD89-P3"
-    ]
+    "nodes": {
+      "IAD55-P10": "2026-03-25",
+      "IAD61-P13": "2026-03-25",
+      "IAD89-P3": "2026-03-25"
+    }
   },
   {
     "iata": "IAH",
     "city": "Houston",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "IAH50-P5",
-      "IAH51-P1"
-    ]
+    "nodes": {
+      "IAH50-P5": "2026-03-25",
+      "IAH51-P1": "2026-03-25"
+    }
   },
   {
     "iata": "ICN",
     "city": "Seoul",
     "country": "South Korea",
     "country_code": "KR",
-    "nodes": [
-      "ICN57-P5",
-      "ICN57-P6",
-      "ICN80-P1",
-      "ICN80-P3",
-      "ICN80-P4"
-    ]
+    "nodes": {
+      "ICN57-P5": "2026-03-25",
+      "ICN57-P6": "2026-03-25",
+      "ICN80-P1": "2026-03-25",
+      "ICN80-P3": "2026-03-25",
+      "ICN80-P4": "2026-03-25"
+    }
   },
   {
     "iata": "IND",
-    "city": "South Bend",
+    "city": "Indianapolis",
     "country": "United States",
     "country_code": "US",
-    "nodes": []
+    "nodes": {}
   },
   {
     "iata": "IST",
     "city": "Istanbul",
     "country": "Turkey",
     "country_code": "TR",
-    "nodes": [
-      "IST52-P1",
-      "IST52-P2"
-    ]
+    "nodes": {
+      "IST52-P1": "2026-03-25",
+      "IST52-P2": "2026-03-25"
+    }
   },
   {
     "iata": "JAX",
     "city": "Jacksonville",
     "country": "United States",
     "country_code": "US",
-    "nodes": []
+    "nodes": {}
   },
   {
     "iata": "JED",
     "city": "Jeddah",
     "country": "Saudi Arabia",
     "country_code": "SA",
-    "nodes": [
-      "JED50-P5"
-    ]
+    "nodes": {
+      "JED50-P5": "2026-03-25"
+    }
   },
   {
     "iata": "JFK",
     "city": "New York",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "JFK50-P12",
-      "JFK50-P13",
-      "JFK50-P6",
-      "JFK50-P7",
-      "JFK52-P8",
-      "JFK52-P9"
-    ]
+    "nodes": {
+      "JFK50-P12": "2026-03-25",
+      "JFK50-P14": "2026-03-25",
+      "JFK50-P6": "2026-03-25",
+      "JFK52-P8": "2026-03-25"
+    }
   },
   {
     "iata": "JNB",
     "city": "Johannesburg",
     "country": "South Africa",
     "country_code": "ZA",
-    "nodes": [
-      "JNB51-P1",
-      "JNB51-P2",
-      "JNB51-P3"
-    ]
+    "nodes": {
+      "JNB51-P1": "2026-03-25",
+      "JNB51-P2": "2026-03-25",
+      "JNB51-P3": "2026-03-25"
+    }
   },
   {
     "iata": "KIX",
     "city": "Osaka",
     "country": "Japan",
     "country_code": "JP",
-    "nodes": [
-      "KIX56-P2",
-      "KIX82-P3",
-      "KIX82-P4"
-    ]
+    "nodes": {
+      "KIX56-P2": "2026-03-25",
+      "KIX82-P3": "2026-03-25",
+      "KIX82-P4": "2026-03-25"
+    }
   },
   {
     "iata": "KUL",
     "city": "Kuala Lumpur",
     "country": "Malaysia",
     "country_code": "MY",
-    "nodes": [
-      "KUL50-P2",
-      "KUL51-P1",
-      "KUL51-P2"
-    ]
+    "nodes": {
+      "KUL50-P2": "2026-03-25",
+      "KUL51-P1": "2026-03-25",
+      "KUL51-P2": "2026-03-25"
+    }
   },
   {
     "iata": "LAX",
     "city": "Los Angeles",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "LAX53-P1",
-      "LAX53-P2",
-      "LAX54-P11",
-      "LAX54-P9"
-    ]
+    "nodes": {
+      "LAX53-P1": "2026-03-25",
+      "LAX53-P2": "2026-03-25",
+      "LAX53-P5": "2026-03-25",
+      "LAX54-P11": "2026-03-25",
+      "LAX54-P4": "2026-03-25",
+      "LAX54-P9": "2026-03-25"
+    }
   },
   {
     "iata": "LHR",
     "city": "London",
     "country": "United Kingdom",
     "country_code": "GB",
-    "nodes": [
-      "LHR3-P4",
-      "LHR50-P2",
-      "LHR50-P4",
-      "LHR86-P2"
-    ]
+    "nodes": {
+      "LHR3-P4": "2026-03-25",
+      "LHR50-P4": "2026-03-25",
+      "LHR86-P2": "2026-03-25"
+    }
   },
   {
     "iata": "LIM",
     "city": "Lima",
     "country": "Peru",
     "country_code": "PE",
-    "nodes": [
-      "LIM50-P4"
-    ]
+    "nodes": {
+      "LIM50-P4": "2026-03-25"
+    }
   },
   {
     "iata": "LIS",
     "city": "Lisbon",
     "country": "Portugal",
     "country_code": "PT",
-    "nodes": [
-      "LIS50-P2"
-    ]
+    "nodes": {
+      "LIS50-P2": "2026-03-25"
+    }
   },
   {
     "iata": "LOS",
     "city": "Lagos",
     "country": "Nigeria",
     "country_code": "NG",
-    "nodes": [
-      "LOS50-P2",
-      "LOS50-P3"
-    ]
+    "nodes": {
+      "LOS50-P2": "2026-03-25",
+      "LOS50-P3": "2026-03-25"
+    }
   },
   {
     "iata": "MAA",
     "city": "Chennai",
     "country": "India",
     "country_code": "IN",
-    "nodes": [
-      "MAA50-P1",
-      "MAA51-P1",
-      "MAA51-P2"
-    ]
+    "nodes": {
+      "MAA50-P1": "2026-03-25",
+      "MAA51-P1": "2026-03-25",
+      "MAA51-P2": "2026-03-25"
+    }
   },
   {
     "iata": "MAD",
     "city": "Madrid",
     "country": "Spain",
     "country_code": "ES",
-    "nodes": [
-      "MAD53-P7",
-      "MAD56-P1"
-    ]
+    "nodes": {
+      "MAD53-P7": "2026-03-25",
+      "MAD56-P1": "2026-03-25",
+      "MAD56-P2": "2026-03-25"
+    }
   },
   {
     "iata": "MAN",
     "city": "Manchester",
     "country": "United Kingdom",
     "country_code": "GB",
-    "nodes": [
-      "MAN51-P3",
-      "MAN51-P5",
-      "MAN51-P6"
-    ]
+    "nodes": {
+      "MAN51-P3": "2026-03-25",
+      "MAN51-P5": "2026-03-25",
+      "MAN51-P6": "2026-03-25"
+    }
   },
   {
     "iata": "MCI",
     "city": "Kansas City",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "MCI50-P2",
-      "MCI50-P3",
-      "MCI50-P4"
-    ]
+    "nodes": {
+      "MCI50-P2": "2026-03-25",
+      "MCI50-P3": "2026-03-25",
+      "MCI50-P4": "2026-03-25"
+    }
   },
   {
     "iata": "MCT",
     "city": "Muscat",
     "country": "Oman",
     "country_code": "OM",
-    "nodes": [
-      "MCT50-P2",
-      "MCT50-P3"
-    ]
+    "nodes": {
+      "MCT50-P2": "2026-03-25",
+      "MCT50-P3": "2026-03-25"
+    }
   },
   {
     "iata": "MEL",
     "city": "Melbourne",
     "country": "Australia",
     "country_code": "AU",
-    "nodes": [
-      "MEL51-P2"
-    ]
+    "nodes": {
+      "MEL51-P2": "2026-03-25"
+    }
   },
   {
     "iata": "MIA",
     "city": "Miami",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "MIA3-P5",
-      "MIA3-P7"
-    ]
+    "nodes": {
+      "MIA3-P5": "2026-03-25",
+      "MIA3-P7": "2026-03-25"
+    }
   },
   {
     "iata": "MNL",
     "city": "Manila",
     "country": "Philippines",
     "country_code": "PH",
-    "nodes": [
-      "MNL51-P2",
-      "MNL52-P1",
-      "MNL52-P3",
-      "MNL52-P4"
-    ]
+    "nodes": {
+      "MNL51-P2": "2026-03-25",
+      "MNL52-P1": "2026-03-25",
+      "MNL52-P3": "2026-03-25",
+      "MNL52-P4": "2026-03-25"
+    }
   },
   {
     "iata": "MRS",
     "city": "Marseille",
     "country": "France",
     "country_code": "FR",
-    "nodes": [
-      "MRS52-P3",
-      "MRS52-P4",
-      "MRS53-P3"
-    ]
+    "nodes": {
+      "MRS52-P3": "2026-03-25",
+      "MRS52-P4": "2026-03-25",
+      "MRS53-P3": "2026-03-25"
+    }
   },
   {
     "iata": "MSP",
     "city": "Minneapolis",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "MSP50-P1",
-      "MSP50-P3",
-      "MSP50-P4"
-    ]
+    "nodes": {
+      "MSP50-P1": "2026-03-25",
+      "MSP50-P3": "2026-03-25",
+      "MSP50-P4": "2026-03-25"
+    }
   },
   {
     "iata": "MUC",
     "city": "Munich",
     "country": "Germany",
     "country_code": "DE",
-    "nodes": [
-      "MUC50-P1",
-      "MUC50-P5",
-      "MUC50-P7"
-    ]
+    "nodes": {
+      "MUC50-P1": "2026-03-25",
+      "MUC50-P5": "2026-03-25",
+      "MUC50-P7": "2026-03-25"
+    }
   },
   {
     "iata": "MXP",
     "city": "Milan",
     "country": "Italy",
     "country_code": "IT",
-    "nodes": [
-      "MXP53-P1",
-      "MXP53-P4",
-      "MXP53-P8",
-      "MXP63-P6",
-      "MXP63-P8"
-    ]
+    "nodes": {
+      "MXP53-P1": "2026-03-25",
+      "MXP53-P4": "2026-03-25",
+      "MXP53-P8": "2026-03-25",
+      "MXP63-P6": "2026-03-25",
+      "MXP63-P8": "2026-03-25"
+    }
   },
   {
     "iata": "NBO",
     "city": "Nairobi",
     "country": "Kenya",
     "country_code": "KE",
-    "nodes": [
-      "NBO50-P1",
-      "NBO50-P2"
-    ]
+    "nodes": {
+      "NBO50-P1": "2026-03-25",
+      "NBO50-P2": "2026-03-25"
+    }
   },
   {
     "iata": "NRT",
     "city": "Tokyo",
     "country": "Japan",
     "country_code": "JP",
-    "nodes": [
-      "NRT12-P5",
-      "NRT20-P1",
-      "NRT20-P3"
-    ]
+    "nodes": {
+      "NRT12-P5": "2026-03-25",
+      "NRT20-P1": "2026-03-25",
+      "NRT20-P3": "2026-03-25"
+    }
   },
   {
     "iata": "ORD",
     "city": "Chicago",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "ORD56-P15",
-      "ORD58-P7"
-    ]
+    "nodes": {
+      "ORD56-P15": "2026-03-25",
+      "ORD58-P7": "2026-03-25"
+    }
   },
   {
     "iata": "OSL",
     "city": "Oslo",
     "country": "Norway",
     "country_code": "NO",
-    "nodes": [
-      "OSL50-P1",
-      "OSL50-P2",
-      "OSL50-P3"
-    ]
+    "nodes": {
+      "OSL50-P1": "2026-03-25",
+      "OSL50-P2": "2026-03-25",
+      "OSL50-P3": "2026-03-25"
+    }
   },
   {
     "iata": "OTP",
     "city": "Bucharest",
     "country": "Romania",
     "country_code": "RO",
-    "nodes": [
-      "OTP50-P1",
-      "OTP50-P2",
-      "OTP50-P3"
-    ]
+    "nodes": {
+      "OTP50-P1": "2026-03-25",
+      "OTP50-P2": "2026-03-25",
+      "OTP50-P3": "2026-03-25"
+    }
   },
   {
     "iata": "PER",
     "city": "Perth",
     "country": "Australia",
     "country_code": "AU",
-    "nodes": [
-      "PER50-P2"
-    ]
+    "nodes": {
+      "PER50-P2": "2026-03-25"
+    }
   },
   {
     "iata": "PHL",
     "city": "Philadelphia",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "PHL51-P1",
-      "PHL51-P3"
-    ]
+    "nodes": {
+      "PHL51-P1": "2026-03-25",
+      "PHL51-P3": "2026-03-25"
+    }
   },
   {
     "iata": "PHX",
     "city": "Phoenix",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "PHX50-P1",
-      "PHX52-P1",
-      "PHX52-P2"
-    ]
+    "nodes": {
+      "PHX50-P1": "2026-03-25",
+      "PHX52-P1": "2026-03-25",
+      "PHX52-P2": "2026-03-25"
+    }
   },
   {
     "iata": "PIT",
     "city": "Pittsburgh",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "PIT50-P1",
-      "PIT50-P2"
-    ]
+    "nodes": {
+      "PIT50-P1": "2026-03-25",
+      "PIT50-P2": "2026-03-25"
+    }
   },
   {
     "iata": "PMO",
     "city": "Palermo",
     "country": "Italy",
     "country_code": "IT",
-    "nodes": []
+    "nodes": {}
   },
   {
     "iata": "PNQ",
     "city": "Pune",
     "country": "India",
     "country_code": "IN",
-    "nodes": [
-      "PNQ50-P1",
-      "PNQ50-P2",
-      "PNQ50-P4"
-    ]
+    "nodes": {
+      "PNQ50-P1": "2026-03-25",
+      "PNQ50-P2": "2026-03-25",
+      "PNQ50-P4": "2026-03-25"
+    }
   },
   {
     "iata": "PRG",
     "city": "Prague",
     "country": "Czech Republic",
     "country_code": "CZ",
-    "nodes": [
-      "PRG50-P2"
-    ]
+    "nodes": {
+      "PRG50-P2": "2026-03-25"
+    }
   },
   {
     "iata": "QRO",
     "city": "Querétaro",
     "country": "Mexico",
     "country_code": "MX",
-    "nodes": [
-      "QRO50-P2",
-      "QRO51-P1",
-      "QRO51-P6"
-    ]
+    "nodes": {
+      "QRO50-P2": "2026-03-25",
+      "QRO51-P1": "2026-03-25",
+      "QRO51-P6": "2026-03-25"
+    }
   },
   {
     "iata": "RUH",
     "city": "Riyadh",
     "country": "Saudi Arabia",
     "country_code": "SA",
-    "nodes": [
-      "RUH50-P1",
-      "RUH50-P2"
-    ]
+    "nodes": {
+      "RUH50-P1": "2026-03-25",
+      "RUH50-P2": "2026-03-25"
+    }
   },
   {
     "iata": "SCL",
     "city": "Santiago",
     "country": "Chile",
     "country_code": "CL",
-    "nodes": [
-      "SCL51-P1",
-      "SCL51-P3",
-      "SCL51-P5"
-    ]
+    "nodes": {
+      "SCL51-P3": "2026-03-25",
+      "SCL51-P5": "2026-03-25"
+    }
   },
   {
     "iata": "SEA",
     "city": "Seattle",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "SEA73-P1",
-      "SEA900-P1",
-      "SEA900-P2"
-    ]
+    "nodes": {
+      "SEA73-P1": "2026-03-25",
+      "SEA900-P1": "2026-03-25"
+    }
   },
   {
     "iata": "SFO",
     "city": "San Francisco",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "SFO5-P1",
-      "SFO53-P1",
-      "SFO53-P10",
-      "SFO53-P5",
-      "SFO53-P9"
-    ]
+    "nodes": {
+      "SFO5-P1": "2026-03-25",
+      "SFO53-P1": "2026-03-25",
+      "SFO53-P10": "2026-03-25",
+      "SFO53-P9": "2026-03-25"
+    }
   },
   {
     "iata": "SGN",
     "city": "Ho Chi Minh City",
     "country": "Vietnam",
     "country_code": "VN",
-    "nodes": [
-      "SGN50-P2",
-      "SGN50-P3",
-      "SGN50-P4"
-    ]
+    "nodes": {
+      "SGN50-P3": "2026-03-25",
+      "SGN50-P4": "2026-03-25"
+    }
   },
   {
     "iata": "SIN",
     "city": "Singapore",
     "country": "Singapore",
     "country_code": "SG",
-    "nodes": [
-      "SIN2-P10",
-      "SIN2-P9",
-      "SIN3-P1"
-    ]
+    "nodes": {
+      "SIN2-P10": "2026-03-25",
+      "SIN2-P9": "2026-03-25",
+      "SIN3-P1": "2026-03-25"
+    }
   },
   {
     "iata": "SLC",
     "city": "Salt Lake City",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "SLC52-P1",
-      "SLC52-P2"
-    ]
+    "nodes": {
+      "SLC52-P1": "2026-03-25",
+      "SLC52-P2": "2026-03-25"
+    }
   },
   {
     "iata": "SOF",
     "city": "Sofia",
     "country": "Bulgaria",
     "country_code": "BG",
-    "nodes": [
-      "SOF50-P1",
-      "SOF50-P2"
-    ]
+    "nodes": {
+      "SOF50-P1": "2026-03-25",
+      "SOF50-P2": "2026-03-25"
+    }
   },
   {
     "iata": "SYD",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "AU",
-    "nodes": [
-      "SYD3-P3"
-    ]
+    "nodes": {
+      "SYD3-P3": "2026-03-25"
+    }
   },
   {
     "iata": "TLV",
     "city": "Tel Aviv",
     "country": "Israel",
     "country_code": "IL",
-    "nodes": [
-      "TLV50-C1",
-      "TLV55-P1"
-    ]
+    "nodes": {
+      "TLV50-C1": "2026-03-25",
+      "TLV55-P1": "2026-03-25"
+    }
   },
   {
     "iata": "TPA",
     "city": "Tampa",
     "country": "United States",
     "country_code": "US",
-    "nodes": [
-      "TPA52-P1",
-      "TPA52-P2"
-    ]
+    "nodes": {
+      "TPA52-P1": "2026-03-25",
+      "TPA52-P2": "2026-03-25"
+    }
   },
   {
     "iata": "TPE",
     "city": "Taipei",
     "country": "Taiwan",
     "country_code": "TW",
-    "nodes": [
-      "TPE53-P1",
-      "TPE53-P2",
-      "TPE54-P1"
-    ]
+    "nodes": {
+      "TPE53-P1": "2026-03-25",
+      "TPE53-P2": "2026-03-25",
+      "TPE54-P1": "2026-03-25"
+    }
   },
   {
     "iata": "TXL",
     "city": "Berlin",
     "country": "Germany",
     "country_code": "DE",
-    "nodes": [
-      "TXL50-P1",
-      "TXL50-P6"
-    ]
+    "nodes": {
+      "TXL50-P1": "2026-03-25",
+      "TXL50-P6": "2026-03-25"
+    }
   },
   {
     "iata": "VIE",
     "city": "Vienna",
     "country": "Austria",
     "country_code": "AT",
-    "nodes": [
-      "VIE50-P1",
-      "VIE50-P3",
-      "VIE50-P4"
-    ]
+    "nodes": {
+      "VIE50-P1": "2026-03-25",
+      "VIE50-P3": "2026-03-25",
+      "VIE50-P4": "2026-03-25"
+    }
   },
   {
     "iata": "WAW",
     "city": "Warsaw",
     "country": "Poland",
     "country_code": "PL",
-    "nodes": [
-      "WAW51-P2",
-      "WAW51-P4",
-      "WAW51-P5"
-    ]
+    "nodes": {
+      "WAW51-P2": "2026-03-25",
+      "WAW51-P4": "2026-03-25",
+      "WAW51-P5": "2026-03-25"
+    }
   },
   {
     "iata": "YTO",
     "city": "Toronto",
     "country": "Canada",
     "country_code": "CA",
-    "nodes": [
-      "YTO50-P2",
-      "YTO53-P2"
-    ]
+    "nodes": {
+      "YTO50-P2": "2026-03-25",
+      "YTO53-P2": "2026-03-25"
+    }
   },
   {
     "iata": "YUL",
     "city": "Montréal",
     "country": "Canada",
     "country_code": "CA",
-    "nodes": [
-      "YUL62-P1",
-      "YUL62-P2",
-      "YUL62-P4"
-    ]
+    "nodes": {
+      "YUL62-P1": "2026-03-25",
+      "YUL62-P2": "2026-03-25",
+      "YUL62-P4": "2026-03-25"
+    }
   },
   {
     "iata": "YVR",
     "city": "Vancouver",
     "country": "Canada",
     "country_code": "CA",
-    "nodes": [
-      "YVR52-P1",
-      "YVR52-P2",
-      "YVR52-P3"
-    ]
+    "nodes": {
+      "YVR52-P1": "2026-03-25",
+      "YVR52-P2": "2026-03-25",
+      "YVR52-P3": "2026-03-25"
+    }
   },
   {
     "iata": "YYC",
     "city": "Calgary",
     "country": "Canada",
     "country_code": "CA",
-    "nodes": [
-      "YYC51-P2"
-    ]
+    "nodes": {
+      "YYC51-P2": "2026-03-25"
+    }
   },
   {
     "iata": "ZAG",
     "city": "Zagreb",
     "country": "Croatia",
     "country_code": "HR",
-    "nodes": [
-      "ZAG50-C1"
-    ]
+    "nodes": {
+      "ZAG50-C1": "2026-03-25"
+    }
   },
   {
     "iata": "ZRH",
     "city": "Zürich",
     "country": "Switzerland",
     "country_code": "CH",
-    "nodes": [
-      "ZRH52-P1"
-    ]
+    "nodes": {
+      "ZRH52-P1": "2026-03-25"
+    }
   }
 ]
