@@ -23,6 +23,6 @@ npm run build     # Production build → dist/
 
 ## Adding a Tool
 
-1. Add an entry to `TOOLS` in `src/components/Shell.tsx`.
+1. Add a navigation entry in `src/components/SideNav.tsx`.
 2. Create a page at `src/pages/<tool-name>.astro`.
 3. Wrap content in `<Layout>` and use `client:only="react"` for React components.

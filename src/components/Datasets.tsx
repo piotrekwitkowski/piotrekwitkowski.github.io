@@ -3,7 +3,6 @@ import "@cloudscape-design/global-styles/index.css";
 import {
   AppLayoutToolbar,
   BreadcrumbGroup,
-  SideNavigation,
   ContentLayout,
   Header,
   SpaceBetween,
@@ -13,11 +12,7 @@ import {
   Box,
 } from "@cloudscape-design/components";
 import { ThemeProvider } from "../context/ThemeContext";
-
-const TOOLS = [
-  { text: "Datasets", href: "/datasets" },
-  { text: "Latency Simulator", href: "/edge-latency" },
-];
+import { SideNav } from "./SideNav";
 
 const DATASETS = [
   {
@@ -52,30 +47,7 @@ function Datasets() {
           ]}
         />
       }
-      navigation={
-        <SideNavigation
-          activeHref="/datasets"
-          header={{ text: "Piotrek's Toolbox", href: "/" }}
-          items={[
-            {
-              type: "section" as const,
-              text: "CloudFront",
-              items: [
-                { type: "link" as const, text: "CloudFront", href: "/cloudfront" },
-                { type: "link" as const, text: "Latency Simulator", href: "/edge-latency" },
-              ],
-            },
-            { type: "divider" as const },
-            { type: "link" as const, text: "Datasets", href: "/datasets" },
-            {
-              type: "link" as const,
-              text: "Source",
-              href: "https://github.com/piotrekwitkowski/piotrekwitkowski.github.io",
-              external: true,
-            },
-          ]}
-        />
-      }
+      navigation={<SideNav activeHref="/datasets" />}
       toolsHide
       content={
         <ContentLayout

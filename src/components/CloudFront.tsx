@@ -3,13 +3,13 @@ import "@cloudscape-design/global-styles/index.css";
 import {
   AppLayoutToolbar,
   BreadcrumbGroup,
-  SideNavigation,
   ContentLayout,
   Header,
   SpaceBetween,
   Container,
 } from "@cloudscape-design/components";
 import { ThemeProvider } from "../context/ThemeContext";
+import { SideNav } from "./SideNav";
 
 function CloudFront() {
   return (
@@ -23,30 +23,7 @@ function CloudFront() {
             ]}
           />
         }
-        navigation={
-          <SideNavigation
-            activeHref="/cloudfront"
-            header={{ text: "Piotrek's Toolbox", href: "/" }}
-            items={[
-              {
-                type: "section" as const,
-                text: "CloudFront",
-                items: [
-                  { type: "link" as const, text: "CloudFront", href: "/cloudfront" },
-                  { type: "link" as const, text: "Latency Simulator", href: "/edge-latency" },
-                ],
-              },
-              { type: "divider" as const },
-              { type: "link" as const, text: "Datasets", href: "/datasets" },
-              {
-                type: "link" as const,
-                text: "Source",
-                href: "https://github.com/piotrekwitkowski/piotrekwitkowski.github.io",
-                external: true,
-              },
-            ]}
-          />
-        }
+        navigation={<SideNav activeHref="/cloudfront" />}
         toolsHide
         content={
           <ContentLayout

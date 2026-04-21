@@ -3,19 +3,11 @@ import "@cloudscape-design/global-styles/index.css";
 import {
   AppLayoutToolbar,
   BreadcrumbGroup,
-  SideNavigation,
   ContentLayout,
   SpaceBetween,
 } from "@cloudscape-design/components";
 import { ThemeProvider } from "../context/ThemeContext";
-
-const TOOLS: { text: string; href: string; description: string }[] = [
-  {
-    text: "Datasets",
-    href: "/datasets",
-    description: "Public datasets available for download.",
-  },
-];
+import { SideNav } from "./SideNav";
 
 function Shell() {
   return (
@@ -26,29 +18,7 @@ function Shell() {
           items={[{ text: "Home", href: "/" }]}
         />
       }
-      navigation={
-        <SideNavigation
-          header={{ text: "Piotrek's Toolbox", href: "/" }}
-          items={[
-            {
-              type: "section" as const,
-              text: "CloudFront",
-              items: [
-                { type: "link" as const, text: "CloudFront", href: "/cloudfront" },
-                { type: "link" as const, text: "Latency Simulator", href: "/edge-latency" },
-              ],
-            },
-            { type: "divider" as const },
-            { type: "link" as const, text: "Datasets", href: "/datasets" },
-            {
-              type: "link" as const,
-              text: "Source",
-              href: "https://github.com/piotrekwitkowski/piotrekwitkowski.github.io",
-              external: true,
-            },
-          ]}
-        />
-      }
+      navigation={<SideNav />}
       maxContentWidth={Number.MAX_SAFE_INTEGER}
       toolsHide
       content={
