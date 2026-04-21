@@ -13,27 +13,7 @@ import {
 } from "@cloudscape-design/components";
 import { ThemeProvider } from "../context/ThemeContext";
 import { SideNav } from "./SideNav";
-
-const DATASETS = [
-  {
-    name: "cloudfront-edge-locations.json",
-    description: "CloudFront POP locations with IATA codes, cities, countries, and active node identifiers.",
-    href: "/static/cloudfront-edge-locations.json",
-    format: "JSON",
-  },
-  {
-    name: "cloudfront-embedded-pops.json",
-    description: "CloudFront Embedded PoP locations (caches within ISP networks) by city and country.",
-    href: "/static/cloudfront-embedded-pops.json",
-    format: "JSON",
-  },
-  {
-    name: "airport-coordinates.json",
-    description: "Geo coordinates (latitude/longitude) for airports associated with CloudFront edge locations.",
-    href: "/static/airport-coordinates.json",
-    format: "JSON",
-  },
-];
+import { DATASETS } from "../config/datasets";
 
 function Datasets() {
   return (
@@ -60,7 +40,7 @@ function Datasets() {
                   id: "name",
                   header: "Name",
                   cell: (item) => (
-                    <Link href={item.href} external>{item.name}</Link>
+                    <Link href={item.href}>{item.name}</Link>
                   ),
                 },
                 {

@@ -1,0 +1,18 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import DatasetExplorer from "../../components/DatasetExplorer";
+
+export function getStaticPaths() {
+  return [
+    { params: { slug: "cloudfront-edge-locations" } },
+    { params: { slug: "cloudfront-embedded-pops" } },
+    { params: { slug: "airport-coordinates" } },
+  ];
+}
+
+const { slug } = Astro.params;
+---
+
+<Layout title={`Dataset: ${slug}`}>
+  <DatasetExplorer datasetName={slug} client:only="react" />
+</Layout>
