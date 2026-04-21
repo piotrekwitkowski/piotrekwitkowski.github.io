@@ -1,5 +1,4 @@
 import React from "react";
-import "@cloudscape-design/global-styles/index.css";
 import {
   AppLayoutToolbar,
   BreadcrumbGroup,
