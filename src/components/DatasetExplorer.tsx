@@ -12,6 +12,7 @@ import {
   Alert,
   Button,
 } from "@cloudscape-design/components";
+import { useCollection } from "@cloudscape-design/collection-hooks";
 import { ThemeProvider } from "../context/ThemeContext";
 import { SideNav } from "./SideNav";
 import { DATASETS } from "../config/datasets";
@@ -64,6 +65,10 @@ function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
     }));
   })();
 
+  const { items, collectionProps } = useCollection(data, {
+    sorting: {},
+  });
+
   const content = loading ? (
     <Box textAlign="center" padding="xxl">
       <Spinner size="large" />
@@ -74,9 +79,9 @@ function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
     </Alert>
   ) : (
     <Table
+      {...collectionProps}
       columnDefinitions={columns}
-      items={data}
-      sortingDisabled={false}
+      items={items}
       variant="embedded"
       contentDensity="compact"
       empty={
