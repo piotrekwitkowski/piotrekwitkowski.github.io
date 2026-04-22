@@ -2,7 +2,7 @@ import { defineConfig } from "astro/config";
 import react from "@astrojs/react";
 
 export default defineConfig({
-  site: "https://piotrekwitkowski.github.io",
+  site: "https://tools.piotrekwitkowski.com",
   output: "static",
   integrations: [react()],
   vite: {
