@@ -7,7 +7,7 @@ export default defineConfig({
   integrations: [react()],
   vite: {
     ssr: {
-      noExternal: ["@cloudscape-design/components", "@cloudscape-design/global-styles"],
+      noExternal: [/@cloudscape-design\//, "dom-helpers"],
     },
   },
 });
