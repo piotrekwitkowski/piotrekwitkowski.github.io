@@ -2,7 +2,7 @@
 
 Personal toolbox website built with [Astro](https://astro.build), [React](https://react.dev), and [Cloudscape Design System](https://cloudscape.design).
 
-Live at [piotrekwitkowski.github.io](https://piotrekwitkowski.github.io).
+Live at [tools.piotrekwitkowski.com](https://tools.piotrekwitkowski.com).
 
 ## Tools
 
