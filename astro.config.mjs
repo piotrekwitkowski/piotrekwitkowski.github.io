@@ -5,4 +5,9 @@ export default defineConfig({
   site: "https://piotrekwitkowski.github.io",
   output: "static",
   integrations: [react()],
+  vite: {
+    ssr: {
+      noExternal: ["@cloudscape-design/components", "@cloudscape-design/global-styles"],
+    },
+  },
 });
