@@ -50,3 +50,4 @@ jobs:
           git add public/static/cloudfront-embedded-pops.json
           git commit -m "${COMMIT_MSG}"
           git push
+

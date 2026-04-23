@@ -47,3 +47,4 @@ jobs:
           git add public/static/cloudfront-edge-locations.json
           git commit -m "${COMMIT_MSG}"
           git push
+
