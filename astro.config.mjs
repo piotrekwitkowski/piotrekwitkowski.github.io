@@ -6,7 +6,7 @@ export default defineConfig({
   output: "static",
   integrations: [react()],
   vite: {
-    ssr: {
+    resolve: {
       noExternal: [/@cloudscape-design\//, "dom-helpers"],
     },
   },
