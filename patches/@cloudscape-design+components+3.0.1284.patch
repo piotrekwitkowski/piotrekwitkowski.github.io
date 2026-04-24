@@ -1,0 +1,123 @@
+diff --git a/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/index.js b/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/index.js
+index 6757d78..9d55442 100644
+--- a/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/index.js
++++ b/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/index.js
+@@ -19,7 +19,9 @@ const componentAnalyticsMetadata = {
+ };
+ export const SkeletonLayout = ({ registered, appLayoutProps, appLayoutState, toolbarProps, skeletonSlotsAttributes, }) => {
+     var _a, _b, _c, _d, _e;
+-    const { contentHeader, content, navigationWidth } = appLayoutProps;
++    const { content, contentHeader, contentType, maxContentWidth, navigationWidth } = appLayoutProps;
++    const isMaxWidth = maxContentWidth === Number.MAX_VALUE || maxContentWidth === Number.MAX_SAFE_INTEGER;
++    const contentTypeCustomWidths = ['dashboard', 'cards', 'table'];
+     const mergedProps = {
+         toolbarProps,
+         appLayoutProps,
+@@ -28,9 +30,14 @@ export const SkeletonLayout = ({ registered, appLayoutProps, appLayoutState, too
+     const { wrapperElAttributes, mainElAttributes, contentWrapperElAttributes, contentHeaderElAttributes, contentElAttributes, } = skeletonSlotsAttributes;
+     const isWidgetLoaded = isWidgetReady(appLayoutState);
+     return (React.createElement(VisualContext, { contextName: "app-layout-toolbar" },
+-        React.createElement("div", { ...getAnalyticsMetadataAttribute({ component: componentAnalyticsMetadata }), ref: appLayoutState.rootRef, "data-awsui-app-layout-widget-loaded": isWidgetLoaded, ...wrapperElAttributes, className: (_a = wrapperElAttributes === null || wrapperElAttributes === void 0 ? void 0 : wrapperElAttributes.className) !== null && _a !== void 0 ? _a : clsx(styles.root, testutilStyles.root), style: (_b = wrapperElAttributes === null || wrapperElAttributes === void 0 ? void 0 : wrapperElAttributes.style) !== null && _b !== void 0 ? _b : {
++        React.createElement("div", { ...getAnalyticsMetadataAttribute({ component: componentAnalyticsMetadata }), ref: appLayoutState.rootRef, "data-awsui-app-layout-widget-loaded": isWidgetLoaded, ...wrapperElAttributes, className: (_a = wrapperElAttributes === null || wrapperElAttributes === void 0 ? void 0 : wrapperElAttributes.className) !== null && _a !== void 0 ? _a : clsx(styles.root, testutilStyles.root, {
++                [styles['has-adaptive-widths-default']]: !contentTypeCustomWidths.includes(contentType),
++                [styles['has-adaptive-widths-dashboard']]: contentType === 'dashboard',
++                [styles['drawer-expanded-mode']]: !!(toolbarProps === null || toolbarProps === void 0 ? void 0 : toolbarProps.expandedDrawerId),
++            }), style: (_b = wrapperElAttributes === null || wrapperElAttributes === void 0 ? void 0 : wrapperElAttributes.style) !== null && _b !== void 0 ? _b : {
+                 blockSize: `calc(100vh - ${appLayoutProps.placement.insetBlockStart + appLayoutProps.placement.insetBlockEnd}px)`,
+                 [customCssProps.navigationWidth]: `${navigationWidth}px`,
++                [customCssProps.maxContentWidth]: isMaxWidth ? '100%' : maxContentWidth ? `${maxContentWidth}px` : '',
+             } },
+             React.createElement(AppLayoutBeforeMainSlot, { ...mergedProps }),
+             React.createElement("main", { ...mainElAttributes, className: (_c = mainElAttributes === null || mainElAttributes === void 0 ? void 0 : mainElAttributes.className) !== null && _c !== void 0 ? _c : styles['main-landmark'] },
+diff --git a/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/multi-layout.js b/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/multi-layout.js
+index 4fc4e58..af46307 100644
+--- a/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/multi-layout.js
++++ b/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/multi-layout.js
+@@ -1,9 +1,10 @@
+ // Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ // SPDX-License-Identifier: Apache-2.0
+-import { useEffect, useLayoutEffect, useState } from 'react';
++import { useContext, useEffect, useLayoutEffect, useState } from 'react';
+ import { metrics } from '../../../internal/metrics';
+ import { awsuiPluginsInternal } from '../../../internal/plugins/api';
+ import { useAppLayoutFlagEnabled } from '../../utils/feature-flags';
++import { AppLayoutToolbarPublicContext } from '../contexts';
+ export function useMultiAppLayout(forceDeduplicationType, isEnabled, props, mergeProps) {
+     const [registration, setRegistration] = useState(null);
+     const isToolbar = useAppLayoutFlagEnabled();
+@@ -31,7 +32,9 @@ export function useMultiAppLayout(forceDeduplicationType, isEnabled, props, merg
+             reportMultiLayoutMetric(registration);
+         }
+     }, [registration]);
+-    if (!isToolbar) {
++    const isPublicAppLayout = useContext(AppLayoutToolbarPublicContext);
++    const isPublicToolbarInSSR = isPublicAppLayout && typeof window === 'undefined';
++    if (!isToolbar || isPublicToolbarInSSR) {
+         return {
+             registered: true,
+             // mergeProps is needed here because the toolbar's behavior depends on reconciliation logic
+diff --git a/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/skeleton-parts.js b/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/skeleton-parts.js
+index 86c24f2..616d426 100644
+--- a/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/skeleton-parts.js
++++ b/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/skeleton-parts.js
+@@ -1,6 +1,7 @@
+ // Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ // SPDX-License-Identifier: Apache-2.0
+ import React from 'react';
++import clsx from 'clsx';
+ import { NotificationsSlot } from './slots';
+ import { ToolbarSkeletonStructure } from './toolbar-container';
+ import styles from './styles.css.js';
+@@ -8,13 +9,14 @@ import styles from './styles.css.js';
+  * New widgetized parts
+  */
+ export const BeforeMainSlotSkeleton = React.forwardRef(({ toolbarProps, appLayoutProps }, ref) => {
++    const hasNavigation = toolbarProps ? toolbarProps.hasNavigation : !!appLayoutProps.navigation;
+     return (React.createElement(React.Fragment, null,
+-        !!toolbarProps && React.createElement(ToolbarSkeletonStructure, { ref: ref, ownBreadcrumbs: appLayoutProps.breadcrumbs }),
+-        (toolbarProps === null || toolbarProps === void 0 ? void 0 : toolbarProps.navigationOpen) && React.createElement("div", { className: styles.navigation })));
++        !!toolbarProps && (React.createElement(ToolbarSkeletonStructure, { ref: ref, ariaLabels: toolbarProps.ariaLabels, expandedDrawerId: toolbarProps.expandedDrawerId, hasNavigation: hasNavigation, navigationOpen: toolbarProps.navigationOpen, ownBreadcrumbs: appLayoutProps.breadcrumbs })),
++        hasNavigation && (React.createElement("div", { className: clsx(styles.navigation, !(toolbarProps === null || toolbarProps === void 0 ? void 0 : toolbarProps.navigationOpen) && styles['panel-hidden'], !!(toolbarProps === null || toolbarProps === void 0 ? void 0 : toolbarProps.activeDrawerId) && styles['unfocusable-mobile'], !!(toolbarProps === null || toolbarProps === void 0 ? void 0 : toolbarProps.expandedDrawerId) && styles.hidden) }, appLayoutProps.navigation))));
+ });
+ /**
+  * Legacy parts
+  */
+-export const ToolbarSkeleton = React.forwardRef(({ appLayoutInternals }, ref) => (React.createElement(ToolbarSkeletonStructure, { ref: ref, ownBreadcrumbs: appLayoutInternals.breadcrumbs, discoveredBreadcrumbs: appLayoutInternals.discoveredBreadcrumbs })));
++export const ToolbarSkeleton = React.forwardRef(({ appLayoutInternals }, ref) => (React.createElement(ToolbarSkeletonStructure, { ref: ref, ariaLabels: appLayoutInternals.ariaLabels, expandedDrawerId: appLayoutInternals.expandedDrawerId, navigationOpen: appLayoutInternals.navigationOpen, ownBreadcrumbs: appLayoutInternals.breadcrumbs, discoveredBreadcrumbs: appLayoutInternals.discoveredBreadcrumbs })));
+ export const NotificationsSkeleton = React.forwardRef((props, ref) => React.createElement(NotificationsSlot, { ref: ref }));
+ //# sourceMappingURL=skeleton-parts.js.map
+\ No newline at end of file
+diff --git a/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/toolbar-container.js b/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/toolbar-container.js
+index 556c997..1f0ce9d 100644
+--- a/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/toolbar-container.js
++++ b/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/toolbar-container.js
+@@ -2,6 +2,7 @@
+ // SPDX-License-Identifier: Apache-2.0
+ import React from 'react';
+ import clsx from 'clsx';
++import TriggerButton from '../toolbar/trigger-button';
+ import { BreadcrumbsSlot, ToolbarSlot } from './slots';
+ import testutilStyles from '../../test-classes/styles.css.js';
+ import toolbarStyles from '../toolbar/styles.css.js';
+@@ -12,8 +13,16 @@ export function ToolbarBreadcrumbsSection({ ownBreadcrumbs, discoveredBreadcrumb
+     return (React.createElement("div", { className: clsx(toolbarStyles['universal-toolbar-breadcrumbs'], includeTestUtils && testutilStyles.breadcrumbs) },
+         React.createElement(BreadcrumbsSlot, { ownBreadcrumbs: ownBreadcrumbs, discoveredBreadcrumbs: discoveredBreadcrumbs })));
+ }
+-export const ToolbarSkeletonStructure = React.forwardRef(({ ownBreadcrumbs, discoveredBreadcrumbs }, ref) => (React.createElement(ToolbarSlot, { ref: ref },
+-    React.createElement(ToolbarContainer, null,
+-        React.createElement(ToolbarBreadcrumbsSection, { ownBreadcrumbs: ownBreadcrumbs, discoveredBreadcrumbs: discoveredBreadcrumbs, includeTestUtils: true }),
+-        React.createElement("div", { className: toolbarStyles['universal-toolbar-drawers'] })))));
++export const ToolbarSkeletonStructure = React.forwardRef(({ ariaLabels, expandedDrawerId, hasNavigation, navigationOpen, ownBreadcrumbs, discoveredBreadcrumbs }, ref) => {
++    var _a;
++    const drawerExpandedMode = !!expandedDrawerId;
++    // istanbul ignore next: not interactive during SSR
++    const noop = () => { };
++    return (React.createElement(ToolbarSlot, { ref: ref },
++        React.createElement(ToolbarContainer, null,
++            hasNavigation && (React.createElement("nav", { className: toolbarStyles['universal-toolbar-nav'] },
++                React.createElement(TriggerButton, { ariaLabel: (_a = ariaLabels === null || ariaLabels === void 0 ? void 0 : ariaLabels.navigationToggle) !== null && _a !== void 0 ? _a : undefined, ariaExpanded: !drawerExpandedMode && navigationOpen, iconName: "menu", className: testutilStyles['navigation-toggle'], onClick: noop, selected: !drawerExpandedMode && navigationOpen }))),
++            React.createElement(ToolbarBreadcrumbsSection, { ownBreadcrumbs: ownBreadcrumbs, discoveredBreadcrumbs: discoveredBreadcrumbs, includeTestUtils: true }),
++            React.createElement("div", { className: toolbarStyles['universal-toolbar-drawers'] }))));
++});
+ //# sourceMappingURL=toolbar-container.js.map
+\ No newline at end of file
