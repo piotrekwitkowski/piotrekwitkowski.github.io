@@ -19,5 +19,5 @@ const { slug } = Astro.params;
 ---
 
 <Layout title={`Dataset: ${slug}`}>
-  <DatasetExplorer datasetName={slug} client:load />
+  <DatasetExplorer datasetName={slug} client:idle />
 </Layout>
