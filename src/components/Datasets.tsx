@@ -1,6 +1,5 @@
 import React from "react";
 import {
-  AppLayoutToolbar,
   BreadcrumbGroup,
   ContentLayout,
   Header,
@@ -10,14 +9,13 @@ import {
   Badge,
   Box,
 } from "@cloudscape-design/components";
-import { ThemeProvider } from "../context/ThemeContext";
+import { AppLayout } from "./AppLayout";
 import { SideNav } from "./SideNav";
 import { DATASETS } from "../config/datasets";
 
 function Datasets() {
   return (
-    <ThemeProvider>
-      <AppLayoutToolbar
+    <AppLayout
       breadcrumbs={
         <BreadcrumbGroup
           items={[
@@ -27,7 +25,6 @@ function Datasets() {
         />
       }
       navigation={<SideNav activeHref="/datasets" />}
-      toolsHide
       content={
         <ContentLayout
           header={<Header variant="h1">Datasets</Header>}
@@ -65,7 +62,6 @@ function Datasets() {
         </ContentLayout>
       }
       />
-    </ThemeProvider>
   );
 }
 

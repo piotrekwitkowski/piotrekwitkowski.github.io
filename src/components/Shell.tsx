@@ -1,25 +1,22 @@
 import React from "react";
 import {
-  AppLayoutToolbar,
   BreadcrumbGroup,
   ContentLayout,
   SpaceBetween,
 } from "@cloudscape-design/components";
-import { ThemeProvider } from "../context/ThemeContext";
+import { AppLayout } from "./AppLayout";
 import { SideNav } from "./SideNav";
 
 function Shell() {
   return (
-    <ThemeProvider>
-      <AppLayoutToolbar
+    <AppLayout
       breadcrumbs={
         <BreadcrumbGroup
           items={[{ text: "Home", href: "/" }]}
         />
       }
-      navigation={<SideNav />}
       maxContentWidth={Number.MAX_SAFE_INTEGER}
-      toolsHide
+      navigation={<SideNav />}
       content={
         <ContentLayout>
           <SpaceBetween size="l">
@@ -51,8 +48,7 @@ function Shell() {
           </SpaceBetween>
         </ContentLayout>
       }
-      />
-    </ThemeProvider>
+    />
   );
 }
 

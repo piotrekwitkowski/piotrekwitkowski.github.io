@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import {
-  AppLayoutToolbar,
   BreadcrumbGroup,
   ContentLayout,
   Header,
@@ -10,7 +9,7 @@ import {
   Alert,
 } from "@cloudscape-design/components";
 import { useCollection } from "@cloudscape-design/collection-hooks";
-import { ThemeProvider } from "../context/ThemeContext";
+import { AppLayout } from "./AppLayout";
 import { SideNav } from "./SideNav";
 
 interface EdgeLocation {
@@ -94,8 +93,7 @@ function EdgeLatency() {
   );
 
   return (
-    <ThemeProvider>
-      <AppLayoutToolbar
+    <AppLayout
         breadcrumbs={
           <BreadcrumbGroup
             items={[
@@ -105,7 +103,6 @@ function EdgeLatency() {
           />
         }
         navigation={<SideNav activeHref="/edge-latency" />}
-        toolsHide
         content={
           <ContentLayout
             header={
@@ -121,7 +118,6 @@ function EdgeLatency() {
           </ContentLayout>
         }
       />
-    </ThemeProvider>
   );
 }
 

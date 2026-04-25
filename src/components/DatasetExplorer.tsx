@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import {
-  AppLayoutToolbar,
   BreadcrumbGroup,
   ContentLayout,
   Header,
@@ -12,7 +11,7 @@ import {
   Button,
 } from "@cloudscape-design/components";
 import { useCollection } from "@cloudscape-design/collection-hooks";
-import { ThemeProvider } from "../context/ThemeContext";
+import { AppLayout } from "./AppLayout";
 import { SideNav } from "./SideNav";
 import { DATASETS } from "../config/datasets";
 
@@ -101,8 +100,7 @@ function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
   const description = dataset?.description ?? "";
 
   return (
-    <ThemeProvider>
-      <AppLayoutToolbar
+    <AppLayout
         breadcrumbs={
           <BreadcrumbGroup
             items={[
@@ -113,7 +111,6 @@ function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
           />
         }
         navigation={<SideNav activeHref="/datasets" />}
-        toolsHide
         content={
           <ContentLayout
             header={
@@ -139,7 +136,6 @@ function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
           </ContentLayout>
         }
       />
-    </ThemeProvider>
   );
 }
 

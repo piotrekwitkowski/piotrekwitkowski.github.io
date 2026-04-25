@@ -1,19 +1,17 @@
 import React from "react";
 import {
-  AppLayoutToolbar,
   BreadcrumbGroup,
   ContentLayout,
   Header,
   SpaceBetween,
   Container,
 } from "@cloudscape-design/components";
-import { ThemeProvider } from "../context/ThemeContext";
+import { AppLayout } from "./AppLayout";
 import { SideNav } from "./SideNav";
 
 function CloudFront() {
   return (
-    <ThemeProvider>
-      <AppLayoutToolbar
+    <AppLayout
         breadcrumbs={
           <BreadcrumbGroup
             items={[
@@ -23,7 +21,6 @@ function CloudFront() {
           />
         }
         navigation={<SideNav activeHref="/cloudfront" />}
-        toolsHide
         content={
           <ContentLayout
             header={<Header variant="h1">CloudFront</Header>}
@@ -36,7 +33,6 @@ function CloudFront() {
           </ContentLayout>
         }
       />
-    </ThemeProvider>
   );
 }
 
