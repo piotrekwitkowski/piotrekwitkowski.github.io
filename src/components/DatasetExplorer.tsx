@@ -56,7 +56,8 @@ function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
     const firstItem = data[0];
     return Object.keys(firstItem).map((key) => ({
       id: key,
-      header: key.charAt(0).toUpperCase() + key.slice(1).replace(/_/g, " "),
+      header: { dnssec: "DNSSEC", iata: "IATA" }[key]
+        ?? key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase()),
       cell: (item: any) => {
         const value = item[key];
         if (Array.isArray(value)) {

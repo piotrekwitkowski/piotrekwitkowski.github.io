@@ -21,6 +21,13 @@ export const DATASETS = [
     format: "JSON",
   },
   {
+    name: "domain-registry",
+    displayName: "Domain Registry",
+    description: "RDAP registration data (registrar, created/expires dates, nameservers, DNSSEC) for top-ranked domains.",
+    href: "/datasets/domain-registry",
+    format: "JSON",
+  },
+  {
     name: "icloud-private-relay",
     displayName: "iCloud Private Relay",
     description: "IP prefixes (CIDR) used by Apple iCloud Private Relay egress nodes.",
