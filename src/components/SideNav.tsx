@@ -7,6 +7,7 @@ interface SideNavProps {
 export function SideNav({ activeHref }: SideNavProps) {
   const items = [
     ...(import.meta.env.DEV ? [{ type: "link" as const, text: "Edge Locations", href: "/edge-latency" }] : []),
+    { type: "link" as const, text: "Domain Lookup", href: "/domain-lookup" },
     { type: "link" as const, text: "Datasets", href: "/datasets" },
     { type: "divider" as const },
     {
