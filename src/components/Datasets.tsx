@@ -42,7 +42,11 @@ function Datasets() {
                 {
                   id: "format",
                   header: "Format",
-                  cell: (item) => <Badge color="blue">{item.format}</Badge>,
+                  cell: (item) => (
+                    <Badge color={item.format === "JSON" ? "blue" : "grey"}>
+                      {item.format}
+                    </Badge>
+                  ),
                 },
                 {
                   id: "description",

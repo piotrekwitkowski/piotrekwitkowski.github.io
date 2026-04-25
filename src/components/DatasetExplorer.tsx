@@ -10,6 +10,7 @@ import {
   Alert,
   Button,
 } from "@cloudscape-design/components";
+import { CodeView } from "@cloudscape-design/code-view";
 import { useCollection } from "@cloudscape-design/collection-hooks";
 import { AppLayout } from "./AppLayout";
 import { SideNav } from "./SideNav";
@@ -21,27 +22,34 @@ interface DatasetExplorerProps {
 
 function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
   const [data, setData] = useState<any[]>([]);
+  const [textContent, setTextContent] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
+  const dataset = DATASETS.find((d) => d.name === datasetName);
+  const isTxt = dataset?.format === "TXT";
+  const ext = isTxt ? "txt" : "json";
+
   useEffect(() => {
-    fetch(`/static/${datasetName}.json`)
+    fetch(`/static/${datasetName}.${ext}`)
       .then((res) => {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        return res.json();
+        return isTxt ? res.text() : res.json();
       })
-      .then((json) => {
-        if (!Array.isArray(json)) {
-          throw new Error("Expected JSON array");
+      .then((result) => {
+        if (isTxt) {
+          setTextContent(result as string);
+        } else {
+          if (!Array.isArray(result)) throw new Error("Expected JSON array");
+          setData(result);
         }
-        setData(json);
         setLoading(false);
       })
       .catch((err: Error) => {
         setError(err.message);
         setLoading(false);
       });
-  }, [datasetName]);
+  }, [datasetName, ext, isTxt]);
 
   const columns = (() => {
     if (data.length === 0) return [];
@@ -67,6 +75,8 @@ function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
     sorting: {},
   });
 
+  const lineCount = textContent?.trim().split("\n").length ?? 0;
+
   const content = loading ? (
     <Box textAlign="center" padding="xxl">
       <Spinner size="large" />
@@ -75,6 +85,10 @@ function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
     <Alert type="error" header="Failed to load dataset">
       {error}
     </Alert>
+  ) : isTxt ? (
+    <div style={{ maxHeight: "70vh", overflow: "auto" }}>
+      <CodeView content={textContent ?? ""} lineNumbers />
+    </div>
   ) : (
     <Table
       {...collectionProps}
@@ -90,13 +104,7 @@ function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
     />
   );
 
-  const displayName = datasetName
-    .replace(/-/g, " ")
-    .split(" ")
-    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(" ");
-
-  const dataset = DATASETS.find((d) => d.name === datasetName);
+  const displayName = dataset?.displayName ?? datasetName;
   const description = dataset?.description ?? "";
 
   return (
@@ -117,14 +125,14 @@ function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
               <Header
                 variant="h1"
                 description={description}
-                counter={loading ? undefined : `(${data.length})`}
+                counter={loading ? undefined : `(${isTxt ? lineCount : data.length})`}
                 actions={
                   <Button
-                    href={`/static/${datasetName}.json`}
+                    href={`/static/${datasetName}.${ext}`}
                     iconName="download"
                     target="_blank"
                   >
-                    JSON
+                    {ext.toUpperCase()}
                   </Button>
                 }
               >

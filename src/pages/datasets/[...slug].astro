@@ -4,9 +4,10 @@ import DatasetExplorer from "../../components/DatasetExplorer";
 
 export function getStaticPaths() {
   return [
+    { params: { slug: "airport-coordinates" } },
     { params: { slug: "cloudfront-edge-locations" } },
     { params: { slug: "cloudfront-embedded-pops" } },
-    { params: { slug: "airport-coordinates" } },
+    { params: { slug: "icloud-private-relay" } },
   ];
 }
 
