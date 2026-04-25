@@ -7,6 +7,13 @@ export const DATASETS = [
     format: "JSON",
   },
   {
+    name: "bgp-asnames",
+    displayName: "BGP AS Names",
+    description: "Autonomous System numbers mapped to organization names and countries, from RIPE NCC.",
+    href: "/datasets/bgp-asnames",
+    format: "JSON",
+  },
+  {
     name: "cloudfront-edge-locations",
     displayName: "CloudFront Edge Locations",
     description: "CloudFront POP locations with IATA codes, cities, countries, and active node identifiers.",
@@ -33,5 +40,26 @@ export const DATASETS = [
     description: "IP prefixes (CIDR) used by Apple iCloud Private Relay egress nodes.",
     href: "/datasets/icloud-private-relay",
     format: "TXT",
+  },
+  {
+    name: "ieee-oui",
+    displayName: "IEEE OUI",
+    description: "MAC address vendor assignments (OUI prefixes) from the IEEE Standards Association.",
+    href: "/datasets/ieee-oui",
+    format: "JSON",
+  },
+  {
+    name: "public-suffix-list",
+    displayName: "Public Suffix List",
+    description: "Effective TLDs from Mozilla's Public Suffix List, categorized as ICANN or private domains.",
+    href: "/datasets/public-suffix-list",
+    format: "JSON",
+  },
+  {
+    name: "root-servers",
+    displayName: "Root DNS Servers",
+    description: "Anycast locations of the 13 DNS root server operators with geolocation and instance counts.",
+    href: "/datasets/root-servers",
+    format: "JSON",
   },
 ];

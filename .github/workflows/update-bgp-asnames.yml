@@ -1,0 +1,49 @@
+name: Update BGP AS Names
+
+on:
+  schedule:
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+
+      - name: Fetch and compare
+        id: fetch
+        run: |
+          set +e
+          node scripts/update-bgp-asnames.mjs
+          EXIT_CODE=$?
+          set -e
+          if [ "$EXIT_CODE" -eq 0 ]; then
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          elif [ "$EXIT_CODE" -eq 2 ]; then
+            echo "No changes detected."
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Script failed with exit code $EXIT_CODE"
+            exit 1
+          fi
+
+      - name: Commit and push
+        if: steps.fetch.outputs.has_changes == 'true'
+        env:
+          COMMIT_MSG: ${{ steps.fetch.outputs.title }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/static/bgp-asnames.json
+          git commit -m "${COMMIT_MSG}"
+          git push

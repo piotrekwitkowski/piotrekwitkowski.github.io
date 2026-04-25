@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import {
   BreadcrumbGroup,
+  CollectionPreferences,
   ContentLayout,
   Header,
   SpaceBetween,
@@ -9,6 +10,7 @@ import {
   Spinner,
   Alert,
   Button,
+  Pagination,
 } from "@cloudscape-design/components";
 import { CodeView } from "@cloudscape-design/code-view";
 import { useCollection } from "@cloudscape-design/collection-hooks";
@@ -56,7 +58,7 @@ function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
     const firstItem = data[0];
     return Object.keys(firstItem).map((key) => ({
       id: key,
-      header: { dnssec: "DNSSEC", iata: "IATA" }[key]
+      header: { asn: "ASN", dnssec: "DNSSEC", iata: "IATA", ipv4: "IPv4", ipv6: "IPv6" }[key]
         ?? key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase()),
       cell: (item: any) => {
         const value = item[key];
@@ -72,8 +74,12 @@ function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
     }));
   })();
 
-  const { items, collectionProps } = useCollection(data, {
+  const paginate = data.length > 1000;
+  const [pageSize, setPageSize] = useState(500);
+
+  const { items, collectionProps, paginationProps } = useCollection(data, {
     sorting: {},
+    pagination: paginate ? { pageSize } : undefined,
   });
 
   const lineCount = textContent?.trim().split("\n").length ?? 0;
@@ -97,6 +103,24 @@ function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
       items={items}
       variant="embedded"
       contentDensity="compact"
+      pagination={paginate ? <Pagination {...paginationProps} /> : undefined}
+      preferences={paginate ?
+        <CollectionPreferences
+          title="Preferences"
+          confirmLabel="Confirm"
+          cancelLabel="Cancel"
+          pageSizePreference={{
+            title: "Page size",
+            options: [
+              { value: 250, label: "250" },
+              { value: 500, label: "500" },
+              { value: 1000, label: "1000" },
+            ],
+          }}
+          preferences={{ pageSize }}
+          onConfirm={({ detail }) => setPageSize(detail.pageSize ?? 500)}
+        /> : undefined
+      }
       empty={
         <Box textAlign="center" color="text-body-secondary" padding="l">
           No data available.
