@@ -6,6 +6,16 @@ export default defineConfig({
   output: "static",
   integrations: [react()],
   vite: {
+    plugins: [
+      {
+        name: "strip-cloudscape-fonts",
+        enforce: "pre",
+        transform(code, id) {
+          if (!id.includes("@cloudscape-design/global-styles")) return;
+          return code.replace(/@font-face\s*\{[^}]*\}/g, "");
+        },
+      },
+    ],
     resolve: {
       noExternal: [/@cloudscape-design\//, "dom-helpers"],
     },
