@@ -60,15 +60,17 @@ diff --git a/node_modules/@cloudscape-design/components/app-layout/visual-refres
 index 86c24f2..616d426 100644
 --- a/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/skeleton-parts.js
 +++ b/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/skeleton-parts.js
-@@ -1,6 +1,7 @@
+@@ -1,6 +1,9 @@
  // Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
  // SPDX-License-Identifier: Apache-2.0
  import React from 'react';
 +import clsx from 'clsx';
++import { InternalButton } from '../../../button/internal';
++import navStyles from '../navigation/styles.css.js';
  import { NotificationsSlot } from './slots';
  import { ToolbarSkeletonStructure } from './toolbar-container';
  import styles from './styles.css.js';
-@@ -8,13 +9,14 @@ import styles from './styles.css.js';
+@@ -8,13 +11,14 @@ import styles from './styles.css.js';
   * New widgetized parts
   */
  export const BeforeMainSlotSkeleton = React.forwardRef(({ toolbarProps, appLayoutProps }, ref) => {
@@ -77,7 +79,7 @@ index 86c24f2..616d426 100644
 -        !!toolbarProps && React.createElement(ToolbarSkeletonStructure, { ref: ref, ownBreadcrumbs: appLayoutProps.breadcrumbs }),
 -        (toolbarProps === null || toolbarProps === void 0 ? void 0 : toolbarProps.navigationOpen) && React.createElement("div", { className: styles.navigation })));
 +        !!toolbarProps && (React.createElement(ToolbarSkeletonStructure, { ref: ref, ariaLabels: toolbarProps.ariaLabels, expandedDrawerId: toolbarProps.expandedDrawerId, hasNavigation: hasNavigation, navigationOpen: toolbarProps.navigationOpen, ownBreadcrumbs: appLayoutProps.breadcrumbs })),
-+        hasNavigation && (React.createElement("div", { className: clsx(styles.navigation, !(toolbarProps === null || toolbarProps === void 0 ? void 0 : toolbarProps.navigationOpen) && styles['panel-hidden'], !!(toolbarProps === null || toolbarProps === void 0 ? void 0 : toolbarProps.activeDrawerId) && styles['unfocusable-mobile'], !!(toolbarProps === null || toolbarProps === void 0 ? void 0 : toolbarProps.expandedDrawerId) && styles.hidden) }, appLayoutProps.navigation))));
++        hasNavigation && (React.createElement("div", { className: clsx(styles.navigation, !(toolbarProps === null || toolbarProps === void 0 ? void 0 : toolbarProps.navigationOpen) && styles['panel-hidden'], !!(toolbarProps === null || toolbarProps === void 0 ? void 0 : toolbarProps.activeDrawerId) && styles['unfocusable-mobile'], !!(toolbarProps === null || toolbarProps === void 0 ? void 0 : toolbarProps.expandedDrawerId) && styles.hidden) }, React.createElement("div", { className: clsx(navStyles['navigation-container'], (toolbarProps === null || toolbarProps === void 0 ? void 0 : toolbarProps.navigationOpen) && navStyles['is-navigation-open']) }, React.createElement("nav", { className: navStyles.navigation }, React.createElement("div", { className: navStyles['hide-navigation'] }, React.createElement(InternalButton, { iconName: "angle-left", variant: "icon", formAction: "none" })), appLayoutProps.navigation))))));
  });
  /**
   * Legacy parts
