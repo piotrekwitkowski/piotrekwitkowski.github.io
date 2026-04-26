@@ -6,7 +6,6 @@ import {
   SpaceBetween,
   Container,
   Input,
-  Button,
   Table,
   Box,
   Spinner,
@@ -85,10 +84,6 @@ function sanitizeDomain(input: string): string {
   domain = domain.split("/")[0];
   domain = domain.split(":")[0];
   return domain;
-}
-
-function getDomainFromUrl(): string {
-  return new URLSearchParams(window.location.search).get("domain") ?? "";
 }
 
 function parsePsl(domain: string, psl: PslEntry[]): PslResult | null {
@@ -303,8 +298,9 @@ function formatDate(iso: string | null): string {
 }
 
 function DomainLookup() {
-  const [domainInput, setDomainInput] = useState("");
-  const [loading, setLoading] = useState(false);
+  const initialDomain = new URLSearchParams(window.location.search).get("domain") ?? "";
+  const [domainInput, setDomainInput] = useState(initialDomain);
+  const [loading, setLoading] = useState(!!initialDomain);
   const [dnsRecords, setDnsRecords] = useState<DnsRecord[] | null>(null);
   const [dnsError, setDnsError] = useState<string | null>(null);
   const [rdapData, setRdapData] = useState<RdapData | null>(null);
@@ -377,18 +373,16 @@ function DomainLookup() {
   }, [runLookup]);
 
   useEffect(() => {
-    const domain = getDomainFromUrl();
-    if (domain) {
-      setDomainInput(domain);
+    if (initialDomain) {
       if (datasetsReady.current) {
-        runLookup(domain);
+        runLookup(initialDomain);
       } else {
-        pendingLookup.current = domain;
+        pendingLookup.current = initialDomain;
       }
     } else {
       inputRef.current?.querySelector("input")?.focus();
     }
-  }, [runLookup]);
+  }, [initialDomain, runLookup]);
 
   const handleLookup = () => {
     const domain = sanitizeDomain(domainInput);
@@ -399,13 +393,19 @@ function DomainLookup() {
     runLookup(domain);
   };
 
-  const insightsItems = [];
+  const badges: React.ReactNode[] = [];
 
-  if (pslResult) {
-    insightsItems.push(
-      { label: "Effective TLD", value: <>{pslResult.etld} <Badge color={pslResult.etldType === "ICANN" ? "blue" : "grey"}>{pslResult.etldType}</Badge></> },
-      { label: "Registrable domain (eTLD+1)", value: pslResult.registrableDomain ?? "—" },
-      { label: "Subdomain", value: pslResult.subdomain ?? "—" },
+  if (pslResult?.etldType === "PRIVATE") {
+    badges.push(<Badge color="grey">Private suffix (.{pslResult.etld})</Badge>);
+  }
+  if (pslResult?.subdomain) {
+    badges.push(<Badge color="blue">Subdomain of {pslResult.registrableDomain}</Badge>);
+  }
+  if (cloudFrontCname) {
+    badges.push(
+      <Link href="/datasets/cloudfront-edge-locations">
+        <Badge color="blue">CloudFront</Badge>
+      </Link>,
     );
   }
 
@@ -527,34 +527,40 @@ function DomainLookup() {
             <Header
               variant="h1"
               description="Look up DNS records and registration data for any domain."
-              actions={
-                <form
-                  onSubmit={(e) => {
-                    e.preventDefault();
-                    handleLookup();
-                  }}
-                >
-                  <SpaceBetween direction="horizontal" size="xs">
-                    <div ref={inputRef} style={{ minWidth: 400 }}>
-                      <Input
-                        value={domainInput}
-                        onChange={({ detail }) => setDomainInput(detail.value)}
-                        placeholder="example.com"
-                        disabled={loading}
-                      />
-                    </div>
-                    <Button variant="primary" loading={loading} onClick={handleLookup}>
-                      Lookup
-                    </Button>
-                  </SpaceBetween>
-                </form>
-              }
             >
               Domain Lookup
             </Header>
           }
         >
           <SpaceBetween size="l">
+            <form
+              onSubmit={(e) => {
+                e.preventDefault();
+                handleLookup();
+              }}
+            >
+              <div ref={inputRef} style={{ maxWidth: 400 }}>
+                <Input
+                  type="search"
+                  value={domainInput}
+                  onChange={({ detail }) => {
+                    setDomainInput(detail.value);
+                    if (!detail.value) {
+                      setDnsRecords(null);
+                      setDnsError(null);
+                      setRdapData(null);
+                      setRdapError(null);
+                      setPslResult(null);
+                      setRegistryMatch(null);
+                      setCloudFrontCname(null);
+                      setQueriedDomain(null);
+                      window.history.pushState(null, "", "/domain-lookup");
+                    }
+                  }}
+                  disabled={loading}
+                />
+              </div>
+            </form>
             {loading && (
               <Box textAlign="center" padding="xxl">
                 <Spinner size="large" />
@@ -563,48 +569,10 @@ function DomainLookup() {
 
             {!loading && hasResults && (
               <>
-                {(insightsItems.length > 0 || cloudFrontCname || registryMatch) && (
-                  <Container header={<Header variant="h2">Insights</Header>}>
-                    <SpaceBetween size="m">
-                      {insightsItems.length > 0 && (
-                        <KeyValuePairs columns={3} items={insightsItems} />
-                      )}
-
-                      {cloudFrontCname && (
-                        <Alert type="info" header="CloudFront distribution detected">
-                          This domain resolves via <Box variant="code" display="inline">{cloudFrontCname}</Box>.
-                          {" "}Browse the <Link href="/datasets/cloudfront-edge-locations">CloudFront Edge Locations</Link> dataset
-                          to see where this distribution is served from.
-                        </Alert>
-                      )}
-
-                      {registryMatch && (
-                        <Alert type="info" header={`Found in Domain Registry dataset (rank #${registryMatch.rank})`}>
-                          <KeyValuePairs
-                            columns={3}
-                            items={[
-                              { label: "Registrar (snapshot)", value: registryMatch.registrar },
-                              { label: "Created (snapshot)", value: formatDate(registryMatch.created) },
-                              { label: "Expires (snapshot)", value: formatDate(registryMatch.expires) },
-                              { label: "Nameservers (snapshot)", value: registryMatch.nameservers },
-                              {
-                                label: "DNSSEC (snapshot)",
-                                value: registryMatch.dnssec ? (
-                                  <StatusIndicator type="success">Signed</StatusIndicator>
-                                ) : (
-                                  <StatusIndicator type="warning">Unsigned</StatusIndicator>
-                                ),
-                              },
-                              {
-                                label: "Full dataset",
-                                value: <Link href="/datasets/domain-registry">View all</Link>,
-                              },
-                            ]}
-                          />
-                        </Alert>
-                      )}
-                    </SpaceBetween>
-                  </Container>
+                {badges.length > 0 && (
+                  <SpaceBetween direction="horizontal" size="xs">
+                    {badges.map((badge, i) => <span key={i}>{badge}</span>)}
+                  </SpaceBetween>
                 )}
 
                 <Tabs
