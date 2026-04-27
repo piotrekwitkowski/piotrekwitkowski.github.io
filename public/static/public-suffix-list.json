@@ -47286,6 +47286,24 @@
     "exception": false
   },
   {
+    "suffix": "*.atlassian-3p.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.atlassian-3p-us-gov-mod.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.atlassian-isolated-3p.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
     "suffix": "cdn.prod.atlassian-dev.net",
     "type": "private",
     "wildcard": false,
@@ -48739,6 +48757,18 @@
   },
   {
     "suffix": "deployagent.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "piebox.site",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "deployagent.space",
     "type": "private",
     "wildcard": false,
     "exception": false
