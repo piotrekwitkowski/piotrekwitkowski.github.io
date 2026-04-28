@@ -57,7 +57,7 @@ index 4fc4e58..af46307 100644
              registered: true,
              // mergeProps is needed here because the toolbar's behavior depends on reconciliation logic
 diff --git a/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/skeleton-parts.js b/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/skeleton-parts.js
-index 86c24f2..616d426 100644
+index 86c24f2..f9db259 100644
 --- a/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/skeleton-parts.js
 +++ b/node_modules/@cloudscape-design/components/app-layout/visual-refresh-toolbar/skeleton/skeleton-parts.js
 @@ -1,6 +1,9 @@
