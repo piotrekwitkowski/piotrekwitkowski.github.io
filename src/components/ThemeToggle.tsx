@@ -16,6 +16,7 @@ export function themeDrawer(isDark: boolean): AppLayoutToolbarProps.Drawer {
     trigger: { iconSvg: themeIcon },
     ariaLabels: {
       drawerName: isDark ? "Switch to light mode" : "Switch to dark mode",
+      triggerButton: isDark ? "Switch to light mode" : "Switch to dark mode",
     },
   };
 }

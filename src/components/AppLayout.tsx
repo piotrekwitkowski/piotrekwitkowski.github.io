@@ -17,7 +17,7 @@ function AppLayoutInner(props: AppLayoutToolbarProps) {
       content: props.tools,
       defaultSize: props.toolsWidth,
       trigger: { iconName: "status-info" },
-      ariaLabels: { drawerName: "Tools" },
+      ariaLabels: { drawerName: "Tools", triggerButton: "Tools" },
     });
   }
   if (props.drawers) {
@@ -27,6 +27,7 @@ function AppLayoutInner(props: AppLayoutToolbarProps) {
   return (
     <AppLayoutToolbar
       {...props}
+      ariaLabels={{ navigationToggle: "Toggle navigation" }}
       toolsHide
       drawers={drawers}
       activeDrawerId={activeDrawerId}
