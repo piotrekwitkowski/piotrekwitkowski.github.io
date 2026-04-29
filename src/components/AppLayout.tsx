@@ -27,7 +27,7 @@ function AppLayoutInner(props: AppLayoutToolbarProps) {
   return (
     <AppLayoutToolbar
       {...props}
-      ariaLabels={{ navigationToggle: "Toggle navigation" }}
+      ariaLabels={{ navigationToggle: "Toggle navigation", navigationClose: "Close navigation" }}
       toolsHide
       drawers={drawers}
       activeDrawerId={activeDrawerId}
