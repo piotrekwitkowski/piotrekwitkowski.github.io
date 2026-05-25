@@ -16183,7 +16183,7 @@
     "type": "Global",
     "instances": 1,
     "ipv4": true,
-    "ipv6": false,
+    "ipv6": true,
     "latitude": 42.8777895,
     "longitude": 74.6066926
   },
@@ -16195,7 +16195,7 @@
     "type": "Global",
     "instances": 1,
     "ipv4": true,
-    "ipv6": true,
+    "ipv6": false,
     "latitude": 42.8777895,
     "longitude": 74.6066926
   },
@@ -16450,6 +16450,18 @@
     "ipv6": true,
     "latitude": 14.56005,
     "longitude": 121.02009
+  },
+  {
+    "root": "K-root",
+    "operator": "RIPE NCC",
+    "country": "PK",
+    "town": "Islamabad",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 33.6938118,
+    "longitude": 73.0651511
   },
   {
     "root": "K-root",
