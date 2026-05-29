@@ -9,15 +9,15 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/react": "^5.0.4",
-    "@cloudscape-design/code-view": "^3.0.128",
-    "@cloudscape-design/collection-hooks": "^1.0.92",
-    "@cloudscape-design/components": "^3.0.1290",
-    "@cloudscape-design/global-styles": "^1.0.58",
-    "@types/react": "^19.2.14",
+    "@astrojs/react": "^5.0.6",
+    "@cloudscape-design/code-view": "^3.0.136",
+    "@cloudscape-design/collection-hooks": "^1.0.96",
+    "@cloudscape-design/components": "^3.0.1301",
+    "@cloudscape-design/global-styles": "^1.0.59",
+    "@types/react": "^19.2.15",
     "@types/react-dom": "^19.2.3",
-    "astro": "^6.2.2",
-    "react": "^19.2.5",
-    "react-dom": "^19.2.5"
+    "astro": "^6.4.2",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
   }
 }
