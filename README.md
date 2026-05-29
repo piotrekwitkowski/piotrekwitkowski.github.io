@@ -6,8 +6,8 @@ Live at [tools.piotrekwitkowski.com](https://tools.piotrekwitkowski.com).
 
 ## Tools
 
+- **Domain Lookup** — DNS, WHOIS, and registry info for any domain
 - **Datasets** — Public datasets for download
-- **Latency Simulator** — CloudFront edge latency dashboard with region optimizer
 
 ## Data
 
