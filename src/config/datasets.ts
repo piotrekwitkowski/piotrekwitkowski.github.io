@@ -19,6 +19,18 @@ export const DATASETS = [
     description: "CloudFront POP locations with IATA codes, cities, countries, and active node identifiers.",
     href: "/datasets/cloudfront-edge-locations",
     format: "JSON",
+    hiddenColumns: ["country_code", "nodeDetails"],
+    transform: (data: any[]) => data.flatMap((loc) => {
+      const merged: Record<string, string> = {};
+      const details: Record<string, Record<string, string>> = {};
+      for (const [node, date] of Object.entries(loc.nodes as Record<string, string>)) {
+        const base = node.replace(/-[A-Z]\d+$/, "");
+        if (!merged[base] || date > merged[base]) merged[base] = date;
+        if (!details[base]) details[base] = {};
+        details[base][node] = date;
+      }
+      return Object.keys(merged).length ? [{ ...loc, nodes: merged, nodeDetails: details }] : [];
+    }),
   },
   {
     name: "cloudfront-embedded-pops",

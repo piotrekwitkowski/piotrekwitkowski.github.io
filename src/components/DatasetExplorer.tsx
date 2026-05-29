@@ -1,6 +1,7 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import {
   BreadcrumbGroup,
+  Badge,
   CollectionPreferences,
   ContentLayout,
   Header,
@@ -12,11 +13,25 @@ import {
   Button,
   Pagination,
 } from "@cloudscape-design/components";
+import Tooltip from "@cloudscape-design/components/tooltip";
 import { CodeView } from "@cloudscape-design/code-view";
 import { useCollection } from "@cloudscape-design/collection-hooks";
 import { AppLayout } from "./AppLayout";
 import { SideNav } from "./SideNav";
 import { DATASETS } from "../config/datasets";
+
+function BadgeWithTooltip({ color, content, children }: { color: "green" | "severity-low" | "red"; content: string; children: string }) {
+  const ref = useRef<HTMLSpanElement>(null);
+  const [hovered, setHovered] = useState(false);
+  return (
+    <>
+      <span ref={ref} onMouseEnter={() => setHovered(true)} onMouseLeave={() => setHovered(false)}>
+        <Badge color={color}>{children}</Badge>
+      </span>
+      {hovered && <Tooltip content={content} getTrack={() => ref.current} />}
+    </>
+  );
+}
 
 interface DatasetExplorerProps {
   datasetName: string;
@@ -43,7 +58,7 @@ function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
           setTextContent(result as string);
         } else {
           if (!Array.isArray(result)) throw new Error("Expected JSON array");
-          setData(result);
+          setData(dataset?.transform ? dataset.transform(result) : result);
         }
         setLoading(false);
       })
@@ -56,18 +71,37 @@ function DatasetExplorer({ datasetName }: DatasetExplorerProps) {
   const columns = (() => {
     if (data.length === 0) return [];
     const firstItem = data[0];
-    return Object.keys(firstItem).map((key) => ({
+    const hidden = new Set(dataset?.hiddenColumns ?? []);
+    return Object.keys(firstItem).filter((key) => !hidden.has(key)).map((key) => ({
       id: key,
       header: { asn: "ASN", dnssec: "DNSSEC", iata: "IATA", ipv4: "IPv4", ipv6: "IPv6" }[key]
         ?? key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase()),
       cell: (item: any) => {
         const value = item[key];
-        if (Array.isArray(value)) {
-          return value.join(", ");
+        if (datasetName === "cloudfront-edge-locations" && key === "nodes" && typeof value === "object" && value !== null) {
+          const now = new Date();
+          const colorOrder = { green: 0, "severity-low": 1, red: 2 };
+          const nodeDetails: Record<string, Record<string, string>> = item.nodeDetails ?? {};
+          const entries = Object.entries(value as Record<string, string>).map(([node, date]) => {
+            const days = (now.getTime() - new Date(date).getTime()) / 86400000;
+            const color: "green" | "severity-low" | "red" = days <= 7 ? "green" : days <= 30 ? "severity-low" : "red";
+            return { node, color, date };
+          }).sort((a, b) => colorOrder[a.color] - colorOrder[b.color]);
+          return (
+            <span style={{ display: "flex", flexWrap: "wrap", gap: "4px" }}>
+              {entries.map(({ node, color }) => {
+                const variants = nodeDetails[node] ?? {};
+                const count = Object.keys(variants).length;
+                const days = Math.floor((now.getTime() - new Date(entries.find(e => e.node === node)!.date).getTime()) / 86400000);
+                const when = days === 0 ? "today" : `${days}d ago`;
+                const popoverContent = `${count} ${count === 1 ? "server" : "servers"}, last seen ${when}`;
+                return <BadgeWithTooltip key={node} color={color} content={popoverContent}>{node}</BadgeWithTooltip>;
+              })}
+            </span>
+          );
         }
-        if (typeof value === "object" && value !== null) {
-          return JSON.stringify(value);
-        }
+        if (Array.isArray(value)) return value.join(", ");
+        if (typeof value === "object" && value !== null) return JSON.stringify(value);
         return String(value ?? "");
       },
       sortingField: key,

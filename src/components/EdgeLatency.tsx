@@ -78,7 +78,7 @@ function EdgeLatency() {
         {
           id: "nodes",
           header: "Nodes",
-          cell: (item: EdgeLocation) => Object.keys(item.nodes).join(", "),
+          cell: (item: EdgeLocation) => [...new Set(Object.keys(item.nodes).map(n => n.replace(/-[A-Z]\d+$/, "")))].join(", "),
         },
       ]}
       items={items}
