@@ -25,4 +25,4 @@ npm run build     # Production build → dist/
 
 1. Add a navigation entry in `src/components/SideNav.tsx`.
 2. Create a page at `src/pages/<tool-name>.astro`.
-3. Wrap content in `<Layout>` and use `client:only="react"` for React components.
+3. Wrap content in `<Layout>`. Add `client:idle` to the React component for interactivity, or `client:only="react"` if it uses browser-only APIs (`window`, `localStorage`, etc.).
