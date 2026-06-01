@@ -6498,6 +6498,12 @@
     "exception": false
   },
   {
+    "suffix": "ai.id",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "biz.id",
     "type": "ICANN",
     "wildcard": false,
@@ -47646,6 +47652,12 @@
     "exception": false
   },
   {
+    "suffix": "khsj.cn",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "canva-apps.com",
     "type": "private",
     "wildcard": false,
@@ -47665,6 +47677,12 @@
   },
   {
     "suffix": "rice-labs.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "canva.link",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -60768,25 +60786,19 @@
     "exception": false
   },
   {
-    "suffix": "bookonline.app",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "hotelwithflight.com",
     "type": "private",
     "wildcard": false,
     "exception": false
   },
   {
-    "suffix": "reserve-online.com",
+    "suffix": "reserve-online.net",
     "type": "private",
     "wildcard": false,
     "exception": false
   },
   {
-    "suffix": "reserve-online.net",
+    "suffix": "book.online",
     "type": "private",
     "wildcard": false,
     "exception": false
