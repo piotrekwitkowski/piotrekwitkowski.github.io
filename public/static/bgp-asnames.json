@@ -15296,7 +15296,7 @@
   },
   {
     "asn": 3260,
-    "name": "INTRACOM INTRACOM S.A. TELECOM SOLUTIONS",
+    "name": "INTRACOM Intracom Single Member S.A. Telecom Solutions",
     "country": "GR"
   },
   {
@@ -113511,8 +113511,8 @@
   },
   {
     "asn": 25085,
-    "name": "DMITRY-AS Dmytro Kyselov",
-    "country": "UA"
+    "name": "ALUE-NET ALUE NETWORK LIMITED",
+    "country": "GB"
   },
   {
     "asn": 25086,
@@ -130116,7 +130116,7 @@
   },
   {
     "asn": 28843,
-    "name": "DAUTKOM-AS SIA \"BITE Latvija\"",
+    "name": "DAUTKOM-AS - SIA \"BITE Latvija\"",
     "country": "LV"
   },
   {
@@ -138181,7 +138181,7 @@
   },
   {
     "asn": 30813,
-    "name": "OSTROG-NET-AS Fione Spolka z Ogranicznona Odpowiedzialnoscia Spolka Komandytowa",
+    "name": "OSTROG-NET-AS Fione Sp. z o.o.",
     "country": "PL"
   },
   {
@@ -151236,7 +151236,7 @@
   },
   {
     "asn": 33802,
-    "name": "SafeCharge-AS NUVEI CONSULTING SERVICES (ISRAEL) LTD",
+    "name": "SafeCharge-AS Nuvei Consulting Services (Israel) Ltd.",
     "country": "IL"
   },
   {
@@ -173826,7 +173826,7 @@
   },
   {
     "asn": 39365,
-    "name": "MICROLINES-AS SIA \"BITE Latvija\"",
+    "name": "MICROLINES-AS - SIA \"BITE Latvija\"",
     "country": "LV"
   },
   {
@@ -186166,7 +186166,7 @@
   },
   {
     "asn": 42197,
-    "name": "DDV-AS Dresdner Verlagshaus Technik GmbH",
+    "name": "DDV-AS DDV Sachsen GmbH",
     "country": "DE"
   },
   {
@@ -187326,7 +187326,7 @@
   },
   {
     "asn": 42480,
-    "name": "LIX-AS SIA \"BITE Latvija\"",
+    "name": "LIX-AS - SIA \"BITE Latvija\"",
     "country": "LV"
   },
   {
@@ -188811,7 +188811,7 @@
   },
   {
     "asn": 42849,
-    "name": "Datalat-AS SIA \"BITE Latvija\"",
+    "name": "Datalat-AS - SIA \"BITE Latvija\"",
     "country": "LV"
   },
   {
@@ -193311,7 +193311,7 @@
   },
   {
     "asn": 43945,
-    "name": "OYUNCEVHERI Mustafa Enes Akdeniz trading as OYUN CEVHERI",
+    "name": "IPv4Center Mustafa Enes Akdeniz trading as OYUN CEVHERI",
     "country": "TR"
   },
   {
@@ -209465,11 +209465,6 @@
     "country": "IR"
   },
   {
-    "asn": 47559,
-    "name": "VOIXP-Route-Servers Sebastian-Wilhelm Graf",
-    "country": "AT"
-  },
-  {
     "asn": 47560,
     "name": "KIT-MAGADAN KIT-Magadan LLC",
     "country": "RU"
@@ -214536,8 +214531,8 @@
   },
   {
     "asn": 48700,
-    "name": "AREXICO 2adventure Studios Ltd",
-    "country": "GB"
+    "name": "AREXICO Julian Lang trading as Arexico",
+    "country": "DE"
   },
   {
     "asn": 48701,
@@ -214656,7 +214651,7 @@
   },
   {
     "asn": 48729,
-    "name": "HOSTKEY-FI-AS HOSTKEY B.V.",
+    "name": "HOSTKEY-TEST-AS HOSTKEY B.V.",
     "country": "NL"
   },
   {
@@ -215443,11 +215438,6 @@
     "asn": 48911,
     "name": "s-v-r-as SVR LTD",
     "country": "UA"
-  },
-  {
-    "asn": 48912,
-    "name": "OLC-NET Online City LLC",
-    "country": "RU"
   },
   {
     "asn": 48914,
@@ -222541,7 +222531,7 @@
   },
   {
     "asn": 50489,
-    "name": "ORIEDGE Ori Industries 1 Limited",
+    "name": "ORIEDGE Radiant Infrastructure 1 Limited",
     "country": "GB"
   },
   {
@@ -222793,11 +222783,6 @@
     "asn": 50547,
     "name": "REGIE-DU-RESEAU-CABLE-DU-HAUT-SNNDGAU Regie du reseau cable du haut sundgau",
     "country": "FR"
-  },
-  {
-    "asn": 50548,
-    "name": "RasaAbrPardazeshIranian Rasa Abr Pardazesh Iranian",
-    "country": "IR"
   },
   {
     "asn": 50549,
@@ -224061,7 +224046,7 @@
   },
   {
     "asn": 50830,
-    "name": "FTS-PL-AS Fujitsu Technology Solutions Sp. z o.o.",
+    "name": "FTS-PL-AS Technology Solutions 360 Sp. z o.o.",
     "country": "PL"
   },
   {
@@ -226401,7 +226386,7 @@
   },
   {
     "asn": 51342,
-    "name": "HACHN-AS Hachn ISP Ltd.",
+    "name": "HACHN-AS Hachn ISP LLC",
     "country": "AM"
   },
   {
@@ -227598,11 +227583,6 @@
     "asn": 51608,
     "name": "FLSmidth-AS FLSmidth A/S",
     "country": "DK"
-  },
-  {
-    "asn": 51609,
-    "name": "AULMARK-LIMITED AULMARK LIMITED",
-    "country": "CY"
   },
   {
     "asn": 51610,
@@ -249540,11 +249520,6 @@
     "country": "PL"
   },
   {
-    "asn": 56516,
-    "name": "BG-AS Bezopasnyi Gorod LLC",
-    "country": "RU"
-  },
-  {
     "asn": 56517,
     "name": "VITENS-NET Vitens N.V.",
     "country": "NL"
@@ -252401,7 +252376,7 @@
   },
   {
     "asn": 57149,
-    "name": "IT-KGN-AS LLC \"Internet-Technology\"",
+    "name": "IT-KGN-AS - LLC \"Internet-Technology\"",
     "country": "RU"
   },
   {
@@ -254011,7 +253986,7 @@
   },
   {
     "asn": 57516,
-    "name": "MITSLV-AS SIA \"BITE Latvija\"",
+    "name": "MITSLV-AS - SIA \"BITE Latvija\"",
     "country": "LV"
   },
   {
@@ -256321,7 +256296,7 @@
   },
   {
     "asn": 58018,
-    "name": "CENTERIUM Mustafa Enes Akdeniz trading as OYUN CEVHERI",
+    "name": "IPv4Center Mustafa Enes Akdeniz trading as OYUN CEVHERI",
     "country": "TR"
   },
   {
@@ -257286,7 +257261,7 @@
   },
   {
     "asn": 58222,
-    "name": "SERVERBASE ServerBase AG",
+    "name": "SERVERBASE synaforce Schweiz AG",
     "country": "CH"
   },
   {
@@ -264976,7 +264951,7 @@
   },
   {
     "asn": 60002,
-    "name": "Terabait-AS K Telecom Neyva LLC",
+    "name": "Terabait-AS K Telecom Neyva JSC",
     "country": "RU"
   },
   {
@@ -268078,11 +268053,6 @@
     "asn": 60703,
     "name": "MULTIDIST-AS MULTIDIST SARL",
     "country": "FR"
-  },
-  {
-    "asn": 60704,
-    "name": "INETRO-AS CTD JSC",
-    "country": "RU"
   },
   {
     "asn": 60705,
@@ -283885,6 +283855,11 @@
     "country": "CL"
   },
   {
+    "asn": 64179,
+    "name": "AS64179 - CBM38",
+    "country": "PY"
+  },
+  {
     "asn": 64198,
     "name": "ESET-LLC - ESET LLC",
     "country": "US"
@@ -296165,6 +296140,11 @@
     "country": "ID"
   },
   {
+    "asn": 133365,
+    "name": "WIDEWIRED-AS-AP - WIDEWIRED NETWORKS PTE. LTD.",
+    "country": "SG"
+  },
+  {
     "asn": 133366,
     "name": "MWH-NZ-CHC-03 - MWH Christchurch DC",
     "country": "NZ"
@@ -296183,6 +296163,11 @@
     "asn": 133370,
     "name": "TODDENERGYLIMITED-AS-AP - TODD ENERGY LIMITED",
     "country": "NZ"
+  },
+  {
+    "asn": 133371,
+    "name": "IDNIC-SOKKALINK-AS-ID - PT SOKKA TAMA FIBER",
+    "country": "ID"
   },
   {
     "asn": 133372,
@@ -316396,7 +316381,7 @@
   },
   {
     "asn": 137508,
-    "name": "JP-RAINBOW-20180312 rainbow network corporation limited",
+    "name": "JP-RAINBOW-20180312 Toko Communications Co., Ltd.",
     "country": "JP"
   },
   {
@@ -331488,11 +331473,6 @@
     "asn": 140580,
     "name": "PRISAC-AS-AP - PRISAC AVIATION TECHNOLOGIES PRIVATE LIMITED",
     "country": "IN"
-  },
-  {
-    "asn": 140581,
-    "name": "AQURATECHNOLOGIES-AS-AP - Aqura Technologies",
-    "country": "AU"
   },
   {
     "asn": 140582,
@@ -401831,7 +401811,7 @@
   },
   {
     "asn": 196735,
-    "name": "AS-JONCZ JON.CZ s.r.o.",
+    "name": "AS-JONCZ PODA a.s.",
     "country": "CZ"
   },
   {
@@ -402436,7 +402416,7 @@
   },
   {
     "asn": 196925,
-    "name": "AZRT-AS AZERTELECOM LLC",
+    "name": "AZRT-AS Azertelecom LLC",
     "country": "AZ"
   },
   {
@@ -403090,6 +403070,11 @@
     "country": "UA"
   },
   {
+    "asn": 197127,
+    "name": "OwO-Intranet-Services OwO Intranet Services LLC",
+    "country": "US"
+  },
+  {
     "asn": 197128,
     "name": "IBS_KV Innovacijni Biznes Sistemy Ltd",
     "country": "UA"
@@ -403125,14 +403110,29 @@
     "country": "PL"
   },
   {
+    "asn": 197137,
+    "name": "YUNHU-NETWORKS Yunhu Networks LLC",
+    "country": "US"
+  },
+  {
     "asn": 197138,
     "name": "OWLIANCE-TELERGOS Owliance SAS",
     "country": "FR"
   },
   {
+    "asn": 197139,
+    "name": "T-MAN-AS T-Man Software LLC",
+    "country": "US"
+  },
+  {
     "asn": 197140,
     "name": "DSSV-NET JSC \"ER-Telecom Holding\"",
     "country": "RU"
+  },
+  {
+    "asn": 197141,
+    "name": "MULLVAD Mullvad VPN AB",
+    "country": "SE"
   },
   {
     "asn": 197142,
@@ -403291,7 +403291,7 @@
   },
   {
     "asn": 197173,
-    "name": "HIGHLIGHT-APPS-MNT HIGHLIGHT APPS LTD",
+    "name": "HIGHLIGHT-NET HIGHLIGHT APPS LTD",
     "country": "GB"
   },
   {
@@ -403611,7 +403611,7 @@
   },
   {
     "asn": 197238,
-    "name": "Dyckerhoff-PL Dyckerhoff Polska Spolka z ograniczona odpowiedzialnoscia",
+    "name": "Dyckerhoff-PL Dyckerhoff Polska Sp. z o.o.",
     "country": "PL"
   },
   {
@@ -406326,7 +406326,7 @@
   },
   {
     "asn": 197790,
-    "name": "AS-ACTUS Actus S.A.",
+    "name": "AS-ACTUS Actus P.S.A",
     "country": "PL"
   },
   {
@@ -407403,6 +407403,11 @@
     "asn": 198009,
     "name": "AI-AS Ashburn International Ltd.",
     "country": "LT"
+  },
+  {
+    "asn": 198010,
+    "name": "TelecomMalaysia KINHOSHI COMMUNICATION SDN. BHD",
+    "country": "MY"
   },
   {
     "asn": 198011,
@@ -413736,7 +413741,7 @@
   },
   {
     "asn": 199311,
-    "name": "AZRT-LX AZERTELECOM LLC",
+    "name": "AZRT-LX Azertelecom LLC",
     "country": "AZ"
   },
   {
@@ -415631,7 +415636,7 @@
   },
   {
     "asn": 199699,
-    "name": "GAMGROUP-ITALIA GAMGROUP SRLS",
+    "name": "GAMGROUP-ITALIA GAMGROUP SRL",
     "country": "IT"
   },
   {
@@ -416506,7 +416511,7 @@
   },
   {
     "asn": 199878,
-    "name": "CH01 LUKOIL Technology Services GmbH",
+    "name": "CH01 Neobitint GmbH",
     "country": "AT"
   },
   {
@@ -417661,7 +417666,7 @@
   },
   {
     "asn": 200114,
-    "name": "PROCOM JON.CZ s.r.o.",
+    "name": "PROCOM PODA a.s.",
     "country": "CZ"
   },
   {
@@ -421651,7 +421656,7 @@
   },
   {
     "asn": 200939,
-    "name": "LME-Iraq LUKOIL Technology Services GmbH",
+    "name": "LME-Iraq Neobitint GmbH",
     "country": "AT"
   },
   {
@@ -421871,7 +421876,7 @@
   },
   {
     "asn": 200989,
-    "name": "EIS-ANYCAST Foundation Eesti Interneti Sihtasutus",
+    "name": "EIS-ANYCAST - Foundation Eesti Interneti Sihtasutus",
     "country": "EE"
   },
   {
@@ -423881,7 +423886,7 @@
   },
   {
     "asn": 201400,
-    "name": "MEDIA-SYS-AS MEDIA-SYS SP. Z O.O.",
+    "name": "MEDIA-SYS-AS MEDIA-SYS USLUGI SP. Z O.O.",
     "country": "PL"
   },
   {
@@ -425005,11 +425010,6 @@
     "country": "NL"
   },
   {
-    "asn": 201630,
-    "name": "QHOSTER QHOSTER LTD.",
-    "country": "BG"
-  },
-  {
     "asn": 201631,
     "name": "TransasiaLogistic Transasia LLC",
     "country": "RU"
@@ -425498,6 +425498,11 @@
     "asn": 201728,
     "name": "DRUCK-AT-AS druck.at Druck und Handelsgesellschaft mbH",
     "country": "AT"
+  },
+  {
+    "asn": 201729,
+    "name": "VALE-AS VALERUS LTD",
+    "country": "GB"
   },
   {
     "asn": 201730,
@@ -437471,7 +437476,7 @@
   },
   {
     "asn": 204177,
-    "name": "CVS CVS Mobile, informacijske resitve, d.d.",
+    "name": "CVS CVS MOBILE, informacijske resitve, d.o.o.",
     "country": "SI"
   },
   {
@@ -450420,11 +450425,6 @@
     "country": "SE"
   },
   {
-    "asn": 206830,
-    "name": "digamax DIGAMAX GESTION DE TELECOMUNICACIONES SL",
-    "country": "ES"
-  },
-  {
     "asn": 206831,
     "name": "THOMASDUBOIS Thomas Dubois",
     "country": "FR"
@@ -452746,7 +452746,7 @@
   },
   {
     "asn": 207304,
-    "name": "YANDEX-KZ Y. Izdeu men Jarnama LLP",
+    "name": "Y-KZ Y. Izdeu men Jarnama LLP",
     "country": "KZ"
   },
   {
@@ -453465,11 +453465,6 @@
     "country": "CZ"
   },
   {
-    "asn": 207452,
-    "name": "BESK-AS UAB BESK",
-    "country": "LT"
-  },
-  {
     "asn": 207453,
     "name": "aurigaspa Auriga SpA",
     "country": "IT"
@@ -453626,7 +453621,7 @@
   },
   {
     "asn": 207485,
-    "name": "BTG Baltic Travel group SIA",
+    "name": "BTG - Baltic Travel group SIA",
     "country": "LV"
   },
   {
@@ -454915,11 +454910,6 @@
     "country": "BE"
   },
   {
-    "asn": 207751,
-    "name": "OLMERA-AS OLMERA GROUP LTD",
-    "country": "BZ"
-  },
-  {
     "asn": 207752,
     "name": "BRANDL-AS BRANDL RO S.R.L.",
     "country": "RO"
@@ -455311,7 +455301,7 @@
   },
   {
     "asn": 207831,
-    "name": "SNOOZINGDEV Arunesh Timmer trading as Snoozing Development",
+    "name": "SNOOZINGDEV Arunesh Timmer",
     "country": "NL"
   },
   {
@@ -458620,6 +458610,11 @@
     "country": "DE"
   },
   {
+    "asn": 208528,
+    "name": "AS_K_Nikitin Kirill Nikitin",
+    "country": "ES"
+  },
+  {
     "asn": 208529,
     "name": "Zidane-Bouabsa Zidane Bouabsa",
     "country": "FR"
@@ -460775,6 +460770,11 @@
     "country": "UA"
   },
   {
+    "asn": 208979,
+    "name": "CANADA-TE-UA-AS Canada Network Group LLC",
+    "country": "UA"
+  },
+  {
     "asn": 208980,
     "name": "SAUBER-AS Sauber Motorsport AG",
     "country": "CH"
@@ -460958,6 +460958,11 @@
     "asn": 209017,
     "name": "MIR-NETWORKS-AS Meldo International Routing Services EOOD",
     "country": "BG"
+  },
+  {
+    "asn": 209018,
+    "name": "FALIX SIA Baltijas Pakalpojumi",
+    "country": "LV"
   },
   {
     "asn": 209019,
@@ -461510,6 +461515,11 @@
     "country": "RS"
   },
   {
+    "asn": 209131,
+    "name": "Nerdpitch Lorenzo Karel trading as Nerdpitch",
+    "country": "NL"
+  },
+  {
     "asn": 209132,
     "name": "AS209132 Alviva Holding Limited",
     "country": "SC"
@@ -461651,7 +461661,7 @@
   },
   {
     "asn": 209161,
-    "name": "Alantic ALTIC IT, UAB",
+    "name": "Alantic - ALTIC IT, UAB",
     "country": "LT"
   },
   {
@@ -462608,6 +462618,11 @@
     "asn": 209362,
     "name": "BG-AELIA88 AELIA 88 Ltd",
     "country": "BG"
+  },
+  {
+    "asn": 209363,
+    "name": "skinark-as SKINARK LTD",
+    "country": "GB"
   },
   {
     "asn": 209364,
@@ -466461,7 +466476,7 @@
   },
   {
     "asn": 210155,
-    "name": "clouds4host SIA \"BITE Latvija\"",
+    "name": "clouds4host - SIA \"BITE Latvija\"",
     "country": "LV"
   },
   {
@@ -466503,6 +466518,11 @@
     "asn": 210163,
     "name": "ITJUSTART ALFALINE Sp. z o. o.",
     "country": "PL"
+  },
+  {
+    "asn": 210164,
+    "name": "HUMZACJ HumzaCJ LTD",
+    "country": "GB"
   },
   {
     "asn": 210165,
@@ -467363,6 +467383,11 @@
     "asn": 210346,
     "name": "phoenix Phoenix Systems AG",
     "country": "CH"
+  },
+  {
+    "asn": 210347,
+    "name": "ARROWBLACKLLC ARROWBLACK LLC",
+    "country": "US"
   },
   {
     "asn": 210349,
@@ -469621,7 +469646,7 @@
   },
   {
     "asn": 210814,
-    "name": "VUNIFY-AS VUNIFY LTD",
+    "name": "VUNIFY VUNIFY LTD",
     "country": "GB"
   },
   {
@@ -470216,7 +470241,7 @@
   },
   {
     "asn": 210940,
-    "name": "SEASONCLOUD Lucca Bassoli",
+    "name": "SEASONCLOUD SEASON CLOUD LTDA",
     "country": "BR"
   },
   {
@@ -470888,11 +470913,6 @@
     "asn": 211081,
     "name": "TSE Tehran Stock Exchange Company (Public Joint Stock)",
     "country": "IR"
-  },
-  {
-    "asn": 211082,
-    "name": "ASTEHNO Tekhno Ltd",
-    "country": "RU"
   },
   {
     "asn": 211083,
@@ -472436,7 +472456,7 @@
   },
   {
     "asn": 211405,
-    "name": "ELYON-CLOUD ELYON CLOUD LLC",
+    "name": "ELYON-CLOUD - ELYON CLOUD LLC",
     "country": "US"
   },
   {
@@ -473681,7 +473701,7 @@
   },
   {
     "asn": 211665,
-    "name": "HOSTREBEL Hostrebel Inc.",
+    "name": "HOSTREBEL Hostrebel, Inc.",
     "country": "US"
   },
   {
@@ -473713,6 +473733,11 @@
     "asn": 211671,
     "name": "PETER-HURTENBACH Peter Hurtenbach",
     "country": "DE"
+  },
+  {
+    "asn": 211672,
+    "name": "VSSR2-AS VNET Systems s. r. o.",
+    "country": "SK"
   },
   {
     "asn": 211673,
@@ -475250,11 +475275,6 @@
     "country": "FR"
   },
   {
-    "asn": 211998,
-    "name": "BonziNet Violet Monkey Consulting LTD",
-    "country": "GB"
-  },
-  {
     "asn": 211999,
     "name": "LuxProvide LuxProvide S.A.",
     "country": "LU"
@@ -475586,7 +475606,7 @@
   },
   {
     "asn": 212066,
-    "name": "YANDEX-COM-TR Buyuk Reklam Cozumleri LLC",
+    "name": "Y-COM-TR Buyuk Reklam Cozumleri LLC",
     "country": "TR"
   },
   {
@@ -477906,7 +477926,7 @@
   },
   {
     "asn": 212554,
-    "name": "SALAM SALAM - Exclusive Properties, Lda",
+    "name": "SALAM BV - Exclusive Properties, Lda",
     "country": "PT"
   },
   {
@@ -485976,7 +485996,7 @@
   },
   {
     "asn": 214266,
-    "name": "xiaohai-mnt ZERODESK LTD",
+    "name": "ZERODESK-LTD ZERODESK LTD",
     "country": "GB"
   },
   {
@@ -486148,6 +486168,11 @@
     "asn": 214300,
     "name": "Layer4-Group Layer 4 Group LLC",
     "country": "US"
+  },
+  {
+    "asn": 214301,
+    "name": "STILLCO-AS STILL-C.O. SRL",
+    "country": "RO"
   },
   {
     "asn": 214302,
@@ -487496,7 +487521,7 @@
   },
   {
     "asn": 214616,
-    "name": "AmolikMehta Amolik Mehta",
+    "name": "MehtaTechnologies Amolik Mehta",
     "country": "IN"
   },
   {
@@ -489281,7 +489306,7 @@
   },
   {
     "asn": 215013,
-    "name": "YACLOUDCDN Yandex.Cloud LLC",
+    "name": "YCCDN Yandex.Cloud LLC",
     "country": "RU"
   },
   {
@@ -489818,6 +489843,11 @@
     "asn": 215132,
     "name": "CODAVEL CODAVEL, S.A.",
     "country": "PT"
+  },
+  {
+    "asn": 215133,
+    "name": "JAKUB-WITKOWSKI Jakub Witkowski",
+    "country": "PL"
   },
   {
     "asn": 215134,
@@ -492186,7 +492216,7 @@
   },
   {
     "asn": 215653,
-    "name": "ALICEIT nexserv GmbH",
+    "name": "ALICEIT - nexserv GmbH",
     "country": "DE"
   },
   {
@@ -492451,7 +492481,7 @@
   },
   {
     "asn": 215709,
-    "name": "YOLLA-AS YOLLA CALLS INTERNATIONAL OU",
+    "name": "AS-YOLLA YOLLA CALLS INTERNATIONAL OU",
     "country": "EE"
   },
   {
@@ -495291,7 +495321,7 @@
   },
   {
     "asn": 216324,
-    "name": "HYPERGROUP-NET Hyper Group Network Ltd.",
+    "name": "HYPERGROUP-NET - Hyper Group Network Ltd.",
     "country": "GB"
   },
   {
@@ -495988,6 +496018,11 @@
     "asn": 216475,
     "name": "nktelecom NKtelecom INC",
     "country": "US"
+  },
+  {
+    "asn": 219547,
+    "name": "AUCS Advanced UniByte GmbH",
+    "country": "DE"
   },
   {
     "asn": 262144,
@@ -504875,11 +504910,6 @@
     "country": "BR"
   },
   {
-    "asn": 264367,
-    "name": "AS264367 - AVATO TECNOLOGIA S.A",
-    "country": "BR"
-  },
-  {
     "asn": 264368,
     "name": "AS264368 - A. L. A. INFORMATICA LTDA.",
     "country": "BR"
@@ -505347,11 +505377,6 @@
   {
     "asn": 264485,
     "name": "AS264485 - M. COELHO M. LIMA SERVICOS DE TELECOMUNICACAO - ME",
-    "country": "BR"
-  },
-  {
-    "asn": 264487,
-    "name": "AS264487 - AVATO TECNOLOGIA S.A",
     "country": "BR"
   },
   {
@@ -551870,6 +551895,26 @@
     "country": "AR"
   },
   {
+    "asn": 274940,
+    "name": "AS274940 - JGO8",
+    "country": "CO"
+  },
+  {
+    "asn": 274941,
+    "name": "AS274941 - WSG5",
+    "country": "CO"
+  },
+  {
+    "asn": 274942,
+    "name": "AS274942 - EAP23",
+    "country": "PE"
+  },
+  {
+    "asn": 274943,
+    "name": "AS274943 - TEI32",
+    "country": "CO"
+  },
+  {
     "asn": 275613,
     "name": "AS275613 - QUEIROZ & FREITAS COMERCIO E SERVICOS LTDA",
     "country": "BR"
@@ -561763,6 +561808,11 @@
     "asn": 329756,
     "name": "MSTAR, SA - MSTAR, SA",
     "country": "MZ"
+  },
+  {
+    "asn": 329757,
+    "name": "WAIN Timeless Network Services Limited - WAIN Timeless Network Services Limited",
+    "country": "KE"
   },
   {
     "asn": 393216,
@@ -606687,7 +606737,7 @@
   {
     "asn": 402475,
     "name": "DELTA-CONSTRUCTORS - Delta",
-    "country": "US"
+    "country": "SG"
   },
   {
     "asn": 402476,
@@ -607197,6 +607247,71 @@
   {
     "asn": 402577,
     "name": "VIXNET - Snark",
+    "country": "US"
+  },
+  {
+    "asn": 402578,
+    "name": "SERVER-GALACTIC-USA - Server",
+    "country": "US"
+  },
+  {
+    "asn": 402579,
+    "name": "STSB-NET-FTTH - STS",
+    "country": "US"
+  },
+  {
+    "asn": 402580,
+    "name": "LA6721-LLC - LA6721,",
+    "country": "US"
+  },
+  {
+    "asn": 402581,
+    "name": "MAKERZERO - Makerzero",
+    "country": "US"
+  },
+  {
+    "asn": 402582,
+    "name": "CPSO-ASN-01 - Caddo",
+    "country": "US"
+  },
+  {
+    "asn": 402583,
+    "name": "AZUSA-NET - azusa",
+    "country": "US"
+  },
+  {
+    "asn": 402584,
+    "name": "MSUDENVER - Metropolitan",
+    "country": "US"
+  },
+  {
+    "asn": 402585,
+    "name": "DIGITAINO-LLC - Digitaino",
+    "country": "US"
+  },
+  {
+    "asn": 402586,
+    "name": "COMMURE-USA - Commure",
+    "country": "US"
+  },
+  {
+    "asn": 402587,
+    "name": "SAKURADREAM - Enhosting",
+    "country": "US"
+  },
+  {
+    "asn": 402588,
+    "name": "LINDRIS - Lindris",
+    "country": "US"
+  },
+  {
+    "asn": 402589,
+    "name": "SYNIAC - Syniac",
+    "country": "US"
+  },
+  {
+    "asn": 402590,
+    "name": "INTERMOUNTAIN-IX - Ardent",
     "country": "US"
   }
 ]
