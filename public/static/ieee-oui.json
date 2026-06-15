@@ -18232,7 +18232,7 @@
   {
     "prefix": "000E59",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "2, rue du petit Albi CERGY SAINT CHRISTOPHE val d'Oise FR 95800 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "000E5A",
@@ -27177,7 +27177,7 @@
   {
     "prefix": "001556",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "Le Ponnant de Paris CEDEX Paris FR 75512 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "001557",
@@ -35382,7 +35382,7 @@
   {
     "prefix": "001BBF",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "14 Rue Paul Dautier VÃƒÂ©lizy  FR 78457 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "001BC0",
@@ -38847,7 +38847,7 @@
   {
     "prefix": "001E74",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "Le Ponnant de Paris CEDEX Paris FR 75512 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "001E75",
@@ -40292,7 +40292,7 @@
   {
     "prefix": "001F95",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "Le Ponnant de Paris CEDEX Paris FR 75512 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "001F96",
@@ -45027,7 +45027,7 @@
   {
     "prefix": "002348",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "Le Ponnant de Paris CEDEX Paris FR 75512 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "002349",
@@ -47727,7 +47727,7 @@
   {
     "prefix": "002569",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "Le Ponnant de Paris CEDEX Paris FR 75512 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "00256A",
@@ -49192,7 +49192,7 @@
   {
     "prefix": "002691",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "Le Ponnant de Paris CEDEX Paris FR 75512 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "002692",
@@ -51412,7 +51412,7 @@
   {
     "prefix": "0037B7",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "0038DF",
@@ -54667,7 +54667,7 @@
   {
     "prefix": "00604C",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "27 RUE LEBLANC CEDEX 15 PARIS FR 75512 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "00604D",
@@ -55837,7 +55837,7 @@
   {
     "prefix": "00789E",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur Rueil Malmaison Cedex Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "0078CD",
@@ -59881,8 +59881,8 @@
   },
   {
     "prefix": "00A0E3",
-    "vendor": "XKL SYSTEMS CORP.",
-    "address": "8420 154TH AVE. NE REDMOND WA US 98052 "
+    "vendor": "XKL LLC ",
+    "address": "11601 Willows Rd NE, Suite 101 Redmond WA US 98052 "
   },
   {
     "prefix": "00A0E4",
@@ -62017,7 +62017,7 @@
   {
     "prefix": "00CB51",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "00CB7A",
@@ -65097,7 +65097,7 @@
   {
     "prefix": "00F8CC",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "00F952",
@@ -66292,7 +66292,7 @@
   {
     "prefix": "048308",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "04848A",
@@ -67122,7 +67122,7 @@
   {
     "prefix": "04E31A",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "04E387",
@@ -67378,6 +67378,11 @@
     "prefix": "04FA83",
     "vendor": "Qingdao Haier Technology Co.,Ltd",
     "address": "Building A01,Haier Information Park, No.1 Haier Road, Qingdao Shandong CN 266101 "
+  },
+  {
+    "prefix": "04FB66",
+    "vendor": "Ericsson AB",
+    "address": "Torshamnsgatan 36 Stockholm  SE SE-164 80 "
   },
   {
     "prefix": "04FDE8",
@@ -68252,7 +68257,7 @@
   {
     "prefix": "081086",
     "vendor": "NEC Platforms, Ltd.",
-    "address": "2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 "
+    "address": "14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
   },
   {
     "prefix": "081093",
@@ -68602,7 +68607,7 @@
   {
     "prefix": "083A8D",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "083AB8",
@@ -68612,7 +68617,7 @@
   {
     "prefix": "083AF2",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "083BC1",
@@ -68642,7 +68647,7 @@
   {
     "prefix": "083E5D",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "083E8E",
@@ -69107,7 +69112,7 @@
   {
     "prefix": "087B12",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "087B87",
@@ -69442,7 +69447,7 @@
   {
     "prefix": "08A6F7",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "08A7C0",
@@ -69487,7 +69492,7 @@
   {
     "prefix": "08AD0A",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "08AED6",
@@ -69557,7 +69562,7 @@
   {
     "prefix": "08B61F",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "08B657",
@@ -70657,7 +70662,7 @@
   {
     "prefix": "0C4EA0",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "0C4EC0",
@@ -71447,7 +71452,7 @@
   {
     "prefix": "0CAC8A",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "0CAE39",
@@ -71557,7 +71562,7 @@
   {
     "prefix": "0CB815",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "0CB8E8",
@@ -71872,7 +71877,7 @@
   {
     "prefix": "0CDC7E",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "0CDC91",
@@ -72242,12 +72247,12 @@
   {
     "prefix": "10061C",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "100645",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "100648",
@@ -72477,7 +72482,7 @@
   {
     "prefix": "1020BA",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "102279",
@@ -72557,7 +72562,7 @@
   {
     "prefix": "102BAA",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "102C6B",
@@ -72912,12 +72917,12 @@
   {
     "prefix": "1051DB",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "10521C",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "1052BD",
@@ -73417,7 +73422,7 @@
   {
     "prefix": "1091A8",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "1091D1",
@@ -73482,7 +73487,7 @@
   {
     "prefix": "1097BD",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "109819",
@@ -73737,7 +73742,7 @@
   {
     "prefix": "10B41D",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "10B588",
@@ -73832,7 +73837,7 @@
   {
     "prefix": "10BDA3",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "10BE99",
@@ -74457,7 +74462,7 @@
   {
     "prefix": "140808",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "1409B4",
@@ -74762,7 +74767,7 @@
   {
     "prefix": "142B2F",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "142BD2",
@@ -74847,7 +74852,7 @@
   {
     "prefix": "14335C",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "143365",
@@ -75277,7 +75282,7 @@
   {
     "prefix": "146393",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "14656A",
@@ -76452,7 +76457,7 @@
   {
     "prefix": "180C7A",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "180CAC",
@@ -77187,7 +77192,7 @@
   {
     "prefix": "18622C",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "1862E4",
@@ -77297,7 +77302,7 @@
   {
     "prefix": "186A81",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "186BE2",
@@ -77547,7 +77552,7 @@
   {
     "prefix": "188B0E",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "188B15",
@@ -77592,7 +77597,7 @@
   {
     "prefix": "1890D8",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "18922C",
@@ -78477,7 +78482,7 @@
   {
     "prefix": "18FE34",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "18FF0F",
@@ -79045,6 +79050,11 @@
     "address": "No. 1 Jen Ai Road Hsinchu Industrial Park Hukou, Hsinchu 30352 TAIWAN, REPUBLIC OF CHINA Hsinchu TAIWAN TW 30352 "
   },
   {
+    "prefix": "1C4A3B",
+    "vendor": "ACCTON TECHNOLOGY CORPORATION",
+    "address": "No.1, Creation Road 3, Hsinchu Science Park, Hsinchu  TW 30077 "
+  },
+  {
     "prefix": "1C4AF7",
     "vendor": "AMON INC",
     "address": "HANJUN BLDG 4/F, SHINGILDONG 110-4  SEOUL KR 150839 "
@@ -79327,7 +79337,7 @@
   {
     "prefix": "1C6920",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "1C6932",
@@ -79517,7 +79527,7 @@
   {
     "prefix": "1C7C98",
     "vendor": "NEC Platforms, Ltd.",
-    "address": "2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 "
+    "address": "14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
   },
   {
     "prefix": "1C7CC7",
@@ -79647,7 +79657,7 @@
   {
     "prefix": "1C8F57",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "1C8F8A",
@@ -79787,7 +79797,7 @@
   {
     "prefix": "1C9DC2",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "1C9E46",
@@ -80187,7 +80197,7 @@
   {
     "prefix": "1CDBD4",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "1CDDEA",
@@ -80551,7 +80561,7 @@
   },
   {
     "prefix": "200D3D",
-    "vendor": "Quectel Wireless Solutions Co., Ltd.",
+    "vendor": "Quectel Wireless Solutions Co.,Ltd.",
     "address": "Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District Shanghai  CN 200233 "
   },
   {
@@ -81082,7 +81092,7 @@
   {
     "prefix": "2047B5",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "2047DA",
@@ -81152,7 +81162,7 @@
   {
     "prefix": "20500D",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "20500F",
@@ -81417,7 +81427,7 @@
   {
     "prefix": "206EF1",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "206FEC",
@@ -81687,7 +81697,7 @@
   {
     "prefix": "209A7D",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "209AE9",
@@ -81907,7 +81917,7 @@
   {
     "prefix": "20B82B",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "20B83D",
@@ -82341,7 +82351,7 @@
   },
   {
     "prefix": "20F41B",
-    "vendor": "Shenzhen Bilian electronic CO.,LTD",
+    "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
     "address": "NO 268, Fuqian Rd,Jutang Community,Guanlan town, ShenZhen Guangdong CN 518110 "
   },
   {
@@ -82527,7 +82537,7 @@
   {
     "prefix": "240AC4",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "240B0A",
@@ -82742,7 +82752,7 @@
   {
     "prefix": "2420C7",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "242124",
@@ -83077,7 +83087,7 @@
   {
     "prefix": "244ECD",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "244F1D",
@@ -83117,7 +83127,7 @@
   {
     "prefix": "24587C",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "245880",
@@ -83242,7 +83252,7 @@
   {
     "prefix": "2462AB",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "2462C6",
@@ -83367,7 +83377,7 @@
   {
     "prefix": "246F28",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "246F8C",
@@ -83512,7 +83522,7 @@
   {
     "prefix": "247F20",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "247F3C",
@@ -83712,7 +83722,7 @@
   {
     "prefix": "24A160",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "24A186",
@@ -83857,7 +83867,7 @@
   {
     "prefix": "24B2DE",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "24B339",
@@ -84142,7 +84152,7 @@
   {
     "prefix": "24D7EB",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "24D81E",
@@ -84357,7 +84367,7 @@
   {
     "prefix": "24EC4A",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "24EC51",
@@ -84485,6 +84495,11 @@
     "address": "Room 301, 3F, Building 25, Keyuan West, No. 5, Kezhi West Road, Yuehai street Shenzhen GuangDong CN 518000 "
   },
   {
+    "prefix": "24FAD6",
+    "vendor": "EMSTONE",
+    "address": "1201, Byeoksan Digital Valley 271 Digital-ro Guro-gu Seoul KR 08381 "
+  },
+  {
     "prefix": "24FAF3",
     "vendor": "Shanghai Flexem Technology Co.,Ltd.",
     "address": "Room 804, C6 Building,No.52 Bay Valley Technology Park, Lane 1688 North Guoquan Road, Yangpu District. Shanghai  CN 200438 "
@@ -84592,7 +84607,7 @@
   {
     "prefix": "2805A5",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "28061E",
@@ -84992,7 +85007,7 @@
   {
     "prefix": "28372F",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "283737",
@@ -85227,7 +85242,7 @@
   {
     "prefix": "28562F",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "28563A",
@@ -85562,7 +85577,7 @@
   {
     "prefix": "288485",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "2884FA",
@@ -85747,7 +85762,7 @@
   {
     "prefix": "289EFC",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "289F04",
@@ -85920,6 +85935,11 @@
     "address": "1201 Cadillac Ct Milpitas CA US 95035 "
   },
   {
+    "prefix": "28B3AF",
+    "vendor": "Qualynxus Inc",
+    "address": "10080 N Wolfe Road Suite SW3273 Cupertino  US 95014 "
+  },
+  {
     "prefix": "28B446",
     "vendor": "SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD",
     "address": "Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China SHENZHEN GUANGDONG CN 518057 "
@@ -85973,6 +85993,11 @@
     "prefix": "28BAB5",
     "vendor": "Samsung Electronics Co.,Ltd",
     "address": "#94-1,Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+  },
+  {
+    "prefix": "28BAB9",
+    "vendor": "ACME LIGHTING",
+    "address": "No.898,Gaoming Avenue East,Hecheng Blvd,Gaoming District,Foshan City, Guangdong Province China. FOSHAN GUANGDONG CN 528511 "
   },
   {
     "prefix": "28BB59",
@@ -86541,7 +86566,7 @@
   },
   {
     "prefix": "28F366",
-    "vendor": "Shenzhen Bilian electronic CO.,LTD",
+    "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
     "address": "NO 268，Fuqian Rd,Jutang Community,Guanlan town , LongHua new district,Shenzhen,518110,China. Shenzhen  CN 518110 "
   },
   {
@@ -87010,6 +87035,11 @@
     "address": "1 Microsoft Way Redmond Washington FI 98052 "
   },
   {
+    "prefix": "2C2B86",
+    "vendor": "Sagemcom Broadband SAS",
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
+  },
+  {
     "prefix": "2C2BDB",
     "vendor": "eero inc.",
     "address": "660 3rd Street  San Francisco CA US 94107 "
@@ -87127,7 +87157,7 @@
   {
     "prefix": "2C3996",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "2C39C1",
@@ -87152,7 +87182,7 @@
   {
     "prefix": "2C3AE8",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "2C3AFD",
@@ -87707,7 +87737,7 @@
   {
     "prefix": "2C79D7",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "2C7AF4",
@@ -88202,7 +88232,7 @@
   {
     "prefix": "2CBCBB",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "2CBE08",
@@ -88547,7 +88577,7 @@
   {
     "prefix": "2CE412",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "2CE64D",
@@ -88647,7 +88677,7 @@
   {
     "prefix": "2CF2A5",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "2CF432",
@@ -88687,7 +88717,7 @@
   {
     "prefix": "2CFB0F",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "2CFC8B",
@@ -88796,7 +88826,7 @@
   },
   {
     "prefix": "30075C",
-    "vendor": "43403",
+    "vendor": "Netis Technology Co., Ltd.",
     "address": "8 Floor, Bd B, information port, Langshan RD, Nanshan district,  Shenzhen Guangdong CN 518057 "
   },
   {
@@ -89032,7 +89062,7 @@
   {
     "prefix": "302478",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "3024A9",
@@ -89097,7 +89127,7 @@
   {
     "prefix": "3030F9",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "30317D",
@@ -89545,6 +89575,11 @@
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
   },
   {
+    "prefix": "306222",
+    "vendor": "Samsung Electronics Co.,Ltd",
+    "address": "129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
+  },
+  {
     "prefix": "30636B",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
@@ -89657,7 +89692,7 @@
   {
     "prefix": "3076F5",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "3077CB",
@@ -89762,7 +89797,7 @@
   {
     "prefix": "308398",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "3083D2",
@@ -90082,7 +90117,7 @@
   {
     "prefix": "30AEA4",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "30AEF6",
@@ -90272,7 +90307,7 @@
   {
     "prefix": "30C6F7",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "30C750",
@@ -90302,7 +90337,7 @@
   {
     "prefix": "30C922",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "30C9AB",
@@ -90597,7 +90632,7 @@
   {
     "prefix": "30EDA0",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "30EFD1",
@@ -90647,7 +90682,7 @@
   {
     "prefix": "30F600",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "30F65D",
@@ -91282,7 +91317,7 @@
   {
     "prefix": "343839",
     "vendor": "NEC Platforms, Ltd.",
-    "address": "2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 "
+    "address": "14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
   },
   {
     "prefix": "3438AF",
@@ -91397,7 +91432,7 @@
   {
     "prefix": "34495B",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "344A1B",
@@ -91497,7 +91532,7 @@
   {
     "prefix": "3453D2",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "34543C",
@@ -91602,7 +91637,7 @@
   {
     "prefix": "345D9E",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "345DA8",
@@ -91622,7 +91657,7 @@
   {
     "prefix": "345F45",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "3460F9",
@@ -91702,7 +91737,7 @@
   {
     "prefix": "346B46",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "346B5B",
@@ -91937,7 +91972,7 @@
   {
     "prefix": "348518",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "348584",
@@ -91952,7 +91987,7 @@
   {
     "prefix": "34865D",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "3486DA",
@@ -91997,7 +92032,7 @@
   {
     "prefix": "348AAE",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "348B75",
@@ -92057,7 +92092,7 @@
   {
     "prefix": "349454",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "3495DB",
@@ -92547,7 +92582,7 @@
   {
     "prefix": "34CDB0",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "34CDBE",
@@ -92687,7 +92722,7 @@
   {
     "prefix": "34DB9C",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "34DBFD",
@@ -93272,7 +93307,7 @@
   {
     "prefix": "3817B1",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "3817C3",
@@ -93287,7 +93322,7 @@
   {
     "prefix": "38182B",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "38184C",
@@ -93382,7 +93417,7 @@
   {
     "prefix": "382228",
     "vendor": "Telink Micro LLC",
-    "address": "2975 Scott Blvd #120 Santa Clara  US 95054 "
+    "address": "2975 Scott Blvd #120 Santa Clara CA US 95054 "
   },
   {
     "prefix": "38229D",
@@ -93520,6 +93555,11 @@
     "address": "Av. Pref. Waldemar Grubba, 3000 Jaraguá do Sul Santa Catarina BR 89256-900 "
   },
   {
+    "prefix": "38327A",
+    "vendor": "Routerboard.com",
+    "address": "Mikrotikls SIA Riga Riga LV LV1009 "
+  },
+  {
     "prefix": "3833C5",
     "vendor": "Microsoft Corporation",
     "address": "One Microsoft Way REDMOND WA US 98052 "
@@ -93637,7 +93677,7 @@
   {
     "prefix": "3844BE",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "38453B",
@@ -94352,7 +94392,7 @@
   {
     "prefix": "38A659",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "38A6CE",
@@ -94797,7 +94837,7 @@
   {
     "prefix": "38E1F4",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "38E26E",
@@ -95277,7 +95317,7 @@
   {
     "prefix": "3C0F02",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "3C0FC1",
@@ -95357,7 +95397,7 @@
   {
     "prefix": "3C1710",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "3C189F",
@@ -95461,7 +95501,7 @@
   },
   {
     "prefix": "3C227F",
-    "vendor": "Quectel Wireless Solutions Co., Ltd.",
+    "vendor": "Quectel Wireless Solutions Co.,Ltd.",
     "address": "Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District Shanghai  CN 200233 "
   },
   {
@@ -95611,7 +95651,7 @@
   },
   {
     "prefix": "3C3300",
-    "vendor": "Shenzhen Bilian electronic CO.,LTD",
+    "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
     "address": "NO 268，Fuqian Rd,Jutang Community,Guanlan town , LongHua new district Shenzhen Guangdong CN 518110 "
   },
   {
@@ -95922,7 +95962,7 @@
   {
     "prefix": "3C585D",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "3C58C2",
@@ -96117,7 +96157,7 @@
   {
     "prefix": "3C71BF",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "3C7437",
@@ -96227,7 +96267,7 @@
   {
     "prefix": "3C81D8",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "3C82C0",
@@ -97512,7 +97552,7 @@
   {
     "prefix": "4022D8",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "4022ED",
@@ -97857,7 +97897,7 @@
   {
     "prefix": "404CCA",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "404D7F",
@@ -97953,6 +97993,11 @@
     "prefix": "405899",
     "vendor": "Logitech Far East",
     "address": "#2 Creation Rd. 4, Hsinchu  TW 300 "
+  },
+  {
+    "prefix": "405925",
+    "vendor": "Kaon Broadband CO., LTD.",
+    "address": "884-3, Seongnam-daero, Bundang-gu Seongnam-si  KR 13517 "
   },
   {
     "prefix": "405A9B",
@@ -98067,7 +98112,7 @@
   {
     "prefix": "4065A3",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "40667A",
@@ -98387,7 +98432,7 @@
   {
     "prefix": "409151",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "40921A",
@@ -98882,7 +98927,7 @@
   {
     "prefix": "40C729",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "40C73C",
@@ -99197,7 +99242,7 @@
   {
     "prefix": "40F201",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "40F21C",
@@ -99262,7 +99307,7 @@
   {
     "prefix": "40F520",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "40F52E",
@@ -99367,7 +99412,7 @@
   {
     "prefix": "44053F",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "4405B8",
@@ -99472,7 +99517,7 @@
   {
     "prefix": "441524",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "441622",
@@ -99492,7 +99537,7 @@
   {
     "prefix": "441793",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "441847",
@@ -99547,7 +99592,7 @@
   {
     "prefix": "441BF6",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "441C12",
@@ -99721,7 +99766,7 @@
   },
   {
     "prefix": "44334C",
-    "vendor": "Shenzhen Bilian electronic CO.,LTD",
+    "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
     "address": "NO 268 Shenzhen Guangdong CN 518110 "
   },
   {
@@ -100098,6 +100143,11 @@
     "prefix": "445D5E",
     "vendor": "SHENZHEN Coolkit Technology CO.,LTD",
     "address": "B09 2nd Floor, T6 ArtZone XiLi, Nanshan Dist shenzhen guangdong CN 518110 "
+  },
+  {
+    "prefix": "445E82",
+    "vendor": "Zyxel Communications Corporation",
+    "address": "No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
   },
   {
     "prefix": "445ECD",
@@ -100762,7 +100812,7 @@
   {
     "prefix": "44ADB1",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "44ADD9",
@@ -100792,7 +100842,7 @@
   {
     "prefix": "44B176",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "44B295",
@@ -100877,7 +100927,7 @@
   {
     "prefix": "44BD8D",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "44BDC8",
@@ -101057,12 +101107,12 @@
   {
     "prefix": "44D453",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "44D454",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "44D465",
@@ -101267,7 +101317,7 @@
   {
     "prefix": "44E9DD",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "44EA30",
@@ -101712,7 +101762,7 @@
   {
     "prefix": "4827E2",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "4827EA",
@@ -101877,7 +101927,7 @@
   {
     "prefix": "483FDA",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "483FE9",
@@ -102057,7 +102107,7 @@
   {
     "prefix": "485519",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "485541",
@@ -102452,7 +102502,7 @@
   {
     "prefix": "4883C7",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "48849D",
@@ -102797,7 +102847,7 @@
   {
     "prefix": "48AABB",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "48AD08",
@@ -103007,7 +103057,7 @@
   {
     "prefix": "48CA43",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "48CA68",
@@ -103062,7 +103112,7 @@
   {
     "prefix": "48D24F",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "48D343",
@@ -103215,6 +103265,11 @@
     "address": "Building D21,No.1, East Zone 1st Road Chongqing Chongqing CN 401332 "
   },
   {
+    "prefix": "48E27E",
+    "vendor": "Sagemcom Broadband SAS",
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
+  },
+  {
     "prefix": "48E2AD",
     "vendor": "HUMAX NETWORKS",
     "address": "HUMAX VILLAGE, 216Hwangsaeul-ro, Bundang gu Seongnam-si Gyeonggi-do KR 13595 "
@@ -103252,7 +103307,7 @@
   {
     "prefix": "48E729",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "48E7DA",
@@ -103657,7 +103712,7 @@
   {
     "prefix": "4C17EB",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur Rueil Malmaison Cedex Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "4C189A",
@@ -104377,7 +104432,7 @@
   {
     "prefix": "4C7525",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "4C7625",
@@ -104475,6 +104530,11 @@
     "address": "HUST Industry Park, East-Lake Development Zone Wuhan Hubei CN 430223 "
   },
   {
+    "prefix": "4C80FB",
+    "vendor": "Google, Inc.",
+    "address": "1600 Amphitheatre Parkway Mountain View CA US 94043 "
+  },
+  {
     "prefix": "4C8120",
     "vendor": "Taicang T&W Electronics",
     "address": "89# Jiang Nan RD Suzhou Jiangsu CN 215412 "
@@ -104492,7 +104552,7 @@
   {
     "prefix": "4C8237",
     "vendor": "Telink Micro LLC",
-    "address": "2975 Scott Blvd #120 Santa Clara  US 95054 "
+    "address": "2975 Scott Blvd #120 Santa Clara CA US 95054 "
   },
   {
     "prefix": "4C82A9",
@@ -104997,7 +105057,7 @@
   {
     "prefix": "4CC382",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "4CC449",
@@ -105275,6 +105335,11 @@
     "address": "Via Amedeo Avogadro 24 Torino  IT 10121 "
   },
   {
+    "prefix": "4CE4B6",
+    "vendor": "Motorola Mobility LLC, a Lenovo Company",
+    "address": "222 West Merchandise Mart Plaza Chicago IL US 60654 "
+  },
+  {
     "prefix": "4CE5AE",
     "vendor": "Tianjin Beebox Intelligent Technology Co.,Ltd.",
     "address": "Room 103，NO.1 of the 2nd Street Tianjin Pilot Free Trade Zone Airport EconomicArea Airport International Logistics Zone, Tianjin CN 300300 "
@@ -105347,7 +105412,7 @@
   {
     "prefix": "4CEBD6",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "4CEC0F",
@@ -105542,7 +105607,7 @@
   {
     "prefix": "500291",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "5003CF",
@@ -105986,7 +106051,7 @@
   },
   {
     "prefix": "5037CD",
-    "vendor": "Quectel Wireless Solutions Co., Ltd.",
+    "vendor": "Quectel Wireless Solutions Co.,Ltd.",
     "address": "Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District Shanghai  CN 200233 "
   },
   {
@@ -106093,6 +106158,11 @@
     "prefix": "503F98",
     "vendor": "CMITECH",
     "address": "904-ho, 25, Simin-daero 248beon-gil, Dongan-gu Anyang-si Gyeonggi-do KR 14067 "
+  },
+  {
+    "prefix": "504035",
+    "vendor": "Vantiva USA LLC",
+    "address": "4855 Peachtree Industrial Blvd, Suite 200 Norcross GA US 30902 "
   },
   {
     "prefix": "504061",
@@ -106542,7 +106612,7 @@
   {
     "prefix": "506F0C",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "506F77",
@@ -108255,6 +108325,11 @@
     "address": "Riedstrasse 12 Zürich Dietikon CH 8953 "
   },
   {
+    "prefix": "543CED",
+    "vendor": "Sagemcom Broadband SAS",
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
+  },
+  {
     "prefix": "543D37",
     "vendor": "Ruckus Wireless",
     "address": "350 West Java Drive Sunnyvale CA US 94089 "
@@ -108287,7 +108362,7 @@
   {
     "prefix": "5443B2",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "544408",
@@ -108327,7 +108402,7 @@
   {
     "prefix": "5447CC",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "5447D3",
@@ -108522,7 +108597,7 @@
   {
     "prefix": "5464D9",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "5464DE",
@@ -108942,7 +109017,7 @@
   {
     "prefix": "549B49",
     "vendor": "NEC Platforms, Ltd.",
-    "address": "2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 "
+    "address": "14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
   },
   {
     "prefix": "549B72",
@@ -110022,7 +110097,7 @@
   {
     "prefix": "582ABD",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "582AF7",
@@ -110062,7 +110137,7 @@
   {
     "prefix": "582FF7",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "58305B",
@@ -110445,6 +110520,11 @@
     "address": "Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
   },
   {
+    "prefix": "586D0C",
+    "vendor": "Hewlett Packard Enterprise",
+    "address": "6280 America Center Dr San Jose CA US 95002 "
+  },
+  {
     "prefix": "586D67",
     "vendor": "Intel Corporate",
     "address": "Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
@@ -110672,7 +110752,7 @@
   {
     "prefix": "588C81",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "588CCF",
@@ -111072,7 +111152,7 @@
   {
     "prefix": "58BF25",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "58BFEA",
@@ -111167,7 +111247,7 @@
   {
     "prefix": "58CF79",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "58D061",
@@ -111362,7 +111442,7 @@
   {
     "prefix": "58E6C5",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "58E747",
@@ -111567,7 +111647,7 @@
   {
     "prefix": "5C013B",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "5C0214",
@@ -112043,6 +112123,11 @@
     "prefix": "5C4071",
     "vendor": "Xiaomi Communications Co Ltd",
     "address": "#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+  },
+  {
+    "prefix": "5C4097",
+    "vendor": "ACCTON TECHNOLOGY CORPORATION",
+    "address": "No.1, Creation Road 3, Hsinchu Science Park, Hsinchu  TW 30077 "
   },
   {
     "prefix": "5C40E3",
@@ -112700,6 +112785,11 @@
     "address": "186 Ruey Kuang Road, Neihu, Taipei  TW 114 "
   },
   {
+    "prefix": "5C8DFD",
+    "vendor": "Clariphotonics CO., Ltd",
+    "address": "7F-2, No. 20, Fuxing 1st Rd., Zhubei  Zhubei   TW 30256 "
+  },
+  {
     "prefix": "5C8E10",
     "vendor": "TimeWatch Infocom Pvt. Ltd. ",
     "address": "D-162, Okhla Indl. Area Phase -1  New Delhi  Delhi  IN 110020 "
@@ -112957,7 +113047,7 @@
   {
     "prefix": "5CB13E",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "5CB15F",
@@ -113051,7 +113141,7 @@
   },
   {
     "prefix": "5CBA75",
-    "vendor": "Quectel Wireless Solutions Co., Ltd.",
+    "vendor": "Quectel Wireless Solutions Co.,Ltd.",
     "address": "Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District Shanghai  CN 200233 "
   },
   {
@@ -113237,7 +113327,7 @@
   {
     "prefix": "5CCF7F",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "5CD06E",
@@ -114187,7 +114277,7 @@
   {
     "prefix": "603FFB",
     "vendor": "Telink Micro LLC",
-    "address": "2975 Scott Blvd #120 Santa Clara  US 95054 "
+    "address": "2975 Scott Blvd #120 Santa Clara CA US 95054 "
   },
   {
     "prefix": "60427F",
@@ -114227,7 +114317,7 @@
   {
     "prefix": "6045CD",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "6045E8",
@@ -114347,7 +114437,7 @@
   {
     "prefix": "6055F9",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "605661",
@@ -115500,6 +115590,11 @@
     "address": "B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
   },
   {
+    "prefix": "60DD10",
+    "vendor": "Shenzhen Angxun Technology Co.,Ltd",
+    "address": "4th# Huaguan Industrial Park, Guanlan Street,Longhua District, Shenzhen,Guangdong, China. shenzhen Select State CN 518110 "
+  },
+  {
     "prefix": "60DD70",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
@@ -116592,7 +116687,7 @@
   {
     "prefix": "646624",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "6466B3",
@@ -116797,7 +116892,7 @@
   {
     "prefix": "647999",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "6479A7",
@@ -117252,7 +117347,7 @@
   {
     "prefix": "64B708",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "64B853",
@@ -117722,7 +117817,7 @@
   {
     "prefix": "64E833",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "64E84F",
@@ -117867,7 +117962,7 @@
   {
     "prefix": "64FA2B",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "64FB01",
@@ -118017,7 +118112,7 @@
   {
     "prefix": "681590",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 ROUTE DE L'EMPEREUR RUEIL MALMAISON CEDEX Choisissez l'état / la province FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "6815D3",
@@ -118162,7 +118257,7 @@
   {
     "prefix": "6825DD",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "682624",
@@ -118687,7 +118782,7 @@
   {
     "prefix": "686725",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "6867C7",
@@ -119272,7 +119367,7 @@
   {
     "prefix": "68ABA9",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "68ABBC",
@@ -119417,7 +119512,7 @@
   {
     "prefix": "68C63A",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "68C6AC",
@@ -119737,7 +119832,7 @@
   {
     "prefix": "68EE8F",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "68EE96",
@@ -120317,7 +120412,7 @@
   {
     "prefix": "6C2E85",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur Rueil Malmaison Cedex Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "6C2F1C",
@@ -121167,7 +121262,7 @@
   {
     "prefix": "6C9961",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "6C9989",
@@ -121442,7 +121537,7 @@
   {
     "prefix": "6CB456",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "6CB4A7",
@@ -121492,7 +121587,7 @@
   {
     "prefix": "6CBAB8",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "6CBEE9",
@@ -121577,7 +121672,7 @@
   {
     "prefix": "6CC840",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "6CCA08",
@@ -121772,7 +121867,7 @@
   {
     "prefix": "6CE4DA",
     "vendor": "NEC Platforms, Ltd.",
-    "address": "2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 "
+    "address": "14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
   },
   {
     "prefix": "6CE5C9",
@@ -121962,7 +122057,7 @@
   {
     "prefix": "6CFFCE",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "700136",
@@ -121992,7 +122087,7 @@
   {
     "prefix": "70039F",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "70041D",
@@ -122042,7 +122137,7 @@
   {
     "prefix": "700B01",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "700B4F",
@@ -122582,7 +122677,7 @@
   {
     "prefix": "704BCA",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "704CA2",
@@ -123092,7 +123187,7 @@
   {
     "prefix": "707DA1",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "707DAF",
@@ -123602,7 +123697,7 @@
   {
     "prefix": "70B8F6",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "70B921",
@@ -124787,7 +124882,7 @@
   {
     "prefix": "744DBD",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "744DDC",
@@ -125325,6 +125420,11 @@
     "address": "125, beolmal road, dongan gu, anyang gyeonggi KR 14056 "
   },
   {
+    "prefix": "748B23",
+    "vendor": "Samsung Electronics Co.,Ltd",
+    "address": "129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
+  },
+  {
     "prefix": "748B29",
     "vendor": "Micobiomed",
     "address": "54 Changeop-ro 54 Changeop-ro Gyeonggi-do KR 13449 "
@@ -125543,6 +125643,11 @@
     "prefix": "74A063",
     "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
+    "prefix": "74A235",
+    "vendor": "IEEE Registration Authority",
+    "address": "445 Hoes Lane Piscataway NJ US 08554 "
   },
   {
     "prefix": "74A2E6",
@@ -126027,7 +126132,7 @@
   {
     "prefix": "74DC13",
     "vendor": "Telink Micro LLC",
-    "address": "2975 Scott Blvd #120 Santa Clara  US 95054 "
+    "address": "2975 Scott Blvd #120 Santa Clara CA US 95054 "
   },
   {
     "prefix": "74DDCB",
@@ -126702,7 +126807,7 @@
   {
     "prefix": "782184",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "78223D",
@@ -126992,7 +127097,7 @@
   {
     "prefix": "78421C",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "784405",
@@ -128152,7 +128257,7 @@
   {
     "prefix": "78C213",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "78C2C0",
@@ -128592,7 +128697,7 @@
   {
     "prefix": "78EE4C",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "78EF4C",
@@ -128762,7 +128867,7 @@
   {
     "prefix": "7C034C",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur Rueil Malmaison Cedex Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "7C035E",
@@ -128782,7 +128887,7 @@
   {
     "prefix": "7C03D8",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "7C04D0",
@@ -128907,7 +129012,7 @@
   {
     "prefix": "7C1689",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "7C1779",
@@ -129657,7 +129762,7 @@
   {
     "prefix": "7C7398",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "7C73EB",
@@ -129812,7 +129917,7 @@
   {
     "prefix": "7C87CE",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "7C8899",
@@ -129962,7 +130067,7 @@
   {
     "prefix": "7C9EBD",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "7C9F07",
@@ -130512,7 +130617,7 @@
   {
     "prefix": "7CD4A8",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "7CD566",
@@ -130617,7 +130722,7 @@
   {
     "prefix": "7CDFA1",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "7CE044",
@@ -130672,7 +130777,7 @@
   {
     "prefix": "7CE87F",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "7CE8B1",
@@ -131177,7 +131282,7 @@
   {
     "prefix": "8020DA",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "8020E1",
@@ -131202,7 +131307,7 @@
   {
     "prefix": "8022A7",
     "vendor": "NEC Platforms, Ltd.",
-    "address": "2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 "
+    "address": "14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
   },
   {
     "prefix": "8022FA",
@@ -131477,7 +131582,7 @@
   {
     "prefix": "80456B",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "8045DD",
@@ -131727,7 +131832,7 @@
   {
     "prefix": "80646F",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "80647A",
@@ -132407,7 +132512,7 @@
   {
     "prefix": "80B54E",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "80B575",
@@ -132917,7 +133022,7 @@
   {
     "prefix": "80F3DA",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "80F3EF",
@@ -133092,7 +133197,7 @@
   {
     "prefix": "840D8E",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "840F2A",
@@ -133232,12 +133337,12 @@
   {
     "prefix": "841EA3",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "841FE8",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "842096",
@@ -133502,7 +133607,7 @@
   {
     "prefix": "843E03",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "843E1D",
@@ -133668,6 +133773,11 @@
     "prefix": "845787",
     "vendor": "DVR C&C Co., Ltd.",
     "address": "7F 720 Namkwang Centlex Bldg, Cheongcheon-dong, Bupyeong-gu Incheon  KR 403-030 "
+  },
+  {
+    "prefix": "8457EB",
+    "vendor": "Motorola Mobility LLC, a Lenovo Company",
+    "address": "222 West Merchandise Mart Plaza Chicago IL US 60654 "
   },
   {
     "prefix": "8457F7",
@@ -134247,7 +134357,7 @@
   {
     "prefix": "84A06E",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "84A134",
@@ -134262,7 +134372,7 @@
   {
     "prefix": "84A1D1",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "84A24D",
@@ -134282,7 +134392,7 @@
   {
     "prefix": "84A423",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "84A466",
@@ -134518,6 +134628,11 @@
     "prefix": "84BE8B",
     "vendor": "Chengdu Geeker Technology Co., Ltd.",
     "address": "No. 282, Baili Road, Wenjiang District Chengdu Sichuan CN 611137 "
+  },
+  {
+    "prefix": "84C065",
+    "vendor": "Nintendo Co.,Ltd",
+    "address": "11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
   },
   {
     "prefix": "84C0EF",
@@ -134967,7 +135082,7 @@
   {
     "prefix": "84F3EB",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "84F44C",
@@ -134997,7 +135112,7 @@
   {
     "prefix": "84F703",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "84F758",
@@ -135027,7 +135142,7 @@
   {
     "prefix": "84FCE6",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "84FCFE",
@@ -135212,7 +135327,7 @@
   {
     "prefix": "8813BF",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "8813C2",
@@ -135767,7 +135882,7 @@
   {
     "prefix": "8856A6",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "88571D",
@@ -135777,7 +135892,7 @@
   {
     "prefix": "885721",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "88576D",
@@ -136437,7 +136552,7 @@
   {
     "prefix": "88A6C6",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "88A6EF",
@@ -136678,6 +136793,11 @@
     "prefix": "88C227",
     "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
+    "prefix": "88C22D",
+    "vendor": "BUFFALO.INC",
+    "address": "AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku Nagoya Aichi Pref. JP 460-8315 "
   },
   {
     "prefix": "88C242",
@@ -137292,7 +137412,7 @@
   {
     "prefix": "8C10D4",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "8C11CB",
@@ -137727,7 +137847,7 @@
   {
     "prefix": "8C4B14",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "8C4B59",
@@ -138522,7 +138642,7 @@
   {
     "prefix": "8C94DF",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "8C965F",
@@ -138562,7 +138682,7 @@
   {
     "prefix": "8C9A8F",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "8C9B2D",
@@ -138642,7 +138762,7 @@
   {
     "prefix": "8CAAB5",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "8CAACE",
@@ -138767,7 +138887,7 @@
   {
     "prefix": "8CBFEA",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "8CC121",
@@ -138787,7 +138907,7 @@
   {
     "prefix": "8CC5B4",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "8CC5D0",
@@ -138877,7 +138997,7 @@
   {
     "prefix": "8CCE4E",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "8CCEFD",
@@ -139247,7 +139367,7 @@
   {
     "prefix": "8CFD49",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "8CFDDE",
@@ -139292,7 +139412,7 @@
   {
     "prefix": "90013B",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur Rueil Malmaison Cedex Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "900218",
@@ -139487,7 +139607,7 @@
   {
     "prefix": "901506",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "901564",
@@ -139782,7 +139902,7 @@
   {
     "prefix": "90380C",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "9038DF",
@@ -139982,7 +140102,7 @@
   {
     "prefix": "904D4A",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "904DC3",
@@ -140162,7 +140282,7 @@
   {
     "prefix": "90649B",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "9064AD",
@@ -140277,7 +140397,7 @@
   {
     "prefix": "907069",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "9070BF",
@@ -141182,7 +141302,7 @@
   {
     "prefix": "90DA72",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "90DAF9",
@@ -142022,12 +142142,12 @@
   {
     "prefix": "943C96",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "943CC6",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "943DC9",
@@ -142222,7 +142342,7 @@
   {
     "prefix": "9454C5",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "9454CE",
@@ -142942,7 +143062,7 @@
   {
     "prefix": "94B97E",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "94B9B4",
@@ -143637,7 +143757,7 @@
   {
     "prefix": "94FEF4",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur Rueil Malmaison Cedex Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "94FF06",
@@ -143942,7 +144062,7 @@
   {
     "prefix": "981E19",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "981E89",
@@ -144742,7 +144862,7 @@
   {
     "prefix": "9888E0",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "988924",
@@ -144762,7 +144882,7 @@
   {
     "prefix": "988B5D",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur Rueil Malmaison  FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "988B69",
@@ -144932,7 +145052,7 @@
   {
     "prefix": "98A316",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "98A375",
@@ -145237,7 +145357,7 @@
   {
     "prefix": "98CDAC",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "98CDB4",
@@ -145517,7 +145637,7 @@
   {
     "prefix": "98F199",
     "vendor": "NEC Platforms, Ltd.",
-    "address": "2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 "
+    "address": "14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
   },
   {
     "prefix": "98F1AE",
@@ -145937,7 +146057,7 @@
   {
     "prefix": "9C2472",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "9C2595",
@@ -146977,7 +147097,7 @@
   {
     "prefix": "9C9C1F",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "9C9C40",
@@ -147007,7 +147127,7 @@
   {
     "prefix": "9C9E6E",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "9C9E71",
@@ -147337,7 +147457,7 @@
   {
     "prefix": "9CCC01",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "9CCC83",
@@ -147967,7 +148087,7 @@
   {
     "prefix": "A01B29",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur Rueil Malmaison Cedex Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "A01B9E",
@@ -148007,7 +148127,7 @@
   {
     "prefix": "A020A6",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "A0218B",
@@ -148137,7 +148257,7 @@
   {
     "prefix": "A02DDB",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "A02EF3",
@@ -148217,7 +148337,7 @@
   {
     "prefix": "A039EE",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "A039F7",
@@ -148227,7 +148347,7 @@
   {
     "prefix": "A039F9",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "A03A75",
@@ -148252,7 +148372,7 @@
   {
     "prefix": "A03C20",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "A03C31",
@@ -148477,7 +148597,7 @@
   {
     "prefix": "A0551F",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "A0552E",
@@ -148782,7 +148902,7 @@
   {
     "prefix": "A07F8A",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "A08069",
@@ -148937,7 +149057,7 @@
   {
     "prefix": "A08E78",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "A090B5",
@@ -149245,6 +149365,11 @@
     "address": "Building A, Dagang Industrial Zone, Changzhen Community Shenzhen City Guangdong CN 518132 "
   },
   {
+    "prefix": "A0B15C",
+    "vendor": "Google, Inc.",
+    "address": "1600 Amphitheatre Parkway Mountain View CA US 94043 "
+  },
+  {
     "prefix": "A0B339",
     "vendor": "Intel Corporate",
     "address": "Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
@@ -149302,7 +149427,7 @@
   {
     "prefix": "A0B765",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "A0B8F8",
@@ -149423,6 +149548,11 @@
     "prefix": "A0C9A0",
     "vendor": "Murata Manufacturing Co., Ltd.",
     "address": "1-10-1, Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 "
+  },
+  {
+    "prefix": "A0CA4A",
+    "vendor": "AltoBeam Inc.",
+    "address": "B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
   },
   {
     "prefix": "A0CAA5",
@@ -149567,7 +149697,7 @@
   {
     "prefix": "A0DD6C",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "A0DD97",
@@ -149947,7 +150077,7 @@
   {
     "prefix": "A408F5",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "A40987",
@@ -150157,7 +150287,7 @@
   {
     "prefix": "A42249",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "A422B6",
@@ -150882,7 +151012,7 @@
   {
     "prefix": "A47B9D",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "A47C14",
@@ -151562,7 +151692,7 @@
   {
     "prefix": "A4CB8F",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "A4CC32",
@@ -151812,7 +151942,7 @@
   {
     "prefix": "A4E57C",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "A4E597",
@@ -151907,7 +152037,7 @@
   {
     "prefix": "A4F00F",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "A4F01F",
@@ -152062,7 +152192,7 @@
   {
     "prefix": "A8032A",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "A80556",
@@ -152243,6 +152373,11 @@
     "prefix": "A82066",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
+    "prefix": "A8213A",
+    "vendor": "Shenzhen Talent Technology Comapny Limited 深圳市泰霖科技有限公司",
+    "address": "Room 107, Building T3, Software Park Gaoxin South 7th Road, Nanshan District Shenzhen, Guangdong Shenzhen Guangdong CN 518000 "
   },
   {
     "prefix": "A821C8",
@@ -152547,7 +152682,7 @@
   {
     "prefix": "A848FA",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "A8494D",
@@ -152842,7 +152977,7 @@
   {
     "prefix": "A86ABB",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "A86AC1",
@@ -153237,7 +153372,7 @@
   {
     "prefix": "A89A93",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "A89AD7",
@@ -154127,7 +154262,7 @@
   {
     "prefix": "AC1518",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "AC1585",
@@ -154345,6 +154480,11 @@
     "address": "Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
   },
   {
+    "prefix": "AC2BA2",
+    "vendor": "The Chamberlain Group, Inc",
+    "address": "300 Windsor Drive Oak Brook  US 60523 "
+  },
+  {
     "prefix": "AC2DA3",
     "vendor": "TXTR GmbH",
     "address": "Rosenthaler Str. 13 Berlin  DE 10119 "
@@ -154462,7 +154602,7 @@
   {
     "prefix": "AC3B77",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "AC3B96",
@@ -154897,7 +155037,7 @@
   {
     "prefix": "AC67B2",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "AC69CF",
@@ -155376,7 +155516,7 @@
   },
   {
     "prefix": "ACA213",
-    "vendor": "Shenzhen Bilian electronic CO.,LTD",
+    "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
     "address": "NO 268，Fuqian Rd,Jutang Community shenzhen guangdong CN 518110 "
   },
   {
@@ -155417,7 +155557,7 @@
   {
     "prefix": "ACA704",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "ACA7F1",
@@ -155777,7 +155917,7 @@
   {
     "prefix": "ACD074",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "ACD180",
@@ -155827,7 +155967,7 @@
   {
     "prefix": "ACD75B",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "ACD829",
@@ -156382,7 +156522,7 @@
   {
     "prefix": "B01FF4",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "B0216F",
@@ -156602,7 +156742,7 @@
   {
     "prefix": "B03FD3",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "B04089",
@@ -156837,7 +156977,7 @@
   {
     "prefix": "B05B99",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "B05C16",
@@ -157252,7 +157392,7 @@
   {
     "prefix": "B0924A",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "B0935B",
@@ -157302,7 +157442,7 @@
   {
     "prefix": "B0982B",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "B0989F",
@@ -157427,7 +157567,7 @@
   {
     "prefix": "B0A732",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "B0A737",
@@ -157507,12 +157647,12 @@
   {
     "prefix": "B0B21C",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "B0B28F",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "B0B2DC",
@@ -157747,7 +157887,7 @@
   {
     "prefix": "B0CBD8",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "B0CCCE",
@@ -158152,7 +158292,7 @@
   {
     "prefix": "B0FC88",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "B0FD0B",
@@ -158652,7 +158792,7 @@
   {
     "prefix": "B43A45",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "B43A96",
@@ -158667,7 +158807,7 @@
   {
     "prefix": "B43B52",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "B43D08",
@@ -160377,7 +160517,7 @@
   {
     "prefix": "B81F3F",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "B81F5E",
@@ -160957,7 +161097,7 @@
   {
     "prefix": "B86685",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "B86870",
@@ -160982,7 +161122,7 @@
   {
     "prefix": "B86AF1",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "B86B23",
@@ -161067,7 +161207,7 @@
   {
     "prefix": "B87B4D",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "B87BC5",
@@ -161227,7 +161367,7 @@
   {
     "prefix": "B88C2B",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "B88D12",
@@ -162082,7 +162222,7 @@
   {
     "prefix": "B8EE0E",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "B8EE65",
@@ -162197,7 +162337,7 @@
   {
     "prefix": "B8F862",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "B8F883",
@@ -162423,6 +162563,11 @@
     "prefix": "BC1401",
     "vendor": "Hitron Technologies. Inc",
     "address": "No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C Hsin-chu Taiwan TW 300 "
+  },
+  {
+    "prefix": "BC1469",
+    "vendor": "Phyplus Technology (Shanghai) Co., Ltd",
+    "address": "3th Floor, Building 23, 676 Wuxing Road, Pudong New District, Shanghai Shanghai Shanghai CN 201204 "
   },
   {
     "prefix": "BC1485",
@@ -162718,6 +162863,11 @@
     "prefix": "BC33AC",
     "vendor": "Silicon Laboratories",
     "address": "7000 W. William Cannon Dr. Austin TX US 78735 "
+  },
+  {
+    "prefix": "BC33DB",
+    "vendor": "Sagemcom Broadband SAS",
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "BC3400",
@@ -163597,7 +163747,7 @@
   {
     "prefix": "BC9D37",
     "vendor": "Telink Micro LLC",
-    "address": "2975 Scott Blvd #120 Santa Clara  US 95054 "
+    "address": "2975 Scott Blvd #120 Santa Clara CA US 95054 "
   },
   {
     "prefix": "BC9D42",
@@ -164047,7 +164197,7 @@
   {
     "prefix": "BCD5ED",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "BCD713",
@@ -164092,7 +164242,7 @@
   {
     "prefix": "BCDDC2",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "BCDF58",
@@ -164347,7 +164497,7 @@
   {
     "prefix": "BCFF4D",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "BCFF54",
@@ -164567,7 +164717,7 @@
   {
     "prefix": "C025A2",
     "vendor": "NEC Platforms, Ltd.",
-    "address": "2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 "
+    "address": "14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
   },
   {
     "prefix": "C025A5",
@@ -164970,6 +165120,11 @@
     "address": "Gao Qiao Industrial Park East,Long Gang District, Shenzhen Guangdong CN 518117 "
   },
   {
+    "prefix": "C05097",
+    "vendor": "EG4 Electronics",
+    "address": "1030 Como St Sulphur Springs TX US 75482 "
+  },
+  {
     "prefix": "C0515C",
     "vendor": "zte corporation",
     "address": "12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -165047,7 +165202,7 @@
   {
     "prefix": "C05D89",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "C05E6F",
@@ -165592,7 +165747,7 @@
   {
     "prefix": "C0A3C7",
     "vendor": "Telink Micro LLC",
-    "address": "2975 Scott Blvd #120 Santa Clara  US 95054 "
+    "address": "2975 Scott Blvd #120 Santa Clara CA US 95054 "
   },
   {
     "prefix": "C0A476",
@@ -165662,7 +165817,7 @@
   {
     "prefix": "C0AC54",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "C0AD97",
@@ -165932,7 +166087,7 @@
   {
     "prefix": "C0D044",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, Route de l'Empereur RUEIL-MALMAISON  FR 92500 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "C0D063",
@@ -166572,7 +166727,7 @@
   {
     "prefix": "C4224E",
     "vendor": "Telink Micro LLC",
-    "address": "2975 Scott Blvd #120 Santa Clara  US 95054 "
+    "address": "2975 Scott Blvd #120 Santa Clara CA US 95054 "
   },
   {
     "prefix": "C42360",
@@ -167047,7 +167202,7 @@
   {
     "prefix": "C45BBE",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "C45BF7",
@@ -168097,7 +168252,7 @@
   {
     "prefix": "C4D8D5",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "C4D8F3",
@@ -168242,22 +168397,22 @@
   {
     "prefix": "C4EB39",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "C4EB41",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "C4EB42",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "C4EB43",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "C4EB68",
@@ -169437,7 +169592,7 @@
   {
     "prefix": "C88541",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "C88550",
@@ -170022,7 +170177,7 @@
   {
     "prefix": "C8C9A3",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "C8CA63",
@@ -170342,7 +170497,7 @@
   {
     "prefix": "C8F09E",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "C8F225",
@@ -170507,7 +170662,7 @@
   {
     "prefix": "CC00F1",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "CC033D",
@@ -170897,7 +171052,7 @@
   {
     "prefix": "CC33BB",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 ROUTE DE L'EMPEREUR RUEIL MALMAISON CEDEX Choisissez l'état / la province FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "CC3429",
@@ -171182,7 +171337,7 @@
   {
     "prefix": "CC50E3",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "CC51B4",
@@ -171227,7 +171382,7 @@
   {
     "prefix": "CC5830",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "CC58C7",
@@ -171542,7 +171697,7 @@
   {
     "prefix": "CC7B5C",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "CC7B61",
@@ -171682,7 +171837,7 @@
   {
     "prefix": "CC8DA2",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "CC8DB5",
@@ -172022,7 +172177,7 @@
   {
     "prefix": "CCBA97",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "CCBABD",
@@ -172322,7 +172477,7 @@
   {
     "prefix": "CCDBA7",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "CCDC55",
@@ -172577,7 +172732,7 @@
   {
     "prefix": "CCFAF1",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "CCFB65",
@@ -173482,7 +173637,7 @@
   {
     "prefix": "D06DC9",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "D06EDE",
@@ -173662,7 +173817,7 @@
   {
     "prefix": "D084B0",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "D08543",
@@ -174202,12 +174357,12 @@
   {
     "prefix": "D0CF0E",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "D0CF13",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "D0CF5E",
@@ -174432,7 +174587,7 @@
   {
     "prefix": "D0EF76",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "D0EFC1",
@@ -174602,7 +174757,7 @@
   {
     "prefix": "D40592",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "D40598",
@@ -174852,7 +175007,7 @@
   {
     "prefix": "D427FF",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "D428B2",
@@ -175192,7 +175347,7 @@
   {
     "prefix": "D45039",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "D4503F",
@@ -175787,7 +175942,7 @@
   {
     "prefix": "D48C49",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "D48CB5",
@@ -176207,12 +176362,17 @@
   {
     "prefix": "D4B5CD",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "D4B680",
     "vendor": "Shanghai Linkyum Microeletronics Co.,Ltd",
     "address": "Building 1, No.5500, Yuanjiang Road, Minhang District Shanghai Shanghai CN 201101 "
+  },
+  {
+    "prefix": "D4B6C9",
+    "vendor": "Nokia",
+    "address": "600 March Road Kanata Ontario CA K2K 2E6 "
   },
   {
     "prefix": "D4B709",
@@ -176417,7 +176577,7 @@
   {
     "prefix": "D4D4DA",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "D4D50D",
@@ -176592,7 +176752,7 @@
   {
     "prefix": "D4E9F4",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "D4EA0E",
@@ -176737,7 +176897,7 @@
   {
     "prefix": "D4F829",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "D4F921",
@@ -176747,7 +176907,7 @@
   {
     "prefix": "D4F98D",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "D4F9A1",
@@ -176947,7 +177107,7 @@
   {
     "prefix": "D8132A",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "D81399",
@@ -177120,6 +177280,11 @@
     "address": "Section C,Xi Nan Industrial Zone Sanshui Foshan Guangdong CN 528133 "
   },
   {
+    "prefix": "D826D3",
+    "vendor": "eero inc.",
+    "address": "660 3rd Street  San Francisco CA US 94107 "
+  },
+  {
     "prefix": "D826FA",
     "vendor": "Jiangxi Zhentian Technology CO.,LTD",
     "address": "No 3 Factory Building.5G Intelliqent Industrial Park Quannan County Industrial Park Ganzhou City Jiangxi Province CN 341800 "
@@ -177237,7 +177402,7 @@
   {
     "prefix": "D833B7",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "D8341C",
@@ -177857,7 +178022,7 @@
   {
     "prefix": "D87D7F",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "D87E6F",
@@ -177917,7 +178082,7 @@
   {
     "prefix": "D885AC",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "D8860B",
@@ -178147,7 +178312,7 @@
   {
     "prefix": "D8A01D",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "D8A0E6",
@@ -178207,7 +178372,7 @@
   {
     "prefix": "D8A756",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "D8A8C8",
@@ -178377,7 +178542,7 @@
   {
     "prefix": "D8BC38",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "D8BC59",
@@ -178517,7 +178682,7 @@
   {
     "prefix": "D8CF61",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "D8CF89",
@@ -178812,7 +178977,7 @@
   {
     "prefix": "D8F15B",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "D8F1D8",
@@ -178967,7 +179132,7 @@
   {
     "prefix": "DC0675",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "DC0682",
@@ -179137,7 +179302,7 @@
   {
     "prefix": "DC1ED5",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "DC2008",
@@ -179517,7 +179682,7 @@
   {
     "prefix": "DC4F22",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "DC503A",
@@ -179557,7 +179722,7 @@
   {
     "prefix": "DC5475",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "DC54AD",
@@ -180002,7 +180167,7 @@
   {
     "prefix": "DC9272",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "DC9396",
@@ -180587,7 +180752,7 @@
   {
     "prefix": "DCDA0C",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "DCDA4D",
@@ -180633,6 +180798,11 @@
     "prefix": "DCDD24",
     "vendor": "Energica Motor Company SpA",
     "address": "Via Cesare della Chiesa, 150 MODENA (MO) Mo IT 41126 "
+  },
+  {
+    "prefix": "DCDE4B",
+    "vendor": "SHENZHEN TRANSCHAN TECHNOLOGY LIMITED",
+    "address": "Room 03, 23/F, Unit B Building, No 9, Shenzhen Bay Eco -Technology Park, Yuehai Street, Nanshan District, Shenzhen, China Shenzhen  CN 518000 "
   },
   {
     "prefix": "DCDE4F",
@@ -181577,7 +181747,7 @@
   {
     "prefix": "E04F95",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "E04FBD",
@@ -181637,7 +181807,7 @@
   {
     "prefix": "E05A1B",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "E05A9F",
@@ -181822,7 +181992,7 @@
   {
     "prefix": "E072A1",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "E0735F",
@@ -181982,7 +182152,7 @@
   {
     "prefix": "E08CFE",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "E08E3C",
@@ -182067,7 +182237,7 @@
   {
     "prefix": "E09806",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "E09861",
@@ -184332,7 +184502,7 @@
   {
     "prefix": "E4B063",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "E4B107",
@@ -184962,7 +185132,7 @@
   {
     "prefix": "E80690",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "E806EB",
@@ -185277,7 +185447,7 @@
   {
     "prefix": "E831CD",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "E8330D",
@@ -186122,7 +186292,7 @@
   {
     "prefix": "E89F6D",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "E89F80",
@@ -186247,7 +186417,7 @@
   {
     "prefix": "E8ADA6",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "E8AEC5",
@@ -186382,7 +186552,7 @@
   {
     "prefix": "E8BE81",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur Rueil Malmaison Cedex Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "E8BFB8",
@@ -186593,6 +186763,11 @@
     "prefix": "E8D52B",
     "vendor": "Google, Inc.",
     "address": "1600 Amphitheatre Parkway Mountain View CA US 94043 "
+  },
+  {
+    "prefix": "E8D5A1",
+    "vendor": "Earda Technologies co Ltd",
+    "address": "Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District Guangzhou Guangdong CN 511455 "
   },
   {
     "prefix": "E8D765",
@@ -186882,7 +187057,7 @@
   {
     "prefix": "E8F1B0",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "E8F226",
@@ -186917,7 +187092,7 @@
   {
     "prefix": "E8F60A",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "E8F654",
@@ -187777,7 +187952,7 @@
   {
     "prefix": "EC6260",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "EC6264",
@@ -187807,7 +187982,7 @@
   {
     "prefix": "EC64C9",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "EC64E7",
@@ -188207,7 +188382,7 @@
   {
     "prefix": "EC94CB",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "EC94D5",
@@ -188562,7 +188737,7 @@
   {
     "prefix": "ECBEDD",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "ECBFD0",
@@ -188642,7 +188817,7 @@
   {
     "prefix": "ECC9FF",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "ECCB30",
@@ -188722,7 +188897,7 @@
   {
     "prefix": "ECDA3B",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "ECDA59",
@@ -188782,7 +188957,7 @@
   {
     "prefix": "ECE334",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "ECE512",
@@ -188982,7 +189157,7 @@
   {
     "prefix": "ECFABC",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "ECFAF4",
@@ -188992,7 +189167,7 @@
   {
     "prefix": "ECFC2F",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "ECFC55",
@@ -189067,7 +189242,7 @@
   {
     "prefix": "F008D1",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "F008F1",
@@ -189152,7 +189327,7 @@
   {
     "prefix": "F0161D",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "F01628",
@@ -189292,7 +189467,7 @@
   {
     "prefix": "F024F9",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "F02572",
@@ -189987,7 +190162,7 @@
   {
     "prefix": "F08175",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "F081AF",
@@ -190172,7 +190347,7 @@
   {
     "prefix": "F09E9E",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "F09FC2",
@@ -190877,7 +191052,7 @@
   {
     "prefix": "F0F5BD",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "F0F61C",
@@ -191052,7 +191227,7 @@
   {
     "prefix": "F40595",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "F40616",
@@ -191392,7 +191567,7 @@
   {
     "prefix": "F42DC9",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "F42E48",
@@ -191857,7 +192032,7 @@
   {
     "prefix": "F4650B",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "F465A6",
@@ -192657,7 +192832,7 @@
   {
     "prefix": "F4CFA2",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "F4CFE2",
@@ -192887,7 +193062,7 @@
   {
     "prefix": "F4EB38",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "15 Avenue Ambroise  Croizat DOMERAT Allier FR 03410 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "F4EB9F",
@@ -193122,7 +193297,7 @@
   {
     "prefix": "F8084F",
     "vendor": "Sagemcom Broadband SAS",
-    "address": " 4 Allée des Messageries Bois Colombes FR 92270  "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "F809A4",
@@ -193877,7 +194052,7 @@
   {
     "prefix": "F85B1B",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "F85B3B",
@@ -193963,6 +194138,11 @@
     "prefix": "F86214",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
+    "prefix": "F8622A",
+    "vendor": "eero inc.",
+    "address": "660 3rd Street  San Francisco CA US 94107 "
   },
   {
     "prefix": "F862AA",
@@ -194607,7 +194787,7 @@
   {
     "prefix": "F8AB05",
     "vendor": "Sagemcom Broadband SAS",
-    "address": "250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "F8AB82",
@@ -195367,7 +195547,7 @@
   {
     "prefix": "FC012C",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "FC017C",
@@ -195990,6 +196170,11 @@
     "address": "P.O Box 8102 Reno NV US 89507 "
   },
   {
+    "prefix": "FC4A47",
+    "vendor": "Nokia",
+    "address": "600 March Road Kanata Ontario CA K2K 2E6 "
+  },
+  {
     "prefix": "FC4AE9",
     "vendor": "Castlenet Technology Inc.",
     "address": "5F., No. 10, Daye Rd., Beitou Dist. Taipei City  TW 112030 "
@@ -196555,6 +196740,11 @@
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
   },
   {
+    "prefix": "FC934E",
+    "vendor": "REALTEK SEMICONDUCTOR CORP.",
+    "address": "1F, NO. 11, INDUSTRY E. RD. IX HSINCHU 300  TW  "
+  },
+  {
     "prefix": "FC936B",
     "vendor": "Samsung Electronics Co.,Ltd",
     "address": "#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
@@ -196892,7 +197082,7 @@
   {
     "prefix": "FCB467",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "FCB4E6",
@@ -197257,7 +197447,7 @@
   {
     "prefix": "FCE8C0",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "FCE998",
@@ -197327,7 +197517,7 @@
   {
     "prefix": "FCF5C4",
     "vendor": "Espressif Inc.",
-    "address": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "FCF647",
