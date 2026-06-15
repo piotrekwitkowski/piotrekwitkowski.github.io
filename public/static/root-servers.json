@@ -16111,7 +16111,7 @@
     "type": "Global",
     "instances": 1,
     "ipv4": true,
-    "ipv6": true,
+    "ipv6": false,
     "latitude": 42.8777895,
     "longitude": 74.6066926
   },
@@ -16123,7 +16123,7 @@
     "type": "Global",
     "instances": 1,
     "ipv4": true,
-    "ipv6": false,
+    "ipv6": true,
     "latitude": 42.8777895,
     "longitude": 74.6066926
   },
@@ -16198,6 +16198,18 @@
     "ipv6": true,
     "latitude": 50.405029,
     "longitude": 80.249176
+  },
+  {
+    "root": "K-root",
+    "operator": "RIPE NCC",
+    "country": "LB",
+    "town": "Beirut",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 33.8959203,
+    "longitude": 35.47843
   },
   {
     "root": "K-root",
@@ -16450,6 +16462,18 @@
     "ipv6": true,
     "latitude": 52.2337172,
     "longitude": 21.071432235636493
+  },
+  {
+    "root": "K-root",
+    "operator": "RIPE NCC",
+    "country": "PT",
+    "town": "Castelo Branco",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 39.8266322,
+    "longitude": -7.4919318
   },
   {
     "root": "K-root",
