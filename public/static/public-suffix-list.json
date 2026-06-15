@@ -53250,6 +53250,12 @@
     "exception": false
   },
   {
+    "suffix": "vibehost.space",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "graphic.design",
     "type": "private",
     "wildcard": false,
@@ -57321,6 +57327,12 @@
     "suffix": "*.oaiusercontent.com",
     "type": "private",
     "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "chatgpt.site",
+    "type": "private",
+    "wildcard": false,
     "exception": false
   },
   {
