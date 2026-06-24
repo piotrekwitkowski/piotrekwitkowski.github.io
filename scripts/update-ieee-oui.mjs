@@ -3,8 +3,18 @@ import { readFileSync, writeFileSync, appendFileSync } from "fs";
 const URL = "https://standards-oui.ieee.org/oui/oui.csv";
 const OUTPUT = "public/static/ieee-oui.json";
 
-const res = await fetch(URL);
-if (!res.ok) throw new Error(`Fetch failed: ${res.status}`);
+let res;
+for (let attempt = 1; attempt <= 3; attempt++) {
+  try {
+    res = await fetch(URL);
+    if (res.ok) break;
+    throw new Error(`HTTP ${res.status}`);
+  } catch (err) {
+    if (attempt === 3) throw err;
+    console.log(`Attempt ${attempt} failed (${err.message}), retrying in 5s...`);
+    await new Promise((r) => setTimeout(r, 5000));
+  }
+}
 const text = await res.text();
 
 const lines = text.split("\n").slice(1);
