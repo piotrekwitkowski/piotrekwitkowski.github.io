@@ -1521,7 +1521,7 @@
   },
   {
     "prefix": "000130",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -5876,7 +5876,7 @@
   },
   {
     "prefix": "000496",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -9986,8 +9986,8 @@
   },
   {
     "prefix": "0007CC",
-    "vendor": "Kaba Benzing GmbH",
-    "address": "Albertistrabe 3   DE  "
+    "vendor": "dormakaba Deutschland GmbH",
+    "address": "DORMA Platz 1 Ennepetal  DE 58256  "
   },
   {
     "prefix": "0007CD",
@@ -15021,7 +15021,7 @@
   },
   {
     "prefix": "000BD7",
-    "vendor": "DORMA Time + Access GmbH",
+    "vendor": "dormakaba Deutschland GmbH",
     "address": "Mainzer Straße 36-52 Bonn Nordrheinwestfalen DE 53179 "
   },
   {
@@ -32461,7 +32461,7 @@
   },
   {
     "prefix": "001977",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -55625,6 +55625,11 @@
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
   },
   {
+    "prefix": "0066DC",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
     "prefix": "006762",
     "vendor": "Fiberhome Telecommunication Technologies Co.,LTD",
     "address": "No.5 DongXin Road Wuhan Hubei CN 430074 "
@@ -57256,7 +57261,7 @@
   },
   {
     "prefix": "0089C9",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville  US 27560 "
   },
   {
@@ -60481,7 +60486,7 @@
   },
   {
     "prefix": "00B81D",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -63471,7 +63476,7 @@
   },
   {
     "prefix": "00DCB2",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -63791,7 +63796,7 @@
   },
   {
     "prefix": "00E02B",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -64916,7 +64921,7 @@
   },
   {
     "prefix": "00E60E",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -65513,6 +65518,11 @@
     "prefix": "042322",
     "vendor": "Texas Instruments",
     "address": "12500 TI Blvd Dallas TX US 75243 "
+  },
+  {
+    "prefix": "0423A3",
+    "vendor": "Mellanox Technologies, Inc.",
+    "address": "350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
   },
   {
     "prefix": "042405",
@@ -67367,7 +67377,7 @@
   {
     "prefix": "04F9F8",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "04FA3F",
@@ -68765,6 +68775,11 @@
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
   },
   {
+    "prefix": "084F44",
+    "vendor": "GEW (EC) Ltd",
+    "address": "Crompton Way Crawley West Sussex GB RH10 9QR "
+  },
+  {
     "prefix": "084F66",
     "vendor": "Shenzhen Skyworth Digital  Technology  CO., Ltd",
     "address": "4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
@@ -68793,6 +68808,11 @@
     "prefix": "08512E",
     "vendor": "Orion Diagnostica Oy",
     "address": "Koivu-Mankkaan tie 6 Espoo  FI 02100 "
+  },
+  {
+    "prefix": "0851F2",
+    "vendor": "Sagemcom Broadband SAS",
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
     "prefix": "085240",
@@ -69875,6 +69895,11 @@
     "address": "12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
   },
   {
+    "prefix": "08E64B",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
     "prefix": "08E672",
     "vendor": "JEBSEE ELECTRONICS CO.,LTD.",
     "address": "24-3, SIN LE ROAD,  TAINAN  TW 70268 "
@@ -69911,7 +69936,7 @@
   },
   {
     "prefix": "08EA44",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -70268,6 +70293,11 @@
     "prefix": "0C15C5",
     "vendor": "SDTEC Co., Ltd.",
     "address": "167, Churye-2Dong, Sasang-Gu, Busan   KR 617-716 "
+  },
+  {
+    "prefix": "0C166E",
+    "vendor": "WirelessMobility Engineering Centre SDN. BHD",
+    "address": "SummerSkye Square, NO. 1-2-13 & 1-2, 13A, Jalan Sungai Tiram 8, 11900 Bayan Lepas Penang  MY 11900 "
   },
   {
     "prefix": "0C1773",
@@ -71366,7 +71396,7 @@
   },
   {
     "prefix": "0C9B78",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -71960,6 +71990,11 @@
     "address": "Am Anger 8 Bergen  DE 83346 "
   },
   {
+    "prefix": "0CE623",
+    "vendor": "Huawei Device Co., Ltd.",
+    "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+  },
+  {
     "prefix": "0CE67C",
     "vendor": "Realme Chongqing Mobile Telecommunications Corp.,Ltd.",
     "address": "No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing. Chongqing  China CN 401120 "
@@ -72021,7 +72056,7 @@
   },
   {
     "prefix": "0CED71",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -72653,6 +72688,11 @@
     "prefix": "103047",
     "vendor": "Samsung Electronics Co.,Ltd",
     "address": "#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+  },
+  {
+    "prefix": "103089",
+    "vendor": "Resideo",
+    "address": "2 Corporate Center Dr. Melville NY US 11747 "
   },
   {
     "prefix": "10321D",
@@ -73435,9 +73475,19 @@
     "address": "#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
   },
   {
+    "prefix": "109327",
+    "vendor": "GIGA-BYTE TECHNOLOGY CO. , Ltd.",
+    "address": "No.215 Nan-Ping Road Taoyuan   TW 324 "
+  },
+  {
     "prefix": "109397",
     "vendor": "Commscope",
     "address": "6450 Sequence Drive San Diego CA US 92121 "
+  },
+  {
+    "prefix": "1093C9",
+    "vendor": "Kingsignal Technology Co., Ltd.",
+    "address": "Floor 26,Unit B,Block 10,No.1819 Shahexi Road,Shenzhen Bay Eco-Technology Park,Nanshan District Shenzhen Guangdong CN 518000 "
   },
   {
     "prefix": "1093E9",
@@ -75885,6 +75935,11 @@
     "address": "4F, 90, Chien 1 Road New Taipei City Taiwan TW 23585 "
   },
   {
+    "prefix": "14B6EB",
+    "vendor": " CJ intelligent technology LTD.",
+    "address": "4F, No. 16, Zhongxin St., Shulin Dist. New Taipei City  TW 238035 "
+  },
+  {
     "prefix": "14B73D",
     "vendor": "ARCHEAN Technologies",
     "address": "1899 avenue d'Italie MONTAUBAN  FR 82000 "
@@ -76142,7 +76197,7 @@
   {
     "prefix": "14D864",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "14D881",
@@ -76493,6 +76548,11 @@
     "prefix": "181171",
     "vendor": "Guangzhou Doctorpai Education & Technology Co.,Ltd",
     "address": "Floor 5, Building C1, Greenland Central Plaza Huangpu District, Guangzhou Guangdong Province CN 510700 "
+  },
+  {
+    "prefix": "18120C",
+    "vendor": "Zhouhai Intelligence(Shenzhen).,Ltd",
+    "address": "Guangming Jianfa Yule No.2 Industrial Park, Yatong Street, Guangming District, Shenzhen City Shenzhen Gudong CN 518083 "
   },
   {
     "prefix": "181212",
@@ -76956,7 +77016,7 @@
   },
   {
     "prefix": "1849F8",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -77747,7 +77807,7 @@
   {
     "prefix": "18A6F7",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "18A788",
@@ -78110,6 +78170,11 @@
     "address": "NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
   },
   {
+    "prefix": "18D0E1",
+    "vendor": "Mellanox Technologies, Inc.",
+    "address": "350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
+  },
+  {
     "prefix": "18D225",
     "vendor": "Fiberhome Telecommunication Technologies Co.,LTD",
     "address": "No.5 DongXin Road Wuhan Hubei CN 430074 "
@@ -78367,7 +78432,7 @@
   {
     "prefix": "18F22C",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "18F292",
@@ -78796,7 +78861,7 @@
   },
   {
     "prefix": "1C2D60",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -79746,7 +79811,7 @@
   },
   {
     "prefix": "1C984B",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -81180,6 +81245,11 @@
     "address": "Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District Guangzhou Guangdong CN 511455 "
   },
   {
+    "prefix": "20521D",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
     "prefix": "205383",
     "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -81375,6 +81445,11 @@
     "address": "4F,90,Chien 1 Road,ChungHo New Taipei City Taipei TW 23585 "
   },
   {
+    "prefix": "2068AA",
+    "vendor": "Potron Technology Co.,Ltd.,",
+    "address": "708 Bldg.B, Qian wan Key&Core Technology Industrial Park, Shenzhen,China 518126 Shenzhen Guangdong CN 518000 "
+  },
+  {
     "prefix": "206980",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
@@ -81411,7 +81486,7 @@
   },
   {
     "prefix": "206C8A",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -81548,6 +81623,11 @@
     "prefix": "2083F8",
     "vendor": "Advanced Digital Broadcast SA",
     "address": "Route de Lausanne 319 Bellevue  SZ CH-1293 "
+  },
+  {
+    "prefix": "20845F",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
   },
   {
     "prefix": "2084F5",
@@ -81741,7 +81821,7 @@
   },
   {
     "prefix": "209EF7",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -82746,7 +82826,7 @@
   },
   {
     "prefix": "241FBD",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -83152,7 +83232,7 @@
   {
     "prefix": "245A5F",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "245AB5",
@@ -83327,7 +83407,7 @@
   {
     "prefix": "246968",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "24698E",
@@ -83541,7 +83621,7 @@
   },
   {
     "prefix": "248185",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville  US 27560 "
   },
   {
@@ -83923,6 +84003,11 @@
     "prefix": "24BA13",
     "vendor": "RISO KAGAKU CORPORATION",
     "address": "2-8-1 Gakuen-minami Thukuba-shi Ibaraki JP 305-0818 "
+  },
+  {
+    "prefix": "24BA23",
+    "vendor": "Cisco Systems, Inc",
+    "address": "80 West Tasman Drive San Jose CA US 94568 "
   },
   {
     "prefix": "24BA30",
@@ -85533,6 +85618,11 @@
     "prefix": "288023",
     "vendor": "Hewlett Packard",
     "address": "11445 Compaq Center Drive Houston  US 77070 "
+  },
+  {
+    "prefix": "28806E",
+    "vendor": "Pirelli Tyre S.p.A.",
+    "address": "Via Piero e Alberto Pirelli 25 Milan Lombardia IT 20126 "
   },
   {
     "prefix": "288088",
@@ -87230,6 +87320,11 @@
     "address": "Rotkreuzstrasse 39 Lustenau  AT 6890 "
   },
   {
+    "prefix": "2C3F87",
+    "vendor": "Private",
+    "address": ""
+  },
+  {
     "prefix": "2C402B",
     "vendor": "Smart iBlue Technology Limited",
     "address": "Unit 12, 10/F., Hong Man Industrial Centre,2 Hong Man Street, Chai Wan, Hong Kong Hong Kong  HK 000 "
@@ -87732,7 +87827,7 @@
   {
     "prefix": "2C79BE",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "2C79D7",
@@ -88580,6 +88675,11 @@
     "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
   },
   {
+    "prefix": "2CE5BD",
+    "vendor": "Ubiquiti Inc",
+    "address": "685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
+  },
+  {
     "prefix": "2CE64D",
     "vendor": "GD Midea Air-Conditioning Equipment Co.,Ltd.",
     "address": "Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311 "
@@ -88588,6 +88688,11 @@
     "prefix": "2CE6CC",
     "vendor": "Ruckus Wireless",
     "address": "350 West Java Drive Sunnyvale CA US 94089 "
+  },
+  {
+    "prefix": "2CE7A7",
+    "vendor": "SJIT Co., Ltd.",
+    "address": "54-33 Dongtanhana 1-gil Hwaseong-si Gyeonggi-do KR 18423 "
   },
   {
     "prefix": "2CE871",
@@ -90220,6 +90325,11 @@
     "address": "Werner-von-Siemens-Str. 50 Amberg  DE 92224 "
   },
   {
+    "prefix": "30B89A",
+    "vendor": "KRYON TECHNOLOGY PRIVATE LIMITED",
+    "address": "KRYON TECHNOLOGY PRIVATE LIMITED RBF 5 5G, DTZ, 380 Belerica Road, Sricity, Siddam Agraharam village, Varadaiahpalem, Tirupati, Andhra Pradesh, 517541   TIRUPATI ANDHRA PRADESH IN 517541 "
+  },
+  {
     "prefix": "30B930",
     "vendor": "zte corporation",
     "address": "12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -90530,6 +90640,11 @@
     "address": "BR 101, km 210, S/N° São José Santa Catarina BR 88104800 "
   },
   {
+    "prefix": "30E226",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
     "prefix": "30E271",
     "vendor": "Fsas Technologies Inc.",
     "address": "JR Kawasaki Tower, 1-5 Omiya-cho, Saiwai-ku Kawasaki City Kanagawa Prefecture JP 212-0014 "
@@ -90611,7 +90726,7 @@
   },
   {
     "prefix": "30EB5A",
-    "vendor": "LANDIS + GYR",
+    "vendor": "Landis+Gyr S.A.",
     "address": "78th km Old National Road Athens-Corinth  Corinth   GR 20100 "
   },
   {
@@ -90726,7 +90841,7 @@
   },
   {
     "prefix": "30F856",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville  US 27560 "
   },
   {
@@ -90908,6 +91023,11 @@
     "prefix": "3409C9",
     "vendor": "Dongguan Huayin Electronic Technology Co., Ltd.",
     "address": "Room 101, No.8 Xinglong 3rd Road, Shipai Town Dongguan Guangdong CN 523000 "
+  },
+  {
+    "prefix": "3409E9",
+    "vendor": "Harman/Becker Automotive Systems GmbH",
+    "address": "Becker-Göring-Straße 16 Karlsbad Baden-Württemberg DE 76307 "
   },
   {
     "prefix": "340A22",
@@ -91295,6 +91415,11 @@
     "address": "25 INTERNATIONAL BUSINESS PARK #02-72/75 GERMAN CENTRE SINGAPORE (609916) Singapore  SG 609916 "
   },
   {
+    "prefix": "343638",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
     "prefix": "34363B",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
@@ -91538,6 +91663,11 @@
     "prefix": "34543C",
     "vendor": "TAKAOKA TOKO CO.,LTD.",
     "address": "8F,SIA TOYOSU PRIME SQUARE,5-6-36,Toyosu Koto-ku Tokyo JP 1350061 "
+  },
+  {
+    "prefix": "3454EF",
+    "vendor": "Cisco Systems, Inc",
+    "address": "80 West Tasman Drive San Jose CA US 94568 "
   },
   {
     "prefix": "345506",
@@ -91976,7 +92106,7 @@
   },
   {
     "prefix": "348584",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -93290,6 +93420,11 @@
     "address": "1213-1214, haosheng business center, dongbin road, nanshan street, nanshan district, shenzhen city Shenzhen Guangdong CN 518000 "
   },
   {
+    "prefix": "3816B3",
+    "vendor": "HP Inc.",
+    "address": "10300 Energy Dr Spring TX US 77389 "
+  },
+  {
     "prefix": "3816D1",
     "vendor": "Samsung Electronics Co.,Ltd",
     "address": "#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
@@ -93628,6 +93763,11 @@
     "prefix": "383D5B",
     "vendor": "Fiberhome Telecommunication Technologies Co.,LTD",
     "address": "No.5 DongXin Road Wuhan Hubei CN 430074 "
+  },
+  {
+    "prefix": "383E51",
+    "vendor": "Espressif Inc.",
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "383F10",
@@ -94000,6 +94140,11 @@
     "address": "NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
   },
   {
+    "prefix": "386FF4",
+    "vendor": "Amazon Technologies Inc.",
+    "address": "P.O Box 8102  Reno NV US 89507 "
+  },
+  {
     "prefix": "38700C",
     "vendor": "Commscope",
     "address": "6450 Sequence Drive San Diego CA US 92121 "
@@ -94018,6 +94163,11 @@
     "prefix": "3872C0",
     "vendor": "Comtrend Corporation",
     "address": "3F-1, 10 Lane 609, Chongxin Road, Section 5,  New Taipei City, Taiwan TW 24159 "
+  },
+  {
+    "prefix": "38736E",
+    "vendor": "Huawei Device Co., Ltd.",
+    "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
   },
   {
     "prefix": "3873EA",
@@ -94621,7 +94771,7 @@
   },
   {
     "prefix": "38BEAB",
-    "vendor": "AltoBeam (China) Inc.",
+    "vendor": "AltoBeam Inc.",
     "address": "B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
   },
   {
@@ -94643,6 +94793,11 @@
     "prefix": "38C0EA",
     "vendor": "Fortinet, Inc.",
     "address": "899 Kifer Road Sunnyvale  US 94086 "
+  },
+  {
+    "prefix": "38C22D",
+    "vendor": "Mellanox Technologies, Inc.",
+    "address": "350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
   },
   {
     "prefix": "38C2BA",
@@ -96087,7 +96242,7 @@
   {
     "prefix": "3C6A48",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "3C6A7D",
@@ -96297,7 +96452,7 @@
   {
     "prefix": "3C846A",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "3C869A",
@@ -97506,7 +97661,7 @@
   },
   {
     "prefix": "4018B1",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -97756,13 +97911,13 @@
   },
   {
     "prefix": "403F43",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
     "prefix": "403F8C",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "404022",
@@ -98120,6 +98275,11 @@
     "address": "Nobelring 26 Frankfurt am Main Hessen DE 60598 "
   },
   {
+    "prefix": "406768",
+    "vendor": "Huawei Device Co., Ltd.",
+    "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+  },
+  {
     "prefix": "40679B",
     "vendor": "Shenzhen Skyworth Digital  Technology  CO., Ltd",
     "address": "4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
@@ -98356,7 +98516,7 @@
   },
   {
     "prefix": "40882F",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -98696,7 +98856,7 @@
   },
   {
     "prefix": "40B215",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -99121,7 +99281,7 @@
   },
   {
     "prefix": "40E317",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -99701,7 +99861,7 @@
   },
   {
     "prefix": "44291E",
-    "vendor": "AltoBeam (China) Inc.",
+    "vendor": "AltoBeam Inc.",
     "address": "B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
   },
   {
@@ -100195,6 +100355,11 @@
     "address": "No.3188-1,YunGu Road(Comprehensive Bonded Zone),Hefei Economic and Technological Development Area HEFEI ANHUI CN 230601 "
   },
   {
+    "prefix": "4463B6",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
     "prefix": "4463C2",
     "vendor": "Zyxel Communications Corporation",
     "address": "No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
@@ -100237,7 +100402,7 @@
   {
     "prefix": "446690",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "4466FC",
@@ -101266,7 +101431,7 @@
   },
   {
     "prefix": "44E4E6",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -101592,7 +101757,7 @@
   {
     "prefix": "480EEC",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "480FCF",
@@ -102222,7 +102387,7 @@
   {
     "prefix": "485F08",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "485F2D",
@@ -102465,6 +102630,11 @@
     "address": "Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District Guangzhou Guangdong CN 511455 "
   },
   {
+    "prefix": "487F80",
+    "vendor": "FRITZ! Technology GmbH",
+    "address": "Alt-Moabit 95 Berlin Berlin DE 10559 "
+  },
+  {
     "prefix": "488002",
     "vendor": "Cisco Systems, Inc",
     "address": "80 West Tasman Drive San Jose CA US 94568 "
@@ -102620,6 +102790,11 @@
     "address": "60-39, Gasan-dong, Geumcheon-gu Seoul  KR 153-801 "
   },
   {
+    "prefix": "4890F0",
+    "vendor": "Dell Inc.",
+    "address": "One Dell Way Round Rock  TX US 78682 "
+  },
+  {
     "prefix": "489153",
     "vendor": "Weinmann Geräte für Medizin GmbH + Co. KG",
     "address": "Kronsaalsweg 40 Hamburg  DE D-22525 "
@@ -102676,7 +102851,7 @@
   },
   {
     "prefix": "489BD5",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -103606,7 +103781,7 @@
   },
   {
     "prefix": "4C0A4E",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -103642,7 +103817,7 @@
   {
     "prefix": "4C10D5",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "4C1154",
@@ -103801,7 +103976,7 @@
   },
   {
     "prefix": "4C231A",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "6480 Via Del Oro San Jose CA US 95119 "
   },
   {
@@ -104013,6 +104188,11 @@
     "prefix": "4C445B",
     "vendor": "Intel Corporate",
     "address": "Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+  },
+  {
+    "prefix": "4C4553",
+    "vendor": "Silicon Laboratories",
+    "address": " 400 West Cesar Chavez Austin TX US 78701 "
   },
   {
     "prefix": "4C4576",
@@ -105160,6 +105340,11 @@
     "address": "10300 Energy Dr Spring TX US 77389 "
   },
   {
+    "prefix": "4CD012",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
     "prefix": "4CD08A",
     "vendor": "HUMAX Co., Ltd.",
     "address": "HUMAX Village,216,Hwangsaeul-ro, Seongnam-si Gyeonggi-do KR 463875 "
@@ -105671,7 +105856,7 @@
   },
   {
     "prefix": "500A9C",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville  US 27560 "
   },
   {
@@ -105783,6 +105968,11 @@
     "prefix": "50184C",
     "vendor": "Platina Systems Inc.",
     "address": "3180 De La Cruz Blvd. Ste# 110 Santa Clara CA US 95054 "
+  },
+  {
+    "prefix": "501911",
+    "vendor": "IEEE Registration Authority",
+    "address": "445 Hoes Lane Piscataway NJ US 08554 "
   },
   {
     "prefix": "501AA5",
@@ -106142,7 +106332,7 @@
   {
     "prefix": "503EAA",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "503F50",
@@ -106910,6 +107100,11 @@
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
   },
   {
+    "prefix": "509546",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
     "prefix": "509551",
     "vendor": "Commscope",
     "address": "6450 Sequence Drive San Diego CA US 92121 "
@@ -107387,7 +107582,7 @@
   {
     "prefix": "50D4F7",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "50D59C",
@@ -109895,6 +110090,11 @@
     "address": "West Jinji Rd, Qianshan Zhuhai Guangdong CN 519070 "
   },
   {
+    "prefix": "580E85",
+    "vendor": "Sagemcom Broadband SAS",
+    "address": "4 Allée des Messageries Bois-Colombes haut de seine FR 92270  "
+  },
+  {
     "prefix": "580FA5",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
@@ -110396,7 +110596,7 @@
   },
   {
     "prefix": "5858CD",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -110406,7 +110606,7 @@
   },
   {
     "prefix": "5859C2",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -110778,6 +110978,11 @@
     "prefix": "588E81",
     "vendor": "Silicon Laboratories",
     "address": "7000 W. William Cannon Dr. Austin TX US 78735 "
+  },
+  {
+    "prefix": "588FA7",
+    "vendor": "LG Innotek",
+    "address": "26, HANAMSANDAN 5BEON-RO Gwangju Gwangsan-gu KR 506-731 "
   },
   {
     "prefix": "588FCF",
@@ -111741,7 +111946,7 @@
   },
   {
     "prefix": "5C0E8B",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "475 Half Day Road Lincolnshire IL US 60069 "
   },
   {
@@ -111908,6 +112113,11 @@
     "prefix": "5C2316",
     "vendor": "Squirrels Research Labs LLC",
     "address": "8050 Freedom Ave NW Suite B North Canton OH US 44720 "
+  },
+  {
+    "prefix": "5C23C2",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
   },
   {
     "prefix": "5C241F",
@@ -113501,8 +113711,8 @@
   },
   {
     "prefix": "5CE753",
-    "vendor": "Private",
-    "address": ""
+    "vendor": "Shenzhen Intellirocks Tech. Co. Ltd.",
+    "address": "     "
   },
   {
     "prefix": "5CE7A0",
@@ -113996,7 +114206,7 @@
   },
   {
     "prefix": "601D56",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -114077,7 +114287,7 @@
   {
     "prefix": "60292B",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "602972",
@@ -114111,7 +114321,7 @@
   },
   {
     "prefix": "602D74",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -114157,7 +114367,7 @@
   {
     "prefix": "6032B1",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "6032F0",
@@ -114217,7 +114427,7 @@
   {
     "prefix": "603A7C",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "603AAF",
@@ -114743,6 +114953,11 @@
     "prefix": "6077E2",
     "vendor": "Samsung Electronics Co.,Ltd",
     "address": "#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+  },
+  {
+    "prefix": "6079C9",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
   },
   {
     "prefix": "607AD8",
@@ -115820,6 +116035,11 @@
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
   },
   {
+    "prefix": "60FAA7",
+    "vendor": "SHENZHEN MTC CO LTD",
+    "address": "5th Floor, 3rd Building, SHENZHEN MTC Industrial Park, XiaLilang Rd, Nanwan Street, Long’gang District Shenzhen Guangdong CN 518100 "
+  },
+  {
     "prefix": "60FAB1",
     "vendor": "Kempower Oyj",
     "address": "Ala-Okeroistentie 29 Lahti  FI 15700 "
@@ -116802,7 +117022,7 @@
   {
     "prefix": "646E97",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "646EE0",
@@ -117420,6 +117640,11 @@
     "address": "No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
   },
   {
+    "prefix": "64C045",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
     "prefix": "64C17E",
     "vendor": "cheilelectric",
     "address": "555, Eulsukdo-daero, Saha-gu, Busan, Republic of Korea pusan  KR 49437 "
@@ -117623,6 +117848,11 @@
     "prefix": "64D562",
     "vendor": "Huawei Device Co., Ltd.",
     "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+  },
+  {
+    "prefix": "64D667",
+    "vendor": "Shanghai Ikotek Technology Co.,Ltd",
+    "address": "Room 209, Building 7, No. 351 Sizhuan Road, Sijing Town, Songjiang District, Shanghai Municipality Shanghai  CN 200233 "
   },
   {
     "prefix": "64D69A",
@@ -118335,6 +118565,11 @@
     "address": "No.8,Yinghu Sience&Technology industrial park Wuhan Hubei CN 430040 "
   },
   {
+    "prefix": "682E3C",
+    "vendor": "Ubiquiti Inc",
+    "address": "685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
+  },
+  {
     "prefix": "682F67",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
@@ -118408,6 +118643,11 @@
     "prefix": "683A48",
     "vendor": "SAMJIN Co., Ltd.",
     "address": "199-6, Anyang 7-dong, Manan-gu Anyang-si Gyeonggi-do KR 430-817 "
+  },
+  {
+    "prefix": "683B09",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
   },
   {
     "prefix": "683B1E",
@@ -118872,7 +119112,7 @@
   {
     "prefix": "687724",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "6877DA",
@@ -119213,6 +119453,11 @@
     "prefix": "689CE2",
     "vendor": "Cisco Systems, Inc",
     "address": "170 West Tasman Drive San Jose CA US 95134 "
+  },
+  {
+    "prefix": "689DD2",
+    "vendor": "Espressif Inc.",
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "689E0B",
@@ -119692,7 +119937,7 @@
   {
     "prefix": "68DDB7",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "68DDD9",
@@ -120016,7 +120261,7 @@
   },
   {
     "prefix": "6C0370",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -120520,6 +120765,11 @@
     "address": "One Dell Way Round Rock  TX US 78682 "
   },
   {
+    "prefix": "6C3DD8",
+    "vendor": "Espressif Systems (Singapore) Pte. Ltd",
+    "address": "1 FUSIONOPOLIS VIEW #07-02 ECLIPSE Singapore  SG 138577 "
+  },
+  {
     "prefix": "6C3E51",
     "vendor": "Mindray North America",
     "address": "800 MacArthur Blvd Mahwah NJ US 07430 "
@@ -120950,6 +121200,11 @@
     "address": "710 N. Tucker Blvd, Suite 110 St. Louis MO US 63101 "
   },
   {
+    "prefix": "6C7028",
+    "vendor": "Landis+Gyr S.A.",
+    "address": "78th km Old National Road Athens-Corinth Corinth  GR 20100 "
+  },
+  {
     "prefix": "6C7039",
     "vendor": "Novar GmbH",
     "address": "Johannes-Mauthe-Str. 14 Albstadt Baden-Württemberg DE 72458 "
@@ -120993,6 +121248,11 @@
     "prefix": "6C724A",
     "vendor": "Onkyo Technology K.K.",
     "address": "Lux Building (5th floor),1-1-41 Kawamata Higashiosaka City Osaka JP 577-0063 "
+  },
+  {
+    "prefix": "6C72B8",
+    "vendor": "LCFC(Hefei) Electronics Technology co., ltd",
+    "address": "No. 3188-1 Yungu Road (Comprehensive Bonded Zone), Hefei Economic & Technological Development Area，Anhui HEFEI ANHUI CN 230601 "
   },
   {
     "prefix": "6C72E2",
@@ -121502,7 +121762,7 @@
   {
     "prefix": "6CB158",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "6CB227",
@@ -121853,6 +122113,11 @@
     "prefix": "6CE3B6",
     "vendor": "Nera Telecommunications Ltd.",
     "address": "109 Defu Lane 10 Singapore Singapore SG 539225 "
+  },
+  {
+    "prefix": "6CE40D",
+    "vendor": "Raisecom Technology CO., LTD",
+    "address": "No. 11, East Area, No. 10 Block, East Xibeiwang Road Beijing  CN 100094 "
   },
   {
     "prefix": "6CE4A4",
@@ -122333,6 +122598,11 @@
     "prefix": "702393",
     "vendor": "Polytech A/S",
     "address": "Thalkirchner Str. 210, Geb. 6 81371 München  DE    0 "
+  },
+  {
+    "prefix": "70246E",
+    "vendor": "Zhejiang Laibao Display Technology Co., Ltd.",
+    "address": "No. 2366 Xiangyang West Road, Dongqian Street, Nanxun District, Huzhou City, Zhejiang Province Huzhou Zhejiang CN 313000 "
   },
   {
     "prefix": "702526",
@@ -123473,6 +123743,11 @@
     "prefix": "709FA9",
     "vendor": "TECNO MOBILE LIMITED",
     "address": "ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
+  },
+  {
+    "prefix": "709FEC",
+    "vendor": "CU Velocity",
+    "address": "480 Brogdon Rd, Suite 500 Suwanee GA US 30024 "
   },
   {
     "prefix": "70A04B",
@@ -124722,7 +124997,7 @@
   {
     "prefix": "743989",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "743A20",
@@ -124888,6 +125163,11 @@
     "prefix": "744DDC",
     "vendor": "Sonim Technologies, Inc",
     "address": "4445 Eastgate Mall,Suite 200 San Diego CA US 92121 "
+  },
+  {
+    "prefix": "744F80",
+    "vendor": "shenzhen Amos Electronics Co.,Ltd",
+    "address": "1st floor,building 4,zhiheng industrial park,No.15,guankou raod,nanshan district shenzhen Guangdong CN 518052 "
   },
   {
     "prefix": "74504E",
@@ -125081,7 +125361,7 @@
   },
   {
     "prefix": "7467F7",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -126025,6 +126305,11 @@
     "address": "NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
   },
   {
+    "prefix": "74D59C",
+    "vendor": "fluidiQ by Magnalytix",
+    "address": "424 Harding Industrial Drive Nashville TN US 37211 "
+  },
+  {
     "prefix": "74D5B8",
     "vendor": "Infraeo Inc",
     "address": "101 E Old Settlers Blvd #160 Round Rock TX US 78664 "
@@ -126033,6 +126318,11 @@
     "prefix": "74D5C6",
     "vendor": "Microchip Technologies Inc",
     "address": "2355 W Chandler Blvd Chandler  US 85224-6199 "
+  },
+  {
+    "prefix": "74D5E8",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
   },
   {
     "prefix": "74D637",
@@ -126541,7 +126831,7 @@
   },
   {
     "prefix": "780541",
-    "vendor": "Queclink Wireless Solutions Co., Ltd",
+    "vendor": "Queclink Wireless Solutions Co., Ltd.",
     "address": "Room 501, Building 9, No.99 Tianzhou Road shanghai shanghai CN 200233 "
   },
   {
@@ -127117,7 +127407,7 @@
   {
     "prefix": "7844FD",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "784501",
@@ -127422,7 +127712,7 @@
   {
     "prefix": "78605B",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "786089",
@@ -127641,7 +127931,7 @@
   },
   {
     "prefix": "787D53",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -127876,7 +128166,7 @@
   },
   {
     "prefix": "7896A3",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -128158,6 +128448,11 @@
     "prefix": "78B5D2",
     "vendor": "Ever Treasure Industrial Limited",
     "address": "15A Tung Lee Commercial Building Sheung Wan  HK 852 "
+  },
+  {
+    "prefix": "78B5F2",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
   },
   {
     "prefix": "78B6C1",
@@ -129505,6 +129800,11 @@
     "address": "10300 Energy Dr Spring TX US 77389 "
   },
   {
+    "prefix": "7C59B1",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
     "prefix": "7C5A1C",
     "vendor": "Sophos Ltd",
     "address": "The Pentagon Abingdon Oxfordshire GB OX14 3YP "
@@ -130011,7 +130311,7 @@
   },
   {
     "prefix": "7C95B1",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -130121,7 +130421,7 @@
   },
   {
     "prefix": "7CA4F7",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -130287,7 +130587,7 @@
   {
     "prefix": "7CB59B",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "7CB59F",
@@ -132271,7 +132571,7 @@
   },
   {
     "prefix": "809562",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -132457,7 +132757,7 @@
   {
     "prefix": "80AE54",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "80AF19",
@@ -132790,6 +133090,11 @@
     "address": "Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
   },
   {
+    "prefix": "80D175",
+    "vendor": "iPanel.TV Inc.",
+    "address": "6th Floor, Building B, Jinfengcheng Mansion, Shennan East Road No. 5015, Luohu District Shenzhen Guangdong CN 518004 "
+  },
+  {
     "prefix": "80D18B",
     "vendor": "Hangzhou I'converge Technology Co.,Ltd",
     "address": "No.618 Xixi Road, Hangzhou Zhejiang CN 310012 "
@@ -132858,6 +133163,11 @@
     "prefix": "80DAC2",
     "vendor": "Vantiva USA LLC",
     "address": "4855 Peachtree Industrial Blvd, Suite 20 Norcross GA US 30902 "
+  },
+  {
+    "prefix": "80DACE",
+    "vendor": "Huawei Device Co., Ltd.",
+    "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
   },
   {
     "prefix": "80DB17",
@@ -132947,7 +133257,7 @@
   {
     "prefix": "80EA07",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "80EA0B",
@@ -133423,6 +133733,11 @@
     "prefix": "842712",
     "vendor": "Silicon Laboratories",
     "address": " 400 West Cesar Chavez Austin TX US 78701 "
+  },
+  {
+    "prefix": "842789",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
   },
   {
     "prefix": "8427B6",
@@ -134026,7 +134341,7 @@
   },
   {
     "prefix": "847AB6",
-    "vendor": "AltoBeam (China) Inc.",
+    "vendor": "AltoBeam Inc.",
     "address": "B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
   },
   {
@@ -134587,7 +134902,7 @@
   {
     "prefix": "84B890",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "84B8B8",
@@ -134683,6 +134998,11 @@
     "prefix": "84C7A9",
     "vendor": "C3PO S.A.",
     "address": "Alejandro Goicoechea 6 Local 9 Sant Just Desvern Barcelona ES ES08960 "
+  },
+  {
+    "prefix": "84C7BB",
+    "vendor": "Espressif Inc.",
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "84C7E2",
@@ -134832,7 +135152,7 @@
   {
     "prefix": "84D81B",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "84D931",
@@ -134953,6 +135273,11 @@
     "prefix": "84E657",
     "vendor": "Sony Interactive Entertainment Inc.",
     "address": "1-7-1 Konan Minato-ku Tokyo JP 108-0075 "
+  },
+  {
+    "prefix": "84E6B3",
+    "vendor": "Tiinlab Corporation",
+    "address": "Building A Room 201 Cooperation District between Shenzhen and HongKong,Qianwan Road No.1,Shenzhen City, Business Address:No. 3333, Liuxian AvenueTower A, 35th Floor,Tanglang City, Nanshan District, Shenzhen, China Shenzhen Guangdong CN 518000 "
   },
   {
     "prefix": "84E714",
@@ -135360,6 +135685,11 @@
     "address": "Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
   },
   {
+    "prefix": "8817A8",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
     "prefix": "8818AE",
     "vendor": "Tamron Co., Ltd",
     "address": "1385,Hasunuma, Minuma-ku Saitama-shi Saitama JP 337-8556 "
@@ -135491,7 +135821,7 @@
   },
   {
     "prefix": "88287D",
-    "vendor": "AltoBeam (China) Inc.",
+    "vendor": "AltoBeam Inc.",
     "address": "B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
   },
   {
@@ -135931,7 +136261,7 @@
   },
   {
     "prefix": "885BDD",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -136216,7 +136546,7 @@
   },
   {
     "prefix": "887E25",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -136243,6 +136573,11 @@
     "prefix": "8881B9",
     "vendor": "Huawei Device Co., Ltd.",
     "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+  },
+  {
+    "prefix": "888225",
+    "vendor": "Telink Micro LLC",
+    "address": "2975 Scott Blvd #120 Santa Clara CA US 95054 "
   },
   {
     "prefix": "888279",
@@ -136437,7 +136772,7 @@
   {
     "prefix": "889986",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "889AFF",
@@ -137826,7 +138161,7 @@
   },
   {
     "prefix": "8C497A",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -138895,6 +139230,11 @@
     "address": "1-15 Matsuo-cho Kadoma Osaka JP 571-8504 "
   },
   {
+    "prefix": "8CC246",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
     "prefix": "8CC573",
     "vendor": "Xsight Labs LTD.",
     "address": "1 Leshem Street Kiryat Gat Other (Non US) IL 8258401 "
@@ -139198,6 +139538,11 @@
     "prefix": "8CE7B3",
     "vendor": "Sonardyne International Ltd",
     "address": "Blackbushe Business Park Yateley Hampshire GB GU46 6GD "
+  },
+  {
+    "prefix": "8CE807",
+    "vendor": "Bouffalo Lab (Nanjing) Co., Ltd.",
+    "address": "5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China Nanjing Jiangsu CN 211800 "
   },
   {
     "prefix": "8CE9B4",
@@ -140440,6 +140785,11 @@
     "address": "8F., No. 94, Baozhong Rd. New Taipei City Taiwan TW 231 "
   },
   {
+    "prefix": "9074F2",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
     "prefix": "9075BC",
     "vendor": "Nokia Shanghai Bell Co., Ltd.",
     "address": "No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai Shanghai   CN 201206 "
@@ -141056,7 +141406,7 @@
   },
   {
     "prefix": "90B832",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -142250,6 +142600,11 @@
     "address": "23282 Mill Creek Dr #340 Laguna Hills CA US 92653 "
   },
   {
+    "prefix": "9449F6",
+    "vendor": "Huawei Device Co., Ltd.",
+    "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+  },
+  {
     "prefix": "944A09",
     "vendor": "BitWise Controls",
     "address": "98 Inverness Dr East Englewood CO US 80112 "
@@ -142806,7 +143161,7 @@
   },
   {
     "prefix": "949B2C",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -142973,6 +143328,11 @@
     "prefix": "94ACCA",
     "vendor": "trivum technologies GmbH",
     "address": "Heusteigstraße 37 Stuttgart  DE 70108 "
+  },
+  {
+    "prefix": "94AD05",
+    "vendor": "Huawei Device Co., Ltd.",
+    "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
   },
   {
     "prefix": "94AD23",
@@ -144160,6 +144520,11 @@
     "address": "BR 101, km 210, S/N° São José Santa Catarina BR 88104800 "
   },
   {
+    "prefix": "982AC3",
+    "vendor": "Silicon Laboratories",
+    "address": " 400 West Cesar Chavez Austin TX US 78701 "
+  },
+  {
     "prefix": "982AFD",
     "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -144962,7 +145327,7 @@
   {
     "prefix": "9897CC",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "9897D1",
@@ -145161,7 +145526,7 @@
   },
   {
     "prefix": "98B177",
-    "vendor": "LANDIS + GYR",
+    "vendor": "Landis+Gyr S.A.",
     "address": "78th km Old National Road Athens-Corinth  Corinth   GR 20100 "
   },
   {
@@ -145976,7 +146341,7 @@
   },
   {
     "prefix": "9C1C37",
-    "vendor": "AltoBeam (China) Inc.",
+    "vendor": "AltoBeam Inc.",
     "address": "B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
   },
   {
@@ -146556,7 +146921,7 @@
   },
   {
     "prefix": "9C5D12",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -147333,6 +147698,11 @@
     "prefix": "9CBB98",
     "vendor": "Shen Zhen RND Electronic Co.,LTD",
     "address": "G315,Hua Chuang Da business Certer Shen Zhen Guang Dong CN 518000 "
+  },
+  {
+    "prefix": "9CBCA6",
+    "vendor": "Hewlett Packard Enterprise",
+    "address": "6280 America Center Dr San Jose CA US 95002 "
   },
   {
     "prefix": "9CBCF0",
@@ -149185,6 +149555,11 @@
     "address": "Suite 816A / 3 PARKLAND BVDE Brisbane QLD AU 4000 "
   },
   {
+    "prefix": "A09C19",
+    "vendor": "CIG SHANGHAI CO LTD",
+    "address": "5th Floor, Building 8 No 2388 Chenhang Road  SHANGHAI  CN 201114 "
+  },
+  {
     "prefix": "A09D22",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
@@ -149538,6 +149913,11 @@
     "prefix": "A0C7D2",
     "vendor": "Cisco Systems, Inc",
     "address": "80 West Tasman Drive San Jose CA US 94568 "
+  },
+  {
+    "prefix": "A0C926",
+    "vendor": "Huawei Device Co., Ltd.",
+    "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
   },
   {
     "prefix": "A0C98B",
@@ -150247,7 +150627,7 @@
   {
     "prefix": "A41A3A",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "A41A6E",
@@ -150926,7 +151306,7 @@
   },
   {
     "prefix": "A473AB",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -151211,7 +151591,7 @@
   },
   {
     "prefix": "A49791",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -151676,7 +152056,7 @@
   },
   {
     "prefix": "A4C7F6",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -152001,7 +152381,7 @@
   },
   {
     "prefix": "A4EA8E",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -152026,7 +152406,7 @@
   },
   {
     "prefix": "A4EF15",
-    "vendor": "AltoBeam (China) Inc.",
+    "vendor": "AltoBeam Inc.",
     "address": "B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
   },
   {
@@ -153671,7 +154051,7 @@
   },
   {
     "prefix": "A8C647",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -154776,7 +155156,7 @@
   },
   {
     "prefix": "AC4DD9",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -155196,7 +155576,7 @@
   },
   {
     "prefix": "AC7F8D",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -155272,7 +155652,7 @@
   {
     "prefix": "AC84C6",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "AC84C9",
@@ -156095,6 +156475,11 @@
     "address": "1 Infinite Loop Cupertino CA US 95014 "
   },
   {
+    "prefix": "ACE4D8",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "address": "#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+  },
+  {
     "prefix": "ACE5F0",
     "vendor": "Doppler Labs",
     "address": "611 Broadway Suite 523 New York NY US 10012 "
@@ -156176,7 +156561,7 @@
   },
   {
     "prefix": "ACED32",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -156368,6 +156753,11 @@
     "prefix": "B00594",
     "vendor": "Liteon Technology Corporation",
     "address": "4F,90,Chien 1 Road,ChungHo New Taipei City Taipei TW 23585 "
+  },
+  {
+    "prefix": "B006EC",
+    "vendor": "Nexquome Pte Limited",
+    "address": "200 Cantoment Road #05-03 Southpoint SINGAPORE  SG 089763 "
   },
   {
     "prefix": "B00875",
@@ -156566,7 +156956,7 @@
   },
   {
     "prefix": "B027CF",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -157407,7 +157797,7 @@
   {
     "prefix": "B09575",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "B0958E",
@@ -157713,6 +158103,11 @@
     "prefix": "B0BB8B",
     "vendor": "WAVETEL TECHNOLOGY LIMITED",
     "address": "ROOM 1611B, 16/F, HO KING COMMERCIAL CENTRE, 2-16 FAYUEN STREET, MONGKOK, KOWLOON HONGKONG  CN 999077 "
+  },
+  {
+    "prefix": "B0BBA9",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
   },
   {
     "prefix": "B0BBE5",
@@ -158148,6 +158543,11 @@
     "prefix": "B0EB7F",
     "vendor": "Juniper Networks",
     "address": "1133 Innovation Way Sunnyvale CA US 94089 "
+  },
+  {
+    "prefix": "B0EC69",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
   },
   {
     "prefix": "B0EC71",
@@ -158666,7 +159066,7 @@
   },
   {
     "prefix": "B42D56",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -159260,6 +159660,11 @@
     "address": "Room 4, Office IV, Floor 4 Rochdelskaya street, 15, b.15 Moscow, 123376 Russia Moscow  RU 123376 "
   },
   {
+    "prefix": "B47E9F",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "address": "#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+  },
+  {
     "prefix": "B47F5E",
     "vendor": "Foresight Manufacture (S) Pte Ltd",
     "address": "1 Sims Lane #04-09  Singapore SG 387355 "
@@ -159501,7 +159906,7 @@
   },
   {
     "prefix": "B4A3BD",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -159528,6 +159933,11 @@
     "prefix": "B4A5EF",
     "vendor": "Sercomm Corporation.",
     "address": "3F,No.81,Yu-Yih Rd.,Chu-Nan Chen Miao-Lih Hsuan  TW 115 "
+  },
+  {
+    "prefix": "B4A64A",
+    "vendor": "Espressif Inc.",
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "B4A678",
@@ -159836,7 +160246,7 @@
   },
   {
     "prefix": "B4C799",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -160281,7 +160691,7 @@
   },
   {
     "prefix": "B4FBE3",
-    "vendor": "AltoBeam (China) Inc.",
+    "vendor": "AltoBeam Inc.",
     "address": "B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
   },
   {
@@ -160485,6 +160895,11 @@
     "address": "Energeticheskaya, 1 Moscow  RU 111116 "
   },
   {
+    "prefix": "B81BCB",
+    "vendor": "Shanghai Sunmi Technology Co.,Ltd.",
+    "address": "Room 505, No.388 Song Hu Road, Yang Pu District, Shanghai, China Shanghai Shanghai CN 200433 "
+  },
+  {
     "prefix": "B81D1F",
     "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -160496,7 +160911,7 @@
   },
   {
     "prefix": "B81E0B",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -160876,7 +161291,7 @@
   },
   {
     "prefix": "B85001",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -161231,7 +161646,7 @@
   },
   {
     "prefix": "B87CF2",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -161995,6 +162410,11 @@
     "address": "6205 Peachtree Dunwoody Rd Atlanta GA US 30328 "
   },
   {
+    "prefix": "B8D3EF",
+    "vendor": "UNISEM (M) BERHAD",
+    "address": "LOT 302285, JALAN INDUSTRI 1/1, KAWASAN PERINDUSTRIAN GOPENG, GOPENG PERAK MY 31600 "
+  },
+  {
     "prefix": "B8D43E",
     "vendor": "vivo Mobile Communication Co., Ltd.",
     "address": "No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
@@ -162111,7 +162531,7 @@
   },
   {
     "prefix": "B8DC28",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -162881,7 +163301,7 @@
   },
   {
     "prefix": "BC34D6",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -164396,7 +164816,7 @@
   },
   {
     "prefix": "BCF310",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -164955,6 +165375,11 @@
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
   },
   {
+    "prefix": "C03E75",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
     "prefix": "C03EBA",
     "vendor": "Dell Inc.",
     "address": "One Dell Way Round Rock TX US 78682 "
@@ -165178,6 +165603,11 @@
     "prefix": "C057BC",
     "vendor": "Avaya Inc",
     "address": "360 Mt Kemble Ave Morristown NJ US 07960 "
+  },
+  {
+    "prefix": "C0582E",
+    "vendor": "Cisco Systems, Inc",
+    "address": "80 West Tasman Drive San Jose CA US 94568 "
   },
   {
     "prefix": "C058A7",
@@ -166005,6 +166435,11 @@
     "address": "350 West Java Drive Sunnyvale CA US 94089 "
   },
   {
+    "prefix": "C0C7B5",
+    "vendor": "Infinix mobility limited",
+    "address": "RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG HongKong HongKong HK 999077 "
+  },
+  {
     "prefix": "C0C7DB",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
@@ -166590,6 +167025,11 @@
     "address": "NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China Suzhou  CN 215021 "
   },
   {
+    "prefix": "C41062",
+    "vendor": "Cornet Technology India Pvt Ltd",
+    "address": "Plot No.10/A-16 5th Cross Road, SIPCOT IT PARK Siruseri, Chennai Tamilnadu IN 603103 "
+  },
+  {
     "prefix": "C4108A",
     "vendor": "Ruckus Wireless",
     "address": "350 West Java Drive Sunnyvale CA US 94089 "
@@ -166621,7 +167061,7 @@
   },
   {
     "prefix": "C413E2",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -167340,6 +167780,11 @@
     "address": "1-3-14 Koshigaya-City Saitama JP 343-0813 "
   },
   {
+    "prefix": "C46940",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "address": "#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+  },
+  {
     "prefix": "C469F0",
     "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -167483,6 +167928,11 @@
     "prefix": "C4799F",
     "vendor": "Haiguang Smart Device Co.,Ltd.",
     "address": "Room 202,2nd.Floor,3rd.Building,Kuiqiao Road, No.2,Tangxia Town,Dongguan Dongguan Guangdong CN 523000 "
+  },
+  {
+    "prefix": "C47A5D",
+    "vendor": "Panmnesia Inc.",
+    "address": "1, Expo-ro, Yuseong-gu Daejeon  KR 34126 "
   },
   {
     "prefix": "C47B2F",
@@ -168010,6 +168460,11 @@
     "address": "Room 415, No.569 Anchi Road, JiaDing District  Shanghai  CN 201804 "
   },
   {
+    "prefix": "C4BB89",
+    "vendor": "Shanghai High-Flying Electronics Technology Co.,Ltd",
+    "address": "#17 Building, No.1500 Zu Chongzhi Road, Pudong District, 201203, Shanghai, China SHANGHAI SHANGHAI CN 201200 "
+  },
+  {
     "prefix": "C4BBEA",
     "vendor": "Pakedge Device and Software Inc",
     "address": "3847 Breakwater Ave Hayward CA US 94545 "
@@ -168048,6 +168503,11 @@
     "prefix": "C4BF60",
     "vendor": "TECNO MOBILE LIMITED",
     "address": "ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
+  },
+  {
+    "prefix": "C4C00A",
+    "vendor": "Microsoft Corporation",
+    "address": "One Microsoft Way REDMOND WA US 98052 "
   },
   {
     "prefix": "C4C063",
@@ -169201,7 +169661,7 @@
   },
   {
     "prefix": "C851FB",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -169351,12 +169811,12 @@
   },
   {
     "prefix": "C8665D",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
     "prefix": "C8675E",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -170055,6 +170515,11 @@
     "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
   },
   {
+    "prefix": "C8BBB4",
+    "vendor": "GSD VIET NAM TECHNOLOGY COMPANY LIMITED",
+    "address": "PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD HO CHI MINH CITY HO CHI MINH VN 820000 "
+  },
+  {
     "prefix": "C8BBD3",
     "vendor": "Embrane",
     "address": "2350 Mission College Blvd., Ste 703 Santa Clara CA US 95054 "
@@ -170091,7 +170556,7 @@
   },
   {
     "prefix": "C8BE35",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -170173,6 +170638,11 @@
     "prefix": "C8C873",
     "vendor": "CHIPSEN INC.",
     "address": "501, Gwangmyeong M-cluster 17, Deogan-ro 104beon-gil Gwangmyeong-si Gyeonggi-do KR 14353 "
+  },
+  {
+    "prefix": "C8C992",
+    "vendor": "Beijing Roborock Technology Co., Ltd.",
+    "address": "Floor 6,Building C,Kangjian Baosheng Plaza,No. 8 Heiquan Road,Haidian District Beijing Beijing CN 100085 "
   },
   {
     "prefix": "C8C9A3",
@@ -171100,6 +171570,11 @@
     "address": "3000 Tannery Way Santa Clara CA US 95054 "
   },
   {
+    "prefix": "CC38E1",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
     "prefix": "CC398C",
     "vendor": "Shiningtek",
     "address": "No. 53, Nankeng 3 St  Hsinchu TW 30841 "
@@ -171668,6 +172143,11 @@
     "prefix": "CC794A",
     "vendor": "BLU Products Inc.",
     "address": "Tower 4, Excellence Century Center Shenzhen Guangdong CN 518000 "
+  },
+  {
+    "prefix": "CC79B8",
+    "vendor": "Lunar Energy",
+    "address": "755 Ravendale Dr Mountain View CA US 94043 "
   },
   {
     "prefix": "CC79CF",
@@ -173110,6 +173590,11 @@
     "address": "No.289, Sinhu 3rd Rd., Neihu District,  Taipei City   TW 114 "
   },
   {
+    "prefix": "D032E7",
+    "vendor": "Tuya Smart Inc.",
+    "address": "160 Greentree Drive, Suite 101 Dover DE US 19904 "
+  },
+  {
     "prefix": "D03311",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
@@ -173127,7 +173612,7 @@
   {
     "prefix": "D03745",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "D03761",
@@ -173800,6 +174285,11 @@
     "address": "1133 Innovation Way Sunnyvale CA US 94089 "
   },
   {
+    "prefix": "D082E8",
+    "vendor": "Tuya Smart Inc.",
+    "address": "160 Greentree Drive, Suite 101 Dover DE US 19904 "
+  },
+  {
     "prefix": "D082EB",
     "vendor": "Tuya Smart Inc.",
     "address": "160 Greentree Drive, Suite 101 Dover DE US 19904 "
@@ -174043,6 +174533,11 @@
     "prefix": "D0A637",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
+    "prefix": "D0A651",
+    "vendor": "AltoBeam Inc.",
+    "address": "B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
   },
   {
     "prefix": "D0A9D3",
@@ -176966,7 +177461,7 @@
   },
   {
     "prefix": "D802C0",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -176997,7 +177492,7 @@
   {
     "prefix": "D807B6",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "D80831",
@@ -177567,7 +178062,7 @@
   {
     "prefix": "D84732",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "D8478F",
@@ -177670,6 +178165,11 @@
     "address": "2F, NO.1 Plant , Lenovo Innovation Park, Lidu Road, Loucun Community, Xinhu Street, Guangming District , Shenzhen, Guangdong, China Shenzhen Guangdong CN 518000 "
   },
   {
+    "prefix": "D85437",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
     "prefix": "D8543A",
     "vendor": "Texas Instruments",
     "address": "12500 TI Boulevard, MS 8723 Dallas TX US 75243 "
@@ -177681,7 +178181,7 @@
   },
   {
     "prefix": "D854A2",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -178071,7 +178571,7 @@
   },
   {
     "prefix": "D88466",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -178590,6 +179090,11 @@
     "address": "8F., No. 94, Baozhong Rd. New Taipei City Taiwan TW 231 "
   },
   {
+    "prefix": "D8C262",
+    "vendor": "Ubiquiti Inc",
+    "address": "685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
+  },
+  {
     "prefix": "D8C3FB",
     "vendor": "DETRACOM",
     "address": "41 AVENUE DE L'EUROPE CASTELNAU D'ESTRETEFONDS  FR 31620 "
@@ -178648,6 +179153,11 @@
     "prefix": "D8C8E9",
     "vendor": "Phicomm (Shanghai) Co., Ltd.",
     "address": "3666 SiXian Rd.,Songjiang District Shanghai Shanghai CN 201616 "
+  },
+  {
+    "prefix": "D8C960",
+    "vendor": "Huawei Device Co., Ltd.",
+    "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
   },
   {
     "prefix": "D8C99D",
@@ -178846,7 +179356,7 @@
   },
   {
     "prefix": "D8E016",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -179035,6 +179545,11 @@
     "address": "2468 HISTORIC DECATUR RD SAN DIEGO CA US 92106 "
   },
   {
+    "prefix": "D8FB58",
+    "vendor": "Mellanox Technologies, Inc.",
+    "address": "350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
+  },
+  {
     "prefix": "D8FB5E",
     "vendor": "ASKEY COMPUTER CORP",
     "address": "10F,No.119,JIANKANG RD,ZHONGHE DIST NEW TAIPEI TAIWAN TW 23585 "
@@ -179082,7 +179597,7 @@
   {
     "prefix": "DC0077",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "DC00B0",
@@ -179336,7 +179851,7 @@
   },
   {
     "prefix": "DC233B",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -179351,7 +179866,7 @@
   },
   {
     "prefix": "DC2919",
-    "vendor": "AltoBeam (Xiamen) Technology Ltd, Co.",
+    "vendor": "AltoBeam(Xiamen)Technology Co., Ltd.",
     "address": "South Building 203-38,Huoju Square ,No.56-58,Huoju Road, Huoju Park, Huoju High-tech District Xiamen  CN 361000 "
   },
   {
@@ -180501,7 +181016,7 @@
   },
   {
     "prefix": "DCB808",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -180511,7 +181026,7 @@
   },
   {
     "prefix": "DCBB3D",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville  US 27560 "
   },
   {
@@ -180786,7 +181301,7 @@
   },
   {
     "prefix": "DCDCC3",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive Morrisville NC US 27560 "
   },
   {
@@ -180871,7 +181386,7 @@
   },
   {
     "prefix": "DCE650",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -181276,7 +181791,7 @@
   },
   {
     "prefix": "E01C41",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -182295,13 +182810,18 @@
     "address": "1st section of industrial pack,Wan'An County,Ji'An City,jiangxi province Wanan China/jiangxi CN 343800 "
   },
   {
+    "prefix": "E09EC1",
+    "vendor": "Silicon Innovation Microelectronics Co.,Ltd.",
+    "address": "2106, Building C, Maoye Center, 28 North Tianfu Avenue, High-tech Zone, Chengdu, Sichuan, China 2106-7 Chengdu  CN 610041 "
+  },
+  {
     "prefix": "E09F2A",
     "vendor": "Iton Technology Corp. ",
     "address": "Room 1302, Block A, Building 4，Huangge Road, Longgang District Shenzhen  Guangdong  CN 518116 "
   },
   {
     "prefix": "E0A129",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive Morrisville NC US 27560 "
   },
   {
@@ -182905,6 +183425,11 @@
     "address": "No.555 Qianmo Road  Hangzhou Zhejiang CN 310052 "
   },
   {
+    "prefix": "E0DFB7",
+    "vendor": "Zeica Labs Pte Ltd",
+    "address": "380 Jalan Besar, #06-06, ARC 380 Singapore  SG 209000 "
+  },
+  {
     "prefix": "E0E0C2",
     "vendor": "China Mobile Group Device Co.,Ltd.",
     "address": "32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
@@ -183230,13 +183755,18 @@
     "address": "Krefelder Straße 201 Aachen  DE 52070 "
   },
   {
+    "prefix": "E4135C",
+    "vendor": "Cisco Systems, Inc",
+    "address": "80 West Tasman Drive San Jose CA US 94568 "
+  },
+  {
     "prefix": "E415F6",
     "vendor": "Texas Instruments",
     "address": "12500 TI Blvd Dallas TX US 75243 "
   },
   {
     "prefix": "E41613",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -183601,7 +184131,7 @@
   },
   {
     "prefix": "E444E5",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -183968,6 +184498,11 @@
     "prefix": "E46F13",
     "vendor": "D-Link International",
     "address": "1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917 "
+  },
+  {
+    "prefix": "E47010",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
   },
   {
     "prefix": "E470B8",
@@ -184781,7 +185316,7 @@
   },
   {
     "prefix": "E4DBAE",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive Morrisville NC US 27560 "
   },
   {
@@ -185041,7 +185576,7 @@
   },
   {
     "prefix": "E4FD8C",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -187205,6 +187740,11 @@
     "address": "Room 1002,#1Building,No.3000 Longdong Avenue,Pudong Shanghai Shanghai CN 201202 "
   },
   {
+    "prefix": "E8FEBE",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
     "prefix": "E8FF1E",
     "vendor": "IEEE Registration Authority",
     "address": "445 Hoes Lane Piscataway NJ US 08554 "
@@ -187942,7 +188482,7 @@
   {
     "prefix": "EC6073",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "EC60E0",
@@ -188241,8 +188781,8 @@
   },
   {
     "prefix": "EC8439",
-    "vendor": "Private",
-    "address": ""
+    "vendor": "BITMAIN DEVELOPMENT PTE. LTD.",
+    "address": "     "
   },
   {
     "prefix": "EC84B4",
@@ -189546,7 +190086,7 @@
   },
   {
     "prefix": "F02B7C",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive Morrisville NC US 27560 "
   },
   {
@@ -189563,6 +190103,11 @@
     "prefix": "F02F4B",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
+    "prefix": "F02F50",
+    "vendor": "Shenzhen SEI Robotics Co.,Ltd",
+    "address": "11th Floor, Kangtai Group Building, No. 222 Kefa Road, Science and Technology Park Community, Yuehai Street, Nanshan District, Shenzhen Shenzhen Guangdong CN 518000 "
   },
   {
     "prefix": "F02F74",
@@ -189688,6 +190233,11 @@
     "prefix": "F040AF",
     "vendor": "IEEE Registration Authority",
     "address": "445 Hoes Lane Piscataway NJ US 08554 "
+  },
+  {
+    "prefix": "F040D9",
+    "vendor": "Apple, Inc.",
+    "address": "1 Infinite Loop Cupertino CA US 95014 "
   },
   {
     "prefix": "F040EC",
@@ -189931,7 +190481,7 @@
   },
   {
     "prefix": "F06426",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -190331,7 +190881,7 @@
   },
   {
     "prefix": "F09CE9",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -191250,6 +191800,11 @@
     "address": "Charlottenburger Allee 67 Aachen NRW DE 52068 "
   },
   {
+    "prefix": "F406A3",
+    "vendor": "Huawei Device Co., Ltd.",
+    "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+  },
+  {
     "prefix": "F406A5",
     "vendor": "Hangzhou Bianfeng Networking Technology Co., Ltd.",
     "address": "BlockC，2F，Building B，Paradise Software Park Hangzhou Zhejiang CN 310012 "
@@ -191498,6 +192053,11 @@
     "prefix": "F4253C",
     "vendor": "eero inc.",
     "address": "660 3rd Street  San Francisco CA US 94107 "
+  },
+  {
+    "prefix": "F425FE",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
   },
   {
     "prefix": "F42679",
@@ -191880,13 +192440,18 @@
     "address": "1 Infinite Loop Cupertino CA US 95014 "
   },
   {
+    "prefix": "F453E4",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
     "prefix": "F45420",
     "vendor": "TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO ",
     "address": "Av. Buriti, 1900 – Setor B – Distrito Industrial Manaus Amazonas BR 69075-000 "
   },
   {
     "prefix": "F45424",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive Morrisville NC US 27560 "
   },
   {
@@ -192102,7 +192667,7 @@
   {
     "prefix": "F46D2F",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "F46D3F",
@@ -192121,7 +192686,7 @@
   },
   {
     "prefix": "F46E95",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -192272,7 +192837,7 @@
   {
     "prefix": "F4848D",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "F485AE",
@@ -192403,6 +192968,11 @@
     "prefix": "F499AC",
     "vendor": "WEBER Schraubautomaten GmbH",
     "address": "Hans-Urmiller-Ring 56 Wolfratshausen Bayern DE 82515 "
+  },
+  {
+    "prefix": "F49A7C",
+    "vendor": "Hangzhou Supranett Network Technology Co.,Ltd.",
+    "address": "12F Building 1, 1399 Xiangbin Road, Xiaoshan Distric Hangzhou Zhejiang CN 310000 "
   },
   {
     "prefix": "F49AB1",
@@ -192551,13 +193121,18 @@
   },
   {
     "prefix": "F4B19C",
-    "vendor": "AltoBeam (China) Inc.",
+    "vendor": "AltoBeam Inc.",
     "address": "B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
   },
   {
     "prefix": "F4B1C2",
     "vendor": "Zhejiang Dahua Technology Co., Ltd.",
     "address": "No.1199,Waterfront Road  Hangzhou Zhejiang CN 310053 "
+  },
+  {
+    "prefix": "F4B24E",
+    "vendor": "Huawei Device Co., Ltd.",
+    "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
   },
   {
     "prefix": "F4B301",
@@ -192826,7 +193401,7 @@
   },
   {
     "prefix": "F4CE48",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -193056,7 +193631,7 @@
   },
   {
     "prefix": "F4EAB5",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -194257,7 +194832,7 @@
   {
     "prefix": "F86FB0",
     "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
-    "address": "Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+    "address": "2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
   },
   {
     "prefix": "F86FC1",
@@ -195626,7 +196201,7 @@
   },
   {
     "prefix": "FC0A81",
-    "vendor": "Extreme Networks Headquarters",
+    "vendor": "Extreme Networks, Inc.",
     "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
@@ -195638,6 +196213,11 @@
     "prefix": "FC0F4B",
     "vendor": "Texas Instruments",
     "address": "12500 TI Blvd Dallas TX US 75243 "
+  },
+  {
+    "prefix": "FC0F76",
+    "vendor": "Amazon Technologies Inc.",
+    "address": "P.O Box 8102  Reno NV US 89507 "
   },
   {
     "prefix": "FC0FE6",
