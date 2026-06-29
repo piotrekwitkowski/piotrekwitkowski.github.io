@@ -49002,7 +49002,85 @@
     "exception": false
   },
   {
+    "suffix": "dnshome.at",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "resolve.bar",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "ddns.berlin",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "dnshome.cloud",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "ddnssec.de",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "dnshome.de",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "dyndnssec.de",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "heimdns.de",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "srvdns.de",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "dnshome.eu",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "dnshome.it",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "dyn.now",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "heimdns.online",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "ddns.wtf",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -55998,6 +56076,12 @@
     "exception": false
   },
   {
+    "suffix": "mkm.fan",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "mocha.app",
     "type": "private",
     "wildcard": false,
@@ -57775,6 +57859,24 @@
   },
   {
     "suffix": "pubtls.org",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "puter.app",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "puter.site",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "puter.work",
     "type": "private",
     "wildcard": false,
     "exception": false
