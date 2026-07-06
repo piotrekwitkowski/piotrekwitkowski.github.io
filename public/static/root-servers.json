@@ -16898,6 +16898,18 @@
   {
     "root": "K-root",
     "operator": "RIPE NCC",
+    "country": "VN",
+    "town": "Ho Chi Minh City",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 10.7755254,
+    "longitude": 106.7021047
+  },
+  {
+    "root": "K-root",
+    "operator": "RIPE NCC",
     "country": "YE",
     "town": "Sana'a",
     "type": "Global",
