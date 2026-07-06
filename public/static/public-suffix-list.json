@@ -55656,12 +55656,6 @@
     "exception": false
   },
   {
-    "suffix": "mayfirst.org",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "mcdir.me",
     "type": "private",
     "wildcard": false,
