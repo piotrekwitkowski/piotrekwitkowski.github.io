@@ -17666,18 +17666,6 @@
   {
     "root": "L-root",
     "operator": "ICANN",
-    "country": "GB",
-    "town": "Leeds-Bradford",
-    "type": "Global",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 53.86665035,
-    "longitude": -1.656781884498208
-  },
-  {
-    "root": "L-root",
-    "operator": "ICANN",
     "country": "GR",
     "town": "Heraklion",
     "type": "Global",
