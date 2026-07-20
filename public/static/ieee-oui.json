@@ -69937,7 +69937,7 @@
   {
     "prefix": "08EA40",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "08EA44",
@@ -71445,6 +71445,11 @@
     "address": "200-140 Renfrew Drive Markham Ontario CA L3R 6B3 "
   },
   {
+    "prefix": "0CA280",
+    "vendor": "FN-LINK TECHNOLOGY Ltd.",
+    "address": "No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China Changsha Hunan CN 410329 "
+  },
+  {
     "prefix": "0CA2F4",
     "vendor": "Chameleon Technology (UK) Limited",
     "address": "1st Floor, Central House Otley Road Beckwith Knowle Harrogate GB HG3 1UF "
@@ -71837,7 +71842,7 @@
   {
     "prefix": "0CCF89",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "0CCFD1",
@@ -73697,7 +73702,7 @@
   {
     "prefix": "10A4BE",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "10A4C9",
@@ -74562,7 +74567,7 @@
   {
     "prefix": "140A02",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "140A29",
@@ -75312,7 +75317,7 @@
   {
     "prefix": "145D34",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "145E45",
@@ -75402,7 +75407,7 @@
   {
     "prefix": "146B9C",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "146C27",
@@ -76303,6 +76308,11 @@
     "prefix": "14E01D",
     "vendor": "Samsung Electronics Co.,Ltd",
     "address": "#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+  },
+  {
+    "prefix": "14E1C9",
+    "vendor": "Silicon Laboratories",
+    "address": " 400 West Cesar Chavez Austin TX US 78701 "
   },
   {
     "prefix": "14E22A",
@@ -78868,6 +78878,11 @@
     "prefix": "1C24EB",
     "vendor": "Burlywood",
     "address": "1501 S Sunset Street Longmont CO US 80501 "
+  },
+  {
+    "prefix": "1C2575",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "address": "#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
   },
   {
     "prefix": "1C25E1",
@@ -82492,7 +82507,7 @@
   {
     "prefix": "20F41B",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO 268, Fuqian Rd,Jutang Community,Guanlan town, ShenZhen Guangdong CN 518110 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "20F44F",
@@ -83188,6 +83203,11 @@
     "prefix": "24497B",
     "vendor": "Innovative Converged Devices Inc",
     "address": "424 8th Avenue North Seattle WA US 98109 "
+  },
+  {
+    "prefix": "244AF8",
+    "vendor": "Silicon Laboratories",
+    "address": " 400 West Cesar Chavez Austin TX US 78701 "
   },
   {
     "prefix": "244B03",
@@ -86050,6 +86070,11 @@
     "address": "129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
   },
   {
+    "prefix": "28AFE5",
+    "vendor": "Shenzhen C-Data Technology Co., Ltd.",
+    "address": "#201, Building A4, Nanshan Zhiyuan, No.1001, Xueyuan Avenue, Changyuan Community,Taoyuan,Nanshan Shenzhen Guangdong CN 518055 "
+  },
+  {
     "prefix": "28AFFD",
     "vendor": "Cisco Systems, Inc",
     "address": "80 West Tasman Drive San Jose CA US 94568 "
@@ -88447,7 +88472,7 @@
   {
     "prefix": "2CC3E6",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "2CC407",
@@ -89932,7 +89957,7 @@
   {
     "prefix": "307BC9",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "307C30",
@@ -91225,6 +91250,11 @@
     "address": "12500 TI Blvd Dallas TX US 75243 "
   },
   {
+    "prefix": "341530",
+    "vendor": "vivo Mobile Communication Co., Ltd.",
+    "address": "No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+  },
+  {
     "prefix": "341593",
     "vendor": "Ruckus Wireless",
     "address": "350 West Java Drive Sunnyvale CA US 94089 "
@@ -91615,6 +91645,11 @@
     "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
   },
   {
+    "prefix": "344763",
+    "vendor": "Comtrend Corporation",
+    "address": "3F-1,10 Lane 609, Chung Hsin Road, Section 5 Taipei Hsien  TW 241  New Taipei City  TW 241 "
+  },
+  {
     "prefix": "34479A",
     "vendor": "GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD",
     "address": "NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
@@ -91766,7 +91801,7 @@
   },
   {
     "prefix": "3456ED",
-    "vendor": "Goerdyna Group Co., Ltd",
+    "vendor": "Goerdyna Group Co., Ltd.",
     "address": "B-726, 14th Floor, No. 30 Qutangxia Road, Shinan District Qingdao City Shandong Province CN 266000 "
   },
   {
@@ -95907,7 +95942,7 @@
   {
     "prefix": "3C3300",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO 268，Fuqian Rd,Jutang Community,Guanlan town , LongHua new district Shenzhen Guangdong CN 518110 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "3C3332",
@@ -99657,7 +99692,7 @@
   {
     "prefix": "4401BB",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "44032C",
@@ -100037,7 +100072,7 @@
   {
     "prefix": "44334C",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO 268 Shenzhen Guangdong CN 518110 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "44348F",
@@ -103155,6 +103190,11 @@
     "address": "Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
   },
   {
+    "prefix": "48AFF3",
+    "vendor": "Espressif Inc.",
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
+  },
+  {
     "prefix": "48B02D",
     "vendor": "NVIDIA Corporation",
     "address": "2701 San Tomas Expressway Santa Clara CA US 95050 "
@@ -106010,6 +106050,11 @@
     "address": "445 Hoes Lane Piscataway NJ US 08554 "
   },
   {
+    "prefix": "500E5B",
+    "vendor": "Quectel Wireless Solutions Co.,Ltd.",
+    "address": "7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
+  },
+  {
     "prefix": "500E6D",
     "vendor": "TrafficCast International",
     "address": "2801 Coho Street Madison WI US 53713 "
@@ -106038,6 +106083,11 @@
     "prefix": "5011EB",
     "vendor": "SilverNet Ltd",
     "address": "16 Cocran Close Milton Keynes Bucks GB MK8 0AJ "
+  },
+  {
+    "prefix": "50125C",
+    "vendor": "Sony Corporation",
+    "address": "Sony City Osaki 2-10-1 Shinagawa-ku  Tokyo JP 141-8610 "
   },
   {
     "prefix": "50131D",
@@ -107675,6 +107725,11 @@
     "address": "169 Madison Avenue, Suite 15233 New York NY US 10016 "
   },
   {
+    "prefix": "50D1D7",
+    "vendor": "ALL Winner (Hong Kong) Limited",
+    "address": "Unit No.1301,13F,Sunbeam Plaza,1155 Canton Road,Mongkok,Kowloon,Hong Kong Hong Kong  CN 999077 "
+  },
+  {
     "prefix": "50D213",
     "vendor": "CviLux Corporation",
     "address": "9F,No.9,Lane 3,Sec.1,Chung-Cheng East Road, Tamshui New Taipei City  TW 25147 "
@@ -108148,6 +108203,11 @@
     "prefix": "54055F",
     "vendor": "Alcatel Lucent",
     "address": "Via Energy Park, 14 Vimercate MB IT 20871 "
+  },
+  {
+    "prefix": "540583",
+    "vendor": "ITEL MOBILE LIMITED",
+    "address": "RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K Hong Kong KOWLOON HK 999077 "
   },
   {
     "prefix": "540593",
@@ -109977,7 +110037,7 @@
   {
     "prefix": "54EF33",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "54EF43",
@@ -119495,6 +119555,11 @@
     "address": "5453 Great America Parkway Santa Clara CA US 95054 "
   },
   {
+    "prefix": "688D2B",
+    "vendor": "GSD VIET NAM TECHNOLOGY COMPANY LIMITED",
+    "address": "PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD HO CHI MINH CITY HO CHI MINH VN 820000 "
+  },
+  {
     "prefix": "688DB6",
     "vendor": "AETEK INC.",
     "address": " 3F, No.192, Lien-Cheng Rd., Chung-Ho,  New Taipei City  TW 23553 "
@@ -121780,6 +121845,11 @@
     "address": "380 US Highway 46 Totowa NJ US 07512 "
   },
   {
+    "prefix": "6CA3D3",
+    "vendor": "Peplink International Ltd.",
+    "address": "A5, 5/F, HK Spinners Industrial Building, Phase 6, 481 Castle Peak Road Cheung Sha Wan Kowloon HK 0 "
+  },
+  {
     "prefix": "6CA401",
     "vendor": "essensys plc",
     "address": "Aldgate Tower, Leman Street London  GB E1 8FA "
@@ -122187,7 +122257,7 @@
   {
     "prefix": "6CD552",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "6CD630",
@@ -123158,6 +123228,11 @@
     "prefix": "704CB6",
     "vendor": "Shenzhen SuperElectron Technology Co.,Ltd.",
     "address": "1213-1214, haosheng business center, dongbin road, nanshan street, nanshan district, shenzhen city Shenzhen Guangdong CN 518000 "
+  },
+  {
+    "prefix": "704CC1",
+    "vendor": "Tokyo Electron Miyagi Limited",
+    "address": "1 Techno-Hills Taiwa-cho, Kurokawa-gun Miyagi JP 981-3629 "
   },
   {
     "prefix": "704CED",
@@ -125750,6 +125825,11 @@
     "address": "899 Kifer Road Sunnyvale  US 94086 "
   },
   {
+    "prefix": "7478DE",
+    "vendor": "vivo Mobile Communication Co., Ltd.",
+    "address": "No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+  },
+  {
     "prefix": "747A90",
     "vendor": "Murata Manufacturing Co., Ltd.",
     "address": "1-10-1, Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 "
@@ -126832,7 +126912,7 @@
   {
     "prefix": "74EE2A",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "74EE8D",
@@ -127322,7 +127402,7 @@
   {
     "prefix": "782288",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "782327",
@@ -127698,6 +127778,11 @@
     "prefix": "784859",
     "vendor": "Hewlett Packard",
     "address": "11445 Compaq Center Drive Houston  US 77070 "
+  },
+  {
+    "prefix": "7848FC",
+    "vendor": "System Loco Ltd",
+    "address": "3-2-6 Storey House Lancaster  GB LA1 4XQ "
   },
   {
     "prefix": "78491D",
@@ -128625,6 +128710,11 @@
     "address": "Via Luigi Lavizzari 18 Mendrisio TI CH 6850 "
   },
   {
+    "prefix": "78AFB8",
+    "vendor": "Shenzhen SDMC Technology CP,.LTD",
+    "address": "19/F, Changhong Science &Technology Mansion,No.18, Keji South 12th Road High-tech IndustrialPark Nanshan District,Shenzhen,China Shenzhen China CN 518000 "
+  },
+  {
     "prefix": "78AFE4",
     "vendor": "Comau S.p.A",
     "address": "via Rivalta 30 Grugliasco (TO) IT 10095 "
@@ -129540,6 +129630,11 @@
     "address": "66-11, Nonhyeon 2-dong, Gangnam-gu Seoul  KR 06049 "
   },
   {
+    "prefix": "7C19E3",
+    "vendor": "Google, Inc.",
+    "address": "1600 Amphitheatre Parkway Mountain View CA US 94043 "
+  },
+  {
     "prefix": "7C1A03",
     "vendor": "8Locations Co., Ltd.",
     "address": "1F, No. 123, Chenggong 2rd Street Zhube City Hsinchu TW 302 "
@@ -130165,6 +130260,11 @@
     "address": "5300 Kings Island Drive Mason Ohio US 45040 "
   },
   {
+    "prefix": "7C6AD7",
+    "vendor": "New H3C Technologies Co., Ltd",
+    "address": "466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+  },
+  {
     "prefix": "7C6ADB",
     "vendor": "SafeTone Technology Co.,Ltd",
     "address": "Room 323,ZhuouJi Plaza,No.16 AnDe Road,East District, Beijing  CN 100011 "
@@ -130672,7 +130772,7 @@
   {
     "prefix": "7CA7B0",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "7CA85D",
@@ -132868,6 +132968,11 @@
     "prefix": "809B20",
     "vendor": "Intel Corporate",
     "address": "Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
+  },
+  {
+    "prefix": "809B31",
+    "vendor": "XIN LINK INTERNAITONAL CO LIMITED",
+    "address": "Room 902, 9/F, ONE MIDTOWN, 11 Hoi Shing Road, Tsuen Wan, New Territories, Hong Kong HONGKONG  CN 999077 "
   },
   {
     "prefix": "809D65",
@@ -135722,7 +135827,7 @@
   {
     "prefix": "84FC14",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "84FCAC",
@@ -135848,6 +135953,11 @@
     "prefix": "880AA3",
     "vendor": "Juniper Networks",
     "address": "1133 Innovation Way Sunnyvale CA US 94089 "
+  },
+  {
+    "prefix": "880ABD",
+    "vendor": "Wuhan Nexphoton Technology Co.,Ltd",
+    "address": "Room 312, 3rd Floor, Area C, Guanggu Innovation Industrial Park (Yunke Town),No. 22, Gaoxin 4th Road, East Lake High-Tech Development Zone,Wuhan City, Hubei Province, P.R.China Wuhan Hubei CN 430070 "
   },
   {
     "prefix": "880CE0",
@@ -136382,7 +136492,7 @@
   {
     "prefix": "88492D",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "884A18",
@@ -138318,6 +138428,11 @@
     "prefix": "8C37B7",
     "vendor": "Hosin Global Electronics Co.,Ltd",
     "address": "Rm 2501, Bldg 2, Shenzhen Next Generation Industrial Park, No.136 Zhongkang Rd, Futian Dist Shenzhen  CN 518000 "
+  },
+  {
+    "prefix": "8C3957",
+    "vendor": "Telink Micro LLC",
+    "address": "2975 Scott Blvd #120 Santa Clara CA US 95054 "
   },
   {
     "prefix": "8C395C",
@@ -140335,6 +140450,11 @@
     "address": " 400 West Cesar Chavez Austin TX US 78701 "
   },
   {
+    "prefix": "901F94",
+    "vendor": "TP-Link Systems Inc.",
+    "address": "10 Mauchly  Irvine CA US 92618 "
+  },
+  {
     "prefix": "90203A",
     "vendor": "BYD Precision Manufacture Co.,Ltd",
     "address": "Building 23#，NO.3009 BYD Road，Pingshan Shenzhen Guangdong CN 518118 "
@@ -141663,6 +141783,11 @@
     "prefix": "90B21F",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
+    "prefix": "90B339",
+    "vendor": "Espressif Inc.",
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "90B4DD",
@@ -144502,7 +144627,7 @@
   {
     "prefix": "9803CF",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "9803D8",
@@ -144543,6 +144668,11 @@
     "prefix": "980802",
     "vendor": "ORBIS BV",
     "address": "de Regge 32 Dronten  NL 8253PG "
+  },
+  {
+    "prefix": "980818",
+    "vendor": "AltoBeam Inc.",
+    "address": "B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
   },
   {
     "prefix": "9809CF",
@@ -145378,6 +145508,11 @@
     "prefix": "98751A",
     "vendor": "Huawei Device Co., Ltd.",
     "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+  },
+  {
+    "prefix": "987552",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "address": "#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
   },
   {
     "prefix": "987596",
@@ -147665,6 +147800,11 @@
     "address": "123456 Noida Uttar Pradesh IN 201301 "
   },
   {
+    "prefix": "9C8FA9",
+    "vendor": "Genexis B.V.",
+    "address": "Lodewijkstraat 1A Eindhoven  NL 5652AC "
+  },
+  {
     "prefix": "9C9019",
     "vendor": "Beyless",
     "address": "#725,42,Changeop-ro, Sujeong-gu Seongnam-si Gyeonggi-do KR 13449 "
@@ -149907,7 +150047,7 @@
   {
     "prefix": "A09F10",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "A09F7A",
@@ -156232,7 +156372,7 @@
   {
     "prefix": "ACA213",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO 268，Fuqian Rd,Jutang Community shenzhen guangdong CN 518110 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "ACA22C",
@@ -159902,7 +160042,7 @@
   {
     "prefix": "B46DC2",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "B46E08",
@@ -163470,6 +163610,11 @@
     "address": "Braeuhausgasse 37 Vienna Vienna AT 1050 "
   },
   {
+    "prefix": "BC2492",
+    "vendor": "New H3C Technologies Co., Ltd",
+    "address": "466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+  },
+  {
     "prefix": "BC25E0",
     "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -165333,6 +165478,11 @@
     "prefix": "C00925",
     "vendor": "FN-LINK TECHNOLOGY Ltd.",
     "address": "No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China Changsha Hunan CN 410329 "
+  },
+  {
+    "prefix": "C00ACA",
+    "vendor": "SafeSquare GmbH",
+    "address": "Am Graben 2-6 Radevormwald  DE 42477 "
   },
   {
     "prefix": "C00D7E",
@@ -167732,7 +167882,7 @@
   {
     "prefix": "C43CB0",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "C43CEA",
@@ -168610,6 +168760,11 @@
     "address": "South Lake Drive Newport Gwent GB NP10 8AS "
   },
   {
+    "prefix": "C49E7E",
+    "vendor": "Espressif Inc.",
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
+  },
+  {
     "prefix": "C49F4C",
     "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -168948,6 +169103,11 @@
     "prefix": "C4CAD9",
     "vendor": "Hangzhou H3C Technologies Co., Limited",
     "address": "310 Liuhe Road, Zhijiang Science Park Hangzhou Zhejiang,  CN 310053 "
+  },
+  {
+    "prefix": "C4CB33",
+    "vendor": "Garmin International",
+    "address": "1200 E. 151st St Olathe KS US 66062 "
   },
   {
     "prefix": "C4CB54",
@@ -171175,6 +171335,11 @@
     "address": "11445 Compaq Center Drive Houston TX US 77070 "
   },
   {
+    "prefix": "C8DA29",
+    "vendor": "Espressif Systems (Singapore) Pte. Ltd",
+    "address": "1 FUSIONOPOLIS VIEW #07-02 ECLIPSE Singapore  SG 138577 "
+  },
+  {
     "prefix": "C8DB26",
     "vendor": "Logitech",
     "address": "7700 Gateway Blvd Newark CA US 94560 "
@@ -171467,7 +171632,7 @@
   {
     "prefix": "C8FE0F",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "C8FE30",
@@ -172342,7 +172507,7 @@
   {
     "prefix": "CC641A",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "CC64A6",
@@ -172378,6 +172543,11 @@
     "prefix": "CC68B6",
     "vendor": "TP-Link Systems Inc",
     "address": "5 Peters Canyon Rd Suit 300 Irvine CA US 92606 "
+  },
+  {
+    "prefix": "CC68C7",
+    "vendor": "Espressif Inc.",
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
   },
   {
     "prefix": "CC68E0",
@@ -179855,6 +180025,11 @@
     "address": "C/Principe de Vergara, 55. 3ª planta Madrid  ES 28006 "
   },
   {
+    "prefix": "D8EDA8",
+    "vendor": "Xiaomi Communications Co Ltd",
+    "address": "#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+  },
+  {
     "prefix": "D8EE42",
     "vendor": "Sichuan Tianyi Comheart Telecom Co.,LTD",
     "address": "No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
@@ -183442,7 +183617,7 @@
   {
     "prefix": "E0B94D",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "E0B98A",
@@ -184553,6 +184728,11 @@
     "prefix": "E44389",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
+  },
+  {
+    "prefix": "E443CF",
+    "vendor": "TP-Link Systems Inc.",
+    "address": "10 Mauchly  Irvine CA US 92618 "
   },
   {
     "prefix": "E444E5",
@@ -188642,7 +188822,7 @@
   {
     "prefix": "EC3DFD",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "EC3E09",
@@ -191682,7 +191862,7 @@
   {
     "prefix": "F0C814",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "F0C850",
@@ -192088,6 +192268,11 @@
     "prefix": "F0F7FC",
     "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
+    "prefix": "F0F832",
+    "vendor": "Google, Inc.",
+    "address": "1600 Amphitheatre Parkway Mountain View CA US 94043 "
   },
   {
     "prefix": "F0F842",
@@ -196505,6 +196690,11 @@
     "address": "1 Infinite Loop Cupertino CA US 95014 "
   },
   {
+    "prefix": "F8F6B7",
+    "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
+    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+  },
+  {
     "prefix": "F8F7B9",
     "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -196887,7 +197077,7 @@
   {
     "prefix": "FC23CD",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "FC2422",
@@ -197032,7 +197222,7 @@
   {
     "prefix": "FC376D",
     "vendor": "SHENZHEN BILIAN ELECTRONIC CO.，LTD",
-    "address": "NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+    "address": "Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District, Shenzhen City Guangdong Province CN 518000 "
   },
   {
     "prefix": "FC386A",
