@@ -5490,6 +5490,12 @@
     "exception": false
   },
   {
+    "suffix": "cyb.ge",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "edu.ge",
     "type": "ICANN",
     "wildcard": false,
@@ -5502,7 +5508,19 @@
     "exception": false
   },
   {
+    "suffix": "llc.ge",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "net.ge",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "online.ge",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -5521,6 +5539,12 @@
   },
   {
     "suffix": "school.ge",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "tnx.ge",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -6762,7 +6786,19 @@
     "exception": false
   },
   {
+    "suffix": "aero.in",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "ai.in",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "alumni.in",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -6972,6 +7008,12 @@
     "exception": false
   },
   {
+    "suffix": "school.in",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "travel.in",
     "type": "ICANN",
     "wildcard": false,
@@ -6979,6 +7021,12 @@
   },
   {
     "suffix": "tv.in",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "ub.in",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -7548,12 +7596,6 @@
     "exception": false
   },
   {
-    "suffix": "trentino.it",
-    "type": "ICANN",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "trentino-a-adige.it",
     "type": "ICANN",
     "wildcard": false,
@@ -7674,12 +7716,6 @@
     "exception": false
   },
   {
-    "suffix": "trentinosudtirol.it",
-    "type": "ICANN",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "trentinosüdtirol.it",
     "type": "ICANN",
     "wildcard": false,
@@ -7765,12 +7801,6 @@
   },
   {
     "suffix": "vald-aosta.it",
-    "type": "ICANN",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "valdaosta.it",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -7981,12 +8011,6 @@
   },
   {
     "suffix": "aq.it",
-    "type": "ICANN",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "aquila.it",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -9330,6 +9354,24 @@
     "exception": false
   },
   {
+    "suffix": "su.it",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "sud-sardegna.it",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "sudsardegna.it",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "südtirol.it",
     "type": "ICANN",
     "wildcard": false,
@@ -9450,6 +9492,12 @@
     "exception": false
   },
   {
+    "suffix": "trentino.it",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "trento.it",
     "type": "ICANN",
     "wildcard": false,
@@ -9553,6 +9601,12 @@
   },
   {
     "suffix": "verbania.it",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "verbano-cusio-ossola.it",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -22818,7 +22872,25 @@
     "exception": false
   },
   {
+    "suffix": "gielda.no",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "herad.no",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "idrett.no",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kommune.no",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -22836,6 +22908,24 @@
     "exception": false
   },
   {
+    "suffix": "suohkan.no",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "tjielte.no",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "uenorge.no",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "vgs.no",
     "type": "ICANN",
     "wildcard": false,
@@ -22843,18 +22933,6 @@
   },
   {
     "suffix": "dep.no",
-    "type": "ICANN",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "herad.no",
-    "type": "ICANN",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "kommune.no",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -23670,7 +23748,7 @@
     "exception": false
   },
   {
-    "suffix": "audnedaln.no",
+    "suffix": "audnedal.no",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -24336,12 +24414,6 @@
     "exception": false
   },
   {
-    "suffix": "frei.no",
-    "type": "ICANN",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "frogn.no",
     "type": "ICANN",
     "wildcard": false,
@@ -24637,6 +24709,12 @@
   },
   {
     "suffix": "hamaroy.no",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "hamarøy.no",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -24961,6 +25039,12 @@
   },
   {
     "suffix": "karlsoy.no",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "karlsøy.no",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -26094,6 +26178,12 @@
     "exception": false
   },
   {
+    "suffix": "re.no",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "rendalen.no",
     "type": "ICANN",
     "wildcard": false,
@@ -27031,6 +27121,12 @@
   },
   {
     "suffix": "ullensvang.no",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "ulstein.no",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -30673,12 +30769,6 @@
   },
   {
     "suffix": "tj",
-    "type": "ICANN",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "ac.tj",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -40794,6 +40884,12 @@
     "exception": false
   },
   {
+    "suffix": "web",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "webcam",
     "type": "ICANN",
     "wildcard": false,
@@ -41679,12 +41775,6 @@
     "suffix": "cpserver.com",
     "type": "private",
     "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "*.on-acorn.io",
-    "type": "private",
-    "wildcard": true,
     "exception": false
   },
   {
@@ -47616,24 +47706,6 @@
     "exception": false
   },
   {
-    "suffix": "uk0.bigv.io",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "dh.bytemark.co.uk",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "vm.bytemark.co.uk",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "cafjs.com",
     "type": "private",
     "wildcard": false,
@@ -48330,6 +48402,24 @@
     "exception": false
   },
   {
+    "suffix": "sch.ac",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "dev.cv",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "store.cv",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "codeberg.page",
     "type": "private",
     "wildcard": false,
@@ -48531,12 +48621,6 @@
     "suffix": "realm.cz",
     "type": "private",
     "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "*.cryptonomic.net",
-    "type": "private",
-    "wildcard": true,
     "exception": false
   },
   {
@@ -48775,18 +48859,6 @@
   },
   {
     "suffix": "dedyn.io",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "deta.app",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "deta.dev",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -51570,12 +51642,6 @@
     "exception": false
   },
   {
-    "suffix": "onfabrica.com",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "fspages.org",
     "type": "private",
     "wildcard": false,
@@ -53988,18 +54054,6 @@
     "exception": false
   },
   {
-    "suffix": "biz.at",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "info.at",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "info.cx",
     "type": "private",
     "wildcard": false,
@@ -54277,6 +54331,24 @@
   },
   {
     "suffix": "ipifony.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "home64.de",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "ipv64.de",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "ipv64.net",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -57708,6 +57780,12 @@
     "exception": false
   },
   {
+    "suffix": "playcode.site",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "pley.games",
     "type": "private",
     "wildcard": false,
@@ -57805,12 +57883,6 @@
   },
   {
     "suffix": "dev.project-study.com",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "protonet.io",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -58339,12 +58411,6 @@
   },
   {
     "suffix": "devices.resinstaging.io",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "hzc.io",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -59256,6 +59322,12 @@
     "exception": false
   },
   {
+    "suffix": "mygov.scot",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "scrysec.com",
     "type": "private",
     "wildcard": false,
@@ -59856,12 +59928,6 @@
     "exception": false
   },
   {
-    "suffix": "api.stdlib.com",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "statichost.page",
     "type": "private",
     "wildcard": false,
@@ -59941,12 +60007,6 @@
   },
   {
     "suffix": "storebase.store",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "storj.farm",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -61171,6 +61231,12 @@
   },
   {
     "suffix": "js.wpenginepowered.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "grok.me",
     "type": "private",
     "wildcard": false,
     "exception": false
