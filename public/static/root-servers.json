@@ -12931,7 +12931,7 @@
     "type": "Global",
     "instances": 1,
     "ipv4": true,
-    "ipv6": false,
+    "ipv6": true,
     "latitude": 25.277669,
     "longitude": 51.528746
   },
