@@ -72800,6 +72800,11 @@
     "address": "6021 Innovation Blvd Shakopee MN US 55379 "
   },
   {
+    "prefix": "103B54",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
     "prefix": "103B59",
     "vendor": "Samsung Electronics Co.,Ltd",
     "address": "#94-1,Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
@@ -74515,6 +74520,11 @@
     "address": "8000 Foothills Blvd. Roseville CA US 95747 "
   },
   {
+    "prefix": "140338",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
     "prefix": "140467",
     "vendor": "SNK Technologies Co.,Ltd.",
     "address": "#1001, Byuksan Sunyoung Technopia, A-dong, 13 Ojeongongeop-gil, Uiwang-si, Gyeonggi-do KR 16072 "
@@ -75448,6 +75458,11 @@
     "prefix": "1475E5",
     "vendor": "ELMAX Srl",
     "address": "Via dei Parietai, 2 Molfetta BA IT 70056 "
+  },
+  {
+    "prefix": "147649",
+    "vendor": "Hewlett Packard Enterprise",
+    "address": "6280 America Center Dr San Jose CA US 95002 "
   },
   {
     "prefix": "147740",
@@ -78850,6 +78865,11 @@
     "address": "445 Hoes Lane Piscataway NJ US 08554 "
   },
   {
+    "prefix": "1C2226",
+    "vendor": "Cisco Systems, Inc",
+    "address": "500 Terry A. Francois Blvd San Francisco  US 94158 "
+  },
+  {
     "prefix": "1C2285",
     "vendor": "Serrature Meroni SpA",
     "address": "Via Valsorda INVERIGO CO IT 22044 "
@@ -79713,6 +79733,11 @@
     "prefix": "1C8464",
     "vendor": "FORMOSA WIRELESS COMMUNICATION CORP.",
     "address": "11F., No.3-2, Yuanqu St., Nangang Dist.,  Taipei City TW 115 "
+  },
+  {
+    "prefix": "1C84A6",
+    "vendor": "Cisco Systems, Inc",
+    "address": "500 Terry A. Francois Blvd San Francisco  US 94158 "
   },
   {
     "prefix": "1C860B",
@@ -80968,6 +80993,11 @@
     "prefix": "202BDA",
     "vendor": "IEEE Registration Authority",
     "address": "445 Hoes Lane Piscataway NJ US 08554 "
+  },
+  {
+    "prefix": "202C05",
+    "vendor": "ZHEJIANG DAHUA ZHILIAN CO.,LTD",
+    "address": "No.28, Dongqiao Road, Dongzhou Street, Fuyang District, Hangzhou, P.R. China HANGZHOU  CN 311400 "
   },
   {
     "prefix": "202CB7",
@@ -86248,6 +86278,11 @@
     "prefix": "28C01B",
     "vendor": "Shenzhen Skyworth Digital  Technology  CO., Ltd",
     "address": "4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
+  },
+  {
+    "prefix": "28C039",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
   },
   {
     "prefix": "28C0DA",
@@ -92320,6 +92355,11 @@
     "address": "Nikolaeva str., 11, 602 Novosibirsk  RU 630090 "
   },
   {
+    "prefix": "3491F0",
+    "vendor": "DJI BAIWANG TECHNOLOGY CO LTD",
+    "address": "Room 101, Building 12, Baiwangxin Industrial Park, 1002 Songbai Road, Sunshine Community, Xili Street Shenzhen Guangdong CN 518057 "
+  },
+  {
     "prefix": "3492C2",
     "vendor": "Square Route Co., Ltd.",
     "address": "Area-Shinagawa 13F, 1-9-36, Konan, Minato-ku Tokyo Tokyo JP 108-0075 "
@@ -92505,6 +92545,11 @@
     "address": "170 West Tasman Drive San Jose CA US 95134 "
   },
   {
+    "prefix": "34A8A0",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
     "prefix": "34A8DB",
     "vendor": "SenArch ApS",
     "address": "C/O DTU Science Park Diplomvej 372, 1. Kgs Lyngby Copenhagen DK 2800 "
@@ -92548,6 +92593,11 @@
     "prefix": "34AC11",
     "vendor": "China Mobile Group Device Co.,Ltd.",
     "address": "32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
+  },
+  {
+    "prefix": "34AC2F",
+    "vendor": "zte corporation",
+    "address": "12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
   },
   {
     "prefix": "34AD61",
@@ -93173,6 +93223,11 @@
     "prefix": "34EFB6",
     "vendor": "Edgecore Networks Corporation",
     "address": "1 Creation RD 3. Hsinchu  TW 30077 "
+  },
+  {
+    "prefix": "34EFD7",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
   },
   {
     "prefix": "34F015",
@@ -94988,6 +95043,11 @@
     "prefix": "38C9A9",
     "vendor": "SMART High Reliability Solutions, Inc.",
     "address": "1325 N Fiesta Blvd., #101 Gilbert AZ US 85233 "
+  },
+  {
+    "prefix": "38C9B1",
+    "vendor": "zte corporation",
+    "address": "12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
   },
   {
     "prefix": "38CA73",
@@ -100035,6 +100095,11 @@
     "address": "No.1,Jen Ai Road Hsinchu Industrial Park, Hukou Hsinchu Taiwan ROC. TW 30352  "
   },
   {
+    "prefix": "442D49",
+    "vendor": "Extreme Networks, Inc.",
+    "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
+  },
+  {
     "prefix": "44303F",
     "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -101485,6 +101550,11 @@
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
   },
   {
+    "prefix": "44D7B7",
+    "vendor": "eero inc.",
+    "address": "660 3rd Street  San Francisco CA US 94107 "
+  },
+  {
     "prefix": "44D832",
     "vendor": "AzureWave Technology Inc.",
     "address": "8F., No. 94, Baozhong Rd., Xindian Taipei  TW 231 "
@@ -101518,6 +101588,11 @@
     "prefix": "44DB60",
     "vendor": "Nanjing Baihezhengliu Technology Co., Ltd",
     "address": "Science and technology innovation center, Shiqiu street, Lishui District Nanjing Jiangsu CN 211222 "
+  },
+  {
+    "prefix": "44DBBE",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
   },
   {
     "prefix": "44DBD2",
@@ -102143,6 +102218,11 @@
     "prefix": "482FD7",
     "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
+    "prefix": "483106",
+    "vendor": "NVIDIA Corporation",
+    "address": "2701 San Tomas Expressway Santa Clara CA US 95050 "
   },
   {
     "prefix": "483133",
@@ -103893,6 +103973,11 @@
     "prefix": "4C034F",
     "vendor": "Intel Corporate",
     "address": "Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+  },
+  {
+    "prefix": "4C0573",
+    "vendor": "MOKA GLOBAL LIMITED",
+    "address": "5th Floor Building 22E 22 Science Park East Avenue Hong Kong Science Park Shatin NT Hong Kong  HK 999077 "
   },
   {
     "prefix": "4C0617",
@@ -107105,6 +107190,11 @@
     "address": "Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
   },
   {
+    "prefix": "507C90",
+    "vendor": "Huami (Shenzhen) Information Technology Co., Ltd",
+    "address": "401, Building B, Phase II, Science and Technology Building, No. 1057 Nanhai Avenue, Shekou, Yanshan Community, Zhaoshang Street, Nanshan District Shenzhen CN 51867 "
+  },
+  {
     "prefix": "507D02",
     "vendor": "BIODIT",
     "address": "Calle Gustave Eiffel 3 Paterna Valencia ES 46980 "
@@ -109483,6 +109573,11 @@
     "prefix": "54A31B",
     "vendor": "Shenzhen Linkworld Technology Co,.LTD",
     "address": "Room 667-675 , sixth floor , Shenzhen Guangdong CN 518055 "
+  },
+  {
+    "prefix": "54A356",
+    "vendor": "Annapurna labs",
+    "address": "Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
   },
   {
     "prefix": "54A3FA",
@@ -114440,6 +114535,11 @@
     "address": "5F., No. 20, Guanqian Road, Zhongzheng District Taipei City  TW 100007 "
   },
   {
+    "prefix": "601F56",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
     "prefix": "602101",
     "vendor": "GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD",
     "address": "NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
@@ -119168,6 +119268,11 @@
     "prefix": "685811",
     "vendor": "Fiberhome Telecommunication Technologies Co.,LTD",
     "address": "No.5 DongXin Road Wuhan Hubei CN 430074 "
+  },
+  {
+    "prefix": "685892",
+    "vendor": "NXP Semiconductors Taiwan Ltd.",
+    "address": "No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan Nanzi Dist. Kaohsiung TW 811643 "
   },
   {
     "prefix": "6858A0",
@@ -127530,6 +127635,11 @@
     "address": "Elektroniikkatie 10 Oulu  FI 90570 "
   },
   {
+    "prefix": "782F02",
+    "vendor": "Honor Device Co., Ltd.",
+    "address": "Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
+  },
+  {
     "prefix": "782F17",
     "vendor": "Xlab Co.,Ltd",
     "address": "#401 4F, Achasan-ro, Seongdong-gu SEOUL  KR 04793 "
@@ -131380,6 +131490,11 @@
     "address": "1133 Innovation Way Sunnyvale CA US 94089 "
   },
   {
+    "prefix": "7CE4A1",
+    "vendor": "IEEE Registration Authority",
+    "address": "445 Hoes Lane Piscataway NJ US 08554 "
+  },
+  {
     "prefix": "7CE4AA",
     "vendor": "Private",
     "address": ""
@@ -134270,6 +134385,11 @@
     "address": "12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
   },
   {
+    "prefix": "843CFC",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
     "prefix": "843DC6",
     "vendor": "Cisco Systems, Inc",
     "address": "80 West Tasman Drive San Jose CA US 94568 "
@@ -134730,6 +134850,11 @@
     "address": "181 Wuchang Avenue Hangzhou Zhejiang CN 310023 "
   },
   {
+    "prefix": "847D7E",
+    "vendor": "Cisco Systems, Inc",
+    "address": "500 Terry A. Francois Blvd San Francisco  US 94158 "
+  },
+  {
     "prefix": "847E40",
     "vendor": "Texas Instruments",
     "address": "12500 TI Boulevard, MS 8723 Dallas TX US 75243 "
@@ -135058,6 +135183,11 @@
     "prefix": "84A329",
     "vendor": "Arcadyan Corporation",
     "address": "No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
+  },
+  {
+    "prefix": "84A34B",
+    "vendor": "Barrot Technology Co.,Ltd.",
+    "address": "A1009,Block A,Jia Hua Building,No.9 Shangdi 3rd Street,Haidian District,Beijing beijing beijing CN 100000 "
   },
   {
     "prefix": "84A3B5",
@@ -137445,6 +137575,11 @@
     "address": "#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
   },
   {
+    "prefix": "88B9B8",
+    "vendor": "NXP Semiconductors Taiwan Ltd.",
+    "address": "No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan Nanzi Dist. Kaohsiung TW 811643 "
+  },
+  {
     "prefix": "88BA74",
     "vendor": "Silicon Laboratories",
     "address": " 400 West Cesar Chavez Austin TX US 78701 "
@@ -137543,6 +137678,11 @@
     "prefix": "88C397",
     "vendor": "Beijing Xiaomi Mobile Software Co., Ltd",
     "address": "The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
+  },
+  {
+    "prefix": "88C3B2",
+    "vendor": "ROTEK LLC",
+    "address": "Room B 16/F Eubank Plaza 9 Chiu Lung Street, Central Hong Kong Hong Kong  HK 999077 "
   },
   {
     "prefix": "88C3B3",
@@ -141925,6 +142065,11 @@
     "address": "440 N Wolfe Rd Sunnyvale CA US 94085 "
   },
   {
+    "prefix": "90C97E",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
     "prefix": "90C99B",
     "vendor": "Tesorion Nederland B.V.",
     "address": "Auke Vleerstraat 6-D Enschede  NL 7521 PG "
@@ -142308,6 +142453,11 @@
     "prefix": "90F4C1",
     "vendor": "Rand McNally",
     "address": "9855 Woods Drive Skokie IL US 60077 "
+  },
+  {
+    "prefix": "90F510",
+    "vendor": "Technologie Optic.ca Inc.",
+    "address": "1-2871 Star Saint-Hubert Quebec CA J3Y3W5 "
   },
   {
     "prefix": "90F644",
@@ -143185,6 +143335,11 @@
     "address": "1 Infinite Loop Cupertino CA US 95014 "
   },
   {
+    "prefix": "945DBF",
+    "vendor": "Nokia Solutions and Networks India Private Limited",
+    "address": "Plot 45, Fathima Nagar, Nemilicherry Chennai Tamilnadu IN 600044 "
+  },
+  {
     "prefix": "945F34",
     "vendor": "Renesas Electronics (Penang) Sdn. Bhd.",
     "address": "Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
@@ -143383,6 +143538,11 @@
     "prefix": "9481A4",
     "vendor": "Azuray Technologies",
     "address": "7470 SW Bridgeport Rd Durham OR US 97224 "
+  },
+  {
+    "prefix": "9482B2",
+    "vendor": "GL Intelligence",
+    "address": "10400 Eaton PL, Ste 215  Fairfax VA US 22030 "
   },
   {
     "prefix": "9483C4",
@@ -147165,6 +147325,11 @@
     "address": "10 Evergreen Dr Bozeman MT US 59715 "
   },
   {
+    "prefix": "9C4DC2",
+    "vendor": "Cisco Systems, Inc",
+    "address": "500 Terry A. Francois Blvd San Francisco  US 94158 "
+  },
+  {
     "prefix": "9C4E20",
     "vendor": "Cisco Systems, Inc",
     "address": "80 West Tasman Drive San Jose CA US 94568 "
@@ -147658,6 +147823,11 @@
     "prefix": "9C7F81",
     "vendor": "SHENZHEN FAST TECHNOLOGIES CO.,LTD",
     "address": "Room 202,Building No.5,Section 30,No.2 of Kefa Road,Nanshan District,Shenzhen,P.R.China Shenzhen Guangdong CN 518057 "
+  },
+  {
+    "prefix": "9C803D",
+    "vendor": "TCT mobile ltd",
+    "address": "No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
   },
   {
     "prefix": "9C807D",
@@ -148413,6 +148583,11 @@
     "prefix": "9CDC71",
     "vendor": "Hewlett Packard Enterprise ",
     "address": "8000 Foothills Blvd. Roseville CA US 95747 "
+  },
+  {
+    "prefix": "9CDC99",
+    "vendor": "Extreme Networks, Inc.",
+    "address": "2121 RDU Center Drive  Morrisville NC US 27560 "
   },
   {
     "prefix": "9CDD1F",
@@ -151293,6 +151468,11 @@
     "prefix": "A4373E",
     "vendor": "Huawei Device Co., Ltd.",
     "address": "No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+  },
+  {
+    "prefix": "A437E6",
+    "vendor": "Murata Manufacturing Co., Ltd.",
+    "address": "1-10-1, Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 "
   },
   {
     "prefix": "A43831",
@@ -160825,6 +161005,11 @@
     "address": "116000 Sunrise Valley Dr Suite 210 Reston VA US 20190 "
   },
   {
+    "prefix": "B4D1F6",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
     "prefix": "B4D286",
     "vendor": "Telechips, Inc.",
     "address": "19F~23F,Luther Bldg.42, Olympic-ro 35da-gil, Songpa-gu, Seoul Seoul KR 05510 "
@@ -161298,6 +161483,11 @@
     "prefix": "B80BDA",
     "vendor": "GD Midea Air-Conditioning Equipment Co.,Ltd.",
     "address": "Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311 "
+  },
+  {
+    "prefix": "B80C68",
+    "vendor": "Honor Device Co., Ltd.",
+    "address": "Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
   },
   {
     "prefix": "B80E1D",
@@ -167870,6 +168060,11 @@
     "address": "#28, 2333 18th Ave NE Calgary Alberta CA T2E 8T6 "
   },
   {
+    "prefix": "C43AA5",
+    "vendor": "AzureWave Technology Inc.",
+    "address": "8F., No. 94, Baozhong Rd. New Taipei City Taiwan TW 231 "
+  },
+  {
     "prefix": "C43ABE",
     "vendor": "Sony Corporation",
     "address": "1-7-1 Konan Minato-ku Tokyo  JP 108-0075 "
@@ -171910,6 +172105,11 @@
     "address": "#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
   },
   {
+    "prefix": "CC219D",
+    "vendor": "Shenzhen Wangliantong Intelligent Technology Co.,Lte",
+    "address": "Building B4, Haosan No.1 Industrial Zone, Nanpu Road, Xinqiao Subdistrict, Bao'an District, Shenzhen City ShenZhen GuangDong CN 518000 "
+  },
+  {
     "prefix": "CC2218",
     "vendor": "InnoDigital Co., Ltd.",
     "address": "No.310 3F Kofomo Tower Sungnam-city Kyunggi-do KR 463-825 "
@@ -173270,6 +173470,11 @@
     "address": "P.O. Box 5705 Shreveport LA US 71135 "
   },
   {
+    "prefix": "CCC253",
+    "vendor": "zte corporation",
+    "address": "12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+  },
+  {
     "prefix": "CCC261",
     "vendor": "IEEE Registration Authority",
     "address": "445 Hoes Lane Piscataway NJ US 08554 "
@@ -173843,6 +174048,11 @@
     "prefix": "D0066A",
     "vendor": "Cornelis Networks, Inc.",
     "address": "1500 Liberty Ridge Drive, Suite 100 Wayne PA US 19087 "
+  },
+  {
+    "prefix": "D00674",
+    "vendor": "Siemens Industrial Automation Products Ltd., Chengdu",
+    "address": "Tianyuan Road No.99, High Tech Zone West Chengdu Sichuan Province CN 611731  "
   },
   {
     "prefix": "D00790",
@@ -181840,6 +182050,11 @@
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
   },
   {
+    "prefix": "DCD9A8",
+    "vendor": "Guang zhou Xradio Technology Co., Ltd",
+    "address": "Room 405 ,BuildingB, No. 18 Science Avenue, Guangzhou Science City, Huangpu District Guangzhou Guangdong CN 510700 "
+  },
+  {
     "prefix": "DCD9AE",
     "vendor": "Nokia Shanghai Bell Co., Ltd.",
     "address": "No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai Shanghai   CN 201206 "
@@ -189695,6 +189910,11 @@
     "address": "4855 Peachtree Industrial Blvd, Suite 20 Norcross GA US 30902 "
   },
   {
+    "prefix": "ECA854",
+    "vendor": "EFOCE Technology Co., Ltd.",
+    "address": "Room 1116, Building 2, R&D Building, Yanxiang Zhigu, No. 1801 Jufeng Road, Guangming District Shenzhen Guangdong CN 518107 "
+  },
+  {
     "prefix": "ECA86B",
     "vendor": "Elitegroup Computer Systems Co.,Ltd.",
     "address": "NO. 239, Sec. 2, Ti Ding Blvd. Taipei  TW 11493 "
@@ -192051,7 +192271,7 @@
   },
   {
     "prefix": "F0DB30",
-    "vendor": "Yottabyte",
+    "vendor": "Verge.io",
     "address": "1750 S. Telegraph Road Bloomfield Twp. MI US 48302 "
   },
   {
@@ -192108,6 +192328,11 @@
     "prefix": "F0E77E",
     "vendor": "Samsung Electronics Co.,Ltd",
     "address": "#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+  },
+  {
+    "prefix": "F0EAE1",
+    "vendor": "Nanjing RISC-V Institute Co., Ltd.",
+    "address": "Room 303, Building C, 18 Ningshuang Road  Nanjing Jiangsu CN 210000 "
   },
   {
     "prefix": "F0EBD0",
@@ -192293,6 +192518,11 @@
     "prefix": "F0F9F7",
     "vendor": "IES GmbH & Co. KG",
     "address": "Darmcher Grund 22 Meinerzhagen  DE 58540 "
+  },
+  {
+    "prefix": "F0FABA",
+    "vendor": "NVIDIA Corporation",
+    "address": "2701 San Tomas Expressway Santa Clara CA US 95050 "
   },
   {
     "prefix": "F0FAC7",
@@ -193773,6 +194003,11 @@
     "prefix": "F4B3B1",
     "vendor": "Silicon Laboratories",
     "address": "400 West Cesar Chavez Street Austin TX US 78701 "
+  },
+  {
+    "prefix": "F4B49E",
+    "vendor": "eero inc.",
+    "address": "660 3rd Street  San Francisco CA US 94107 "
   },
   {
     "prefix": "F4B520",
