@@ -15566,6 +15566,18 @@
   {
     "root": "K-root",
     "operator": "RIPE NCC",
+    "country": "EE",
+    "town": "Tallinn",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 59.4372155,
+    "longitude": 24.7453688
+  },
+  {
+    "root": "K-root",
+    "operator": "RIPE NCC",
     "country": "ES",
     "town": "Barcelona",
     "type": "Global",
