@@ -16179,6 +16179,18 @@
     "root": "K-root",
     "operator": "RIPE NCC",
     "country": "KZ",
+    "town": "Almaty",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 43.2363924,
+    "longitude": 76.9457275
+  },
+  {
+    "root": "K-root",
+    "operator": "RIPE NCC",
+    "country": "KZ",
     "town": "Astana",
     "type": "Global",
     "instances": 1,
