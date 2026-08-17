@@ -61062,12 +61062,6 @@
     "exception": false
   },
   {
-    "suffix": "vps.hrsn.au",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "hrsn.dev",
     "type": "private",
     "wildcard": false,
@@ -61075,6 +61069,12 @@
   },
   {
     "suffix": "is-a.dev",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "vps.hrsn.net",
     "type": "private",
     "wildcard": false,
     "exception": false
