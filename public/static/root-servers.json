@@ -12686,6 +12686,18 @@
   {
     "root": "I-root",
     "operator": "Netnod",
+    "country": "IT",
+    "town": "Piacenza",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 45.045004,
+    "longitude": 9.698561
+  },
+  {
+    "root": "I-root",
+    "operator": "Netnod",
     "country": "JP",
     "town": "Tokyo",
     "type": "Global",
