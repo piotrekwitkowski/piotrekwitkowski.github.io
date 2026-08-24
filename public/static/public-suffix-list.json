@@ -41784,12 +41784,6 @@
     "exception": false
   },
   {
-    "suffix": "adaptable.app",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "myaddr.dev",
     "type": "private",
     "wildcard": false,
@@ -41904,9 +41898,9 @@
     "exception": false
   },
   {
-    "suffix": "aivencloud.com",
+    "suffix": "*.aivencloud.com",
     "type": "private",
-    "wildcard": false,
+    "wildcard": true,
     "exception": false
   },
   {
@@ -47154,6 +47148,24 @@
     "exception": false
   },
   {
+    "suffix": "claudeusercontent.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "frame.claudeusercontent.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "*.cursorusercontent.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
     "suffix": "apigee.io",
     "type": "private",
     "wildcard": false,
@@ -48421,6 +48433,18 @@
   },
   {
     "suffix": "codeberg.page",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "codepen.app",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "codepen.dev",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -53700,6 +53724,12 @@
     "exception": false
   },
   {
+    "suffix": "here.now",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "herokuapp.com",
     "type": "private",
     "wildcard": false,
@@ -54265,6 +54295,12 @@
   },
   {
     "suffix": "botdash.xyz",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "online-server.cloud",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -59299,6 +59335,24 @@
   },
   {
     "suffix": "dedibox.fr",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "scw.site",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "ams.scw.site",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "waw.scw.site",
     "type": "private",
     "wildcard": false,
     "exception": false
