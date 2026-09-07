@@ -2220,6 +2220,12 @@
     "exception": false
   },
   {
+    "suffix": "ia.bo",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "indigena.bo",
     "type": "ICANN",
     "wildcard": false,
@@ -29238,6 +29244,12 @@
     "exception": false
   },
   {
+    "suffix": "ac.pr",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "biz.pr",
     "type": "ICANN",
     "wildcard": false,
@@ -29251,6 +29263,12 @@
   },
   {
     "suffix": "edu.pr",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "est.pr",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -29293,18 +29311,6 @@
   },
   {
     "suffix": "pro.pr",
-    "type": "ICANN",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "ac.pr",
-    "type": "ICANN",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "est.pr",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -47730,6 +47736,12 @@
     "exception": false
   },
   {
+    "suffix": "canva-code.cn",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "my.canvasite.cn",
     "type": "private",
     "wildcard": false,
@@ -48957,6 +48969,12 @@
     "suffix": "*.raw.icp1.io",
     "type": "private",
     "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "opencloud.me",
+    "type": "private",
+    "wildcard": false,
     "exception": false
   },
   {
@@ -54672,18 +54690,6 @@
     "exception": false
   },
   {
-    "suffix": "demo.datacenter.fi",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "paas.datacenter.fi",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "jele.host",
     "type": "private",
     "wildcard": false,
@@ -55167,6 +55173,18 @@
     "suffix": "on-vapor.com",
     "type": "private",
     "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "*.eth.limo",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.eth.link",
+    "type": "private",
+    "wildcard": true,
     "exception": false
   },
   {
@@ -55999,6 +56017,438 @@
   },
   {
     "suffix": "azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "australiacentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "australiacentral2-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "australiaeast-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "australiasoutheast-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "austriaeast-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "belgiumcentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "brazilsouth-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "brazilsoutheast-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "canadacentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "canadaeast-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "centralindia-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "centralus-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "centraluseuap-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "chilecentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "denmarkeast-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "eastasia-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "eastasiastage-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "eastus-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "eastus2-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "eastus2euap-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "eastus3-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "francecentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "francesouth-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "germanynorth-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "germanywestcentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "indiasouthcentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "indonesiacentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "israelcentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "israelnorthwest-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "italynorth-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "japaneast-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "japanwest-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "jioindiacentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "jioindiawest-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "koreacentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "koreasouth-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "malaysiawest-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "mexicocentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "newzealandnorth-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "northcentralus-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "northcentralusstage-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "northeastus5-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "northeurope-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "norwayeast-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "norwaywest-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "*.p.azurewebsites.net",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "polandcentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "qatarcentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "southafricanorth-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "southafricawest-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "southcentralus-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "southcentralus2-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "southeastasia-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "southeastus5-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "southindia-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "spaincentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "swedencentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "swedensouth-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "switzerlandnorth-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "switzerlandwest-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "taiwannorth-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "taiwannorthwest-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "uaecentral-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "uaenorth-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "uksouth-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "ukwest-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "westcentralus-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "westeurope-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "westindia-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "westus-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "westus2-01.azurewebsites.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "westus3-01.azurewebsites.net",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -58494,6 +58944,18 @@
     "exception": false
   },
   {
+    "suffix": "rocketpreview.app",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "*.builtwithrocket.new",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
     "suffix": "rocky.page",
     "type": "private",
     "wildcard": false,
@@ -60912,6 +61374,12 @@
     "exception": false
   },
   {
+    "suffix": "tmp.now",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "vercel.run",
     "type": "private",
     "wildcard": false,
@@ -61303,24 +61771,6 @@
   },
   {
     "suffix": "half.host",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "xnbay.com",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "u2.xnbay.com",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "u2-local.xnbay.com",
     "type": "private",
     "wildcard": false,
     "exception": false
